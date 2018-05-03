@@ -1,0 +1,393 @@
+---
+title: "Curriculum Vitae"
+author: "Kenneth Tyler Wilcox"
+email: kwilcox3@nd.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: "svm-latex-cv.tex"
+  html_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12 pt
+geometry: margin = 1in
+github: ktw5691
+jobtitle: Graduate Student, University of Notre Dame
+linkcolor: blue
+fontawesome: yes
+phone: 315 209 7252
+address: 1326 Longfellow Ave · South Bend, IN 46615
+updated: yes
+urlcolor: blue
+web: ktylerwilcox.netlify.com
+---
+
+# Education
+
+*University of Notre Dame*, Notre Dame, IN
+
+Ph.D. Quantitative Psychology \hfill expected 05/2022
+
+*Rochester Institute of Technology*, Rochester, NY
+
+M.S. Applied Statistics \hfill 2017
+
+*Thesis*: Bayesian hidden topic Markov models
+
+B.S. Psychology \hfill 2013
+
+# Grants and Awards
+
+**University of Notre Dame** \hfill 2017--present
+
+\hangindent = 2em
+\hangafter = -1
+University Presidential Fellowship
+
+**Upstate Chapters of the American Statistical Association** \hfill 2016
+
+\hangindent = 2em
+\hangafter = -1
+Honorable Mention for Oral Presentation Based on Methodology and Theory
+
+**Rochester Institute of Technology Center for Quality and Applied Statistics**
+\hfill 2015
+
+\hangindent = 2em
+\hangafter = -1
+John D. and Rachel E. Hromi Endowed Scholarship
+
+**Association for Psychological Science Student Caucus** \hfill 2014
+
+\hangindent = 2em
+\hangafter = -1
+Travel Assistance Award ($200)
+
+**Rochester Institute of Technology College of Liberal Arts**
+
+\hangindent = 2em
+\hangafter = -1
+Outstanding Undergraduate Scholarship Award \hfill 2013
+
+\hangindent = 2em
+\hangafter = -1
+Student Research Fund ($72) \hfill 2013
+
+\hangindent = 2em
+\hangafter = -1
+Kearse Award for Excellence in Writing \hfill 2012
+
+# Teaching Experience
+
+*Rochester Institute of Technology*
+
+**Teaching Assistant**, School of Mathematical Sciences \hfill
+08/2016--05/2017
+
+\hangindent = 2em
+\hangafter = -2
+Courses: Elements of Statistical Theory (graduate course), Principles of
+Statistical Data Mining (graduate course)
+
+**Recitation Instructor**, School of Mathematical Sciences \hfill
+08/2016--12/2016
+
+\hangindent = 2em
+\hangafter = -1
+Course: Elements of Statistical Theory (graduate course)
+
+**Tutor**, Academic Support Center \hfill 09/2010--05/2013, 10/2014--05/2017
+
+\hangindent = 2em
+\hangafter = -3
+Courses: Calculus, Multivariate Calculus, Linear Algebra, Differential
+Equations, University Physics, Probability, Statistics, Regression Analysis,
+Design of Experiments, Stochastic Processes
+
+**Recitation Instructor**, School of Mathematical Sciences \hfill
+09/2015--12/2015
+
+\hangindent = 2em
+\hangafter = -1
+Course: Elements of Statistical Theory (graduate course)
+
+**Teaching Assistant**, Center for Quality and Applied Statistics \hfill
+01/2015--12/2015
+
+\hangindent = 2em
+\hangafter = -2
+Courses: Statistical Software (graduate course), Probability and Statistics II
+for Engineers
+
+**Instructor**, Academic Support Center \hfill 10/2014--12/2015
+
+\hangindent = 2em
+\hangafter = -1
+Course: Critical Mathematical Skills
+
+**Tutor**, Arthur O. Eve Higher Education Opportunity Program \hfill
+07/2012--08/2012
+
+\hangindent = 2em
+\hangafter = -1
+Courses: Pre-Calculus, Algebra
+
+# Research Experience
+
+*Rochester Institute of Technology*, Rochester, NY
+
+**Statistician**, Department of Psychology \hfill 02/2016--present
+
+\hangindent = 2em
+\hangafter = -1
+Research collaborator: Caroline M. DeLong
+
+**Statistician**, Department of Service Systems \hfill 05/2017--07/2017
+
+\hangindent = 2em
+\hangafter = -1
+Research collaborators: Malarvizhi Hirudayaraj, Martin Anselm
+
+**Research Assistant**, Department of Psychology \hfill 03/2012--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+Research adviser: Caroline M. DeLong
+
+**Research Assistant**, Department of Psychology \hfill 11/2011--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+Research adviser: John Edlund
+
+*SUNY Upstate Medical University*, Syracuse, NY
+
+**Research Analyst**, Department of Psychiatry and Behavioral Sciences \hfill
+06/2013--08/2013
+
+\hangindent = 2em
+\hangafter = -1
+Research adviser: John Manring
+
+**Research Intern**, Department of Neurosurgery \hfill 07/2011--09/2011
+
+\hangindent = 2em
+\hangafter = -1
+Research advisers: John Manring, Satish Krishnamurthy
+
+# Employment
+
+*Soleo Communications*, Data Scientist \hfill 01/2016--08/2016
+
+# Publications
+
+## Journal Articles
+
+\hangindent = 2em
+\hangafter = 1
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
+perception in African penguins (*Spheniscus demersus*).
+*Proceedings of Meetings on Acoustics*, 31(1). doi:10.1121/2.0000773
+
+\hangindent = 2em
+\hangafter = 1
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
+perception in African penguins (*Spheniscus demersus*).
+*The Journal of the Acoustical Society of America*, 142(4), 2503--2503.
+doi:10.1121/1.5014142
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
+large number discrimination in goldfish (*Carassius auratus*) with extensive
+training. *Behavioural Processes*, 141, 172-183. doi:10.1016/j.beproc.2016.11.011
+
+\hangindent = 2em
+\hangafter = 1
+Edlund, J.E., Nichols, A. L., Okdie, B. M., Guadagno, R. E., Eno, C. A., Heider,
+J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., & **Wilcox,
+K. T.** (2014). The prevalence and prevention of crosstalk: A
+multi-institutional study. *The Journal of Social Psychology*, 154(3), 181--185.
+doi:10.1080/00224545.2013.872596
+
+## Manuscripts in Preparation
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** & Fokoué, E. P. A Bayesian hidden topic Markov model for
+latent linguistic structure. Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. Visual discrimination
+for geometric and complex 2D shapes in goldfish (*Carassius auratus*).
+Manuscript in preparation.
+
+# Presentations
+
+## Invited Seminars
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2017, March). Text mining with a Bayesian hidden topic
+Markov model. Talk presented at the Rochester Institute of Technology Applied
+Statistics Graduate Seminar, Rochester, NY.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, October). Training North
+American river otters (*Lontra canadensis*) to discriminate among objects.
+Poster presented at the Seneca Park Zoo, Rochester, NY.
+
+## Peer-Reviewed Conference Presentations
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2018, July). A Bayesian hidden topic Markov model for latent
+linguistic structure. Paper accepted for presentation at the 2018 International
+Meeting of the Psychometric Society, New York City, New York.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Gardner, K., Rachfal, H., Morrison, E., & **Wilcox, K. T.**
+Visual discrimination of rotated 3D objects in goldfish (*Carassius auratus*).
+(2018, April). Paper presented at the 25th Annual International Conference on
+Comparative Cognition, Melbourne Beach, Florida.
+
+\hangindent = 2em
+\hangafter = 1
+Morrison, E., DeLong, C. M., Wright, C., Gardner, K., Rachfal, H., Gamble, M.,
+**Wilcox, K. T.**, Frye, D., Thorner, H., Fobe, I., & Dami, J (2018, April).
+North American river otters (*Lontra canadensis*) use shape and color to
+discriminate between 2D objects. Poster presented at the 25th Annual
+International Conference on Comparative Cognition, Melbourne Beach, Florida.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Fellner, W., Harley, H. E., Fobe, I., **Wilcox, K. T.**,
+Gardner, K., & Odell. K. (2017, November). Visual discrimination of rotated 2D
+objects in a bottlenose dolphin (*Tursiops truncatus*) and goldfish
+(*Carassius auratus*). Paper presented at the Fall Meeting of
+the Comparative Cognition Society, Vancouver, British Columbia, Canada.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2017, April). Text mining with a Bayesian hidden topic Markov
+model. Paper presented at the Sixth Annual Joint Conference of the Upstate
+Chapters of the American Statistical Association, Buffalo, NY.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Fobe, I., **Wilcox, K. T.**, & O'Leary, T. (2017, April). Visual
+discrimination of rotated 2D objects in goldfish (*Carassius auratus*). Paper
+presented at the 24th Annual International Conference on Comparative Cognition,
+Melbourne, FL.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2016, April). An introduction to ensemble methods for machine
+learning. Talk presented at the Fifth Annual Joint Conference of the Upstate
+Chapters of the American Statistical Association, Buffalo, NY.
+doi:10.13140/RG.2.2.12009.90726
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, & DeLong, C. M. (2014, May). Mindfulness meditation and
+relaxation differentially improve mindfulness and affect, not emotional memory.
+Poster presented at the 26th Association for Psychological Science Annual
+Convention, San Francisco, CA.
+
+\hangindent = 2em
+\hangafter = 1
+Nichols, A. L., Edlund, J. E., Okdie, B. M., Guadagno, R. E., Eno, C. A.,
+Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., &
+**Wilcox, K. T.** (2013, November). Predicting and preventing participant
+crosstalk: A multi-institutional investigation. Paper presented at the Second
+International Conference on Emerging Research Paradigms in Business and Social
+Sciences, Dubai, UAE.
+
+## Student Symposium Presentations
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, August). Training North
+American river otters (*Lontra canadensis*) to discriminate among objects.
+Poster presented at the RIT Undergraduate Research and Innovation Symposium,
+Rochester, NY.
+
+# Institute Service
+
+*Rochester Institute of Technology*
+
+**Department of Applied Statistics** \hfill 01/2015--05/2017
+
+\hangindent = 2em
+\hangafter = -1
+**Secretary**, Data Science Research Group
+
+**Summer Mathematics Institute (Rochester, NY)** \hfill 06/2016
+
+\hangindent = 2em
+\hangafter = -2
+Panel member for a panel discussion titled "On the Five Pillars of Statistical
+Science: Methodology, Theory, Computation, Applications and Data"
+
+**Psychology Department** \hfill 03/2012--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+**Secretary**, Psychology Student Society
+
+**College of Liberal Arts** \hfill 09/2012--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+**Student Representative**, Eisenhart Nomination Committee
+
+**First Year Enrichment Program** \hfill 09/2010--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+**Peer Mentor**
+
+# Professional Associations
+
+American Psychological Association
+
+American Psychological Association Division 5
+
+American Statistical Association
+
+Association for Psychological Science
+
+Institute of Mathematical Statistics
+
+Psychometric Society
+
+# Professional Activities
+
+*Association for Psychological Science*
+
+**Association for Psychological Science Student Caucus** \hfill 12/2016, 12/2017
+
+\hangindent = 2em
+\hangafter = -2
+Reviewer, APSSC Student Grant Competition
+
+*Upstate Chapters of the American Statistical Association*
+
+**Sixth Annual Joint Conference (Buffalo, NY)** \hfill 04/2017
+
+\hangindent = 2em
+\hangafter = -1
+Chair for a session titled "Applications of Statistics in Environmental Studies"
+
+\hangindent = 2em
+\hangafter = -1
+Judge for the 2017 Pre-College Statistical Data Analysis Competition
+
+**Fifth Annual Joint Conference (Buffalo, NY)** \hfill 04/2016
+
+\hangindent = 2em
+\hangafter = -1
+Judge for the 2016 Pre-College Statistical Data Analysis Competition
