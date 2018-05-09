@@ -214,6 +214,11 @@ doi:10.1080/00224545.2013.872596
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M.,Fobe, I., O’Leary, T., & **Kenneth Tyler Wilcox**.
+Visual perception of rotated 2D objects in goldfish (*Carassius auratus*). Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.** & Fokoué, E. P. A Bayesian hidden topic Markov model for
 latent linguistic structure. Manuscript in preparation.
 
