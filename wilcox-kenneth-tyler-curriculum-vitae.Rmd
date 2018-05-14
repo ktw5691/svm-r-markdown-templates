@@ -210,6 +210,14 @@ K. T.** (2014). The prevalence and prevention of crosstalk: A
 multi-institutional study. *The Journal of Social Psychology*, 154(3), 181--185.
 doi:10.1080/00224545.2013.872596
 
+## Manuscripts Under Review
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. Visual discrimination
+for geometric and complex 2D shapes in goldfish (*Carassius auratus*).
+Revise and resubmit.
+
 ## Manuscripts in Preparation
 
 \hangindent = 2em
@@ -221,12 +229,6 @@ Visual perception of rotated 2D objects in goldfish (*Carassius auratus*). Manus
 \hangafter = 1
 **Wilcox, K. T.** & Fokoué, E. P. A Bayesian hidden topic Markov model for
 latent linguistic structure. Manuscript in preparation.
-
-\hangindent = 2em
-\hangafter = 1
-DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. Visual discrimination
-for geometric and complex 2D shapes in goldfish (*Carassius auratus*).
-Manuscript in preparation.
 
 # Presentations
 
