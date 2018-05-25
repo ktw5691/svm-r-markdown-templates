@@ -214,6 +214,12 @@ doi:10.1080/00224545.2013.872596
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M.,Fobe, I., O’Leary, T., & **Kenneth Tyler Wilcox**.
+Visual perception of rotated 2D objects in goldfish (*Carassius auratus*).
+Manuscript under review.
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. Visual discrimination
 for geometric and complex 2D shapes in goldfish (*Carassius auratus*).
 Revise and resubmit.
@@ -222,13 +228,12 @@ Revise and resubmit.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M.,Fobe, I., O’Leary, T., & **Kenneth Tyler Wilcox**.
-Visual perception of rotated 2D objects in goldfish (*Carassius auratus*). Manuscript in preparation.
-
-\hangindent = 2em
-\hangafter = 1
 **Wilcox, K. T.** & Fokoué, E. P. A Bayesian hidden topic Markov model for
 latent linguistic structure. Manuscript in preparation.
+
+DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. North
+American river otters (*Lontra canadensis*) discriminate between 2D objects
+varying in shape and color. Manuscript in preparation.
 
 # Presentations
 
