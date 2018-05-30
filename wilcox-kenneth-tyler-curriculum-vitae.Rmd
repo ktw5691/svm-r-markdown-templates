@@ -329,6 +329,14 @@ Rochester, NY.
 
 # Institute Service
 
+*University of Notre Dame*
+
+**Department of Psychology** \hfill 08/2018--present
+
+\hangindent = 2em
+\hangafter = -1
+**Quantitative Area Representative**, Graduate Advisory Committee
+
 *Rochester Institute of Technology*
 
 **Department of Applied Statistics** \hfill 01/2015--05/2017
