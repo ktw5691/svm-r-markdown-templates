@@ -185,6 +185,12 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
+North American river otters (*Lontra canadensis*) discriminate between 2D
+objects varying in shape and color. Accepted.
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. (2018). Visual
 discrimination for geometric and complex 2D shapes in goldfish
 (*Carassius auratus*). Accepted.
@@ -206,7 +212,7 @@ doi:10.1121/1.5014142
 \hangafter = 1
 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
 large number discrimination in goldfish (*Carassius auratus*) with extensive
-training. *Behavioural Processes*, 141, 172-183. doi:10.1016/j.beproc.2016.11.011
+training. *Behavioural Processes*, 141(P2), 172-183. doi:10.1016/j.beproc.2016.11.011
 
 \hangindent = 2em
 \hangafter = 1
@@ -221,7 +227,7 @@ doi:10.1080/00224545.2013.872596
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M.,Fobe, I., O’Leary, T., & **Wilcox, K. T.**. Visual perception of
-rotated 2D objects in goldfish (*Carassius auratus*). Manuscript under review.
+rotated 2D objects in goldfish (*Carassius auratus*). Revise and resubmit.
 
 ## Manuscripts in Preparation
 
