@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 12 pt
 geometry: margin = 1in
 github: ktw5691
-jobtitle: Graduate Student, University of Notre Dame
+jobtitle: Graduate Research Assistant, University of Notre Dame
 linkcolor: blue
 fontawesome: yes
 phone: 315 209 7252
@@ -257,8 +257,8 @@ Poster presented at the Seneca Park Zoo, Rochester, NY.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2018, July). A Bayesian hidden topic Markov model for latent
-linguistic structure. Paper accepted for presentation at the 2018 International
-Meeting of the Psychometric Society, New York City, New York.
+linguistic structure. Paper presented at the 2018 International Meeting of the
+Psychometric Society, New York City, New York. doi: 10.13140/RG.2.2.35465.54888
 
 \hangindent = 2em
 \hangafter = 1
