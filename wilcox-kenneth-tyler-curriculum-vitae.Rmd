@@ -11,12 +11,12 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 12 pt
 geometry: margin = 1in
-github: ktw5691
+#github: ktw5691
 jobtitle: Graduate Research Assistant, University of Notre Dame
 linkcolor: blue
 fontawesome: yes
 phone: 315 209 7252
-address: 1326 Longfellow Ave · South Bend, IN 46615
+address: 390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46615
 updated: yes
 urlcolor: blue
 web: ktylerwilcox.netlify.com
@@ -191,42 +191,46 @@ objects varying in shape and color. Accepted.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Keller, A., **Wilcox, K. T.**, & Keenan, S. (2018). Visual
+DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, & Keenan, S. A. (2018). Visual
 discrimination for geometric and complex 2D shapes in goldfish
-(*Carassius auratus*). Accepted.
-
-\hangindent = 2em
-\hangafter = 1
-Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
-perception in African penguins (*Spheniscus demersus*).
-*Proceedings of Meetings on Acoustics*, 31(1). doi:10.1121/2.0000773
-
-\hangindent = 2em
-\hangafter = 1
-Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
-perception in African penguins (*Spheniscus demersus*).
-*The Journal of the Acoustical Society of America*, 142(4), 2503--2503.
-doi:10.1121/1.5014142
+(*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-320.
+doi:10.26451/abc.05.03.05.2018
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
 large number discrimination in goldfish (*Carassius auratus*) with extensive
-training. *Behavioural Processes*, 141(P2), 172-183. doi:10.1016/j.beproc.2016.11.011
+training. *Behavioural Processes*, *141*(P2), 172-183. doi:10.1016/j.beproc.2016.11.011
 
 \hangindent = 2em
 \hangafter = 1
 Edlund, J.E., Nichols, A. L., Okdie, B. M., Guadagno, R. E., Eno, C. A., Heider,
 J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., & **Wilcox,
 K. T.** (2014). The prevalence and prevention of crosstalk: A
-multi-institutional study. *The Journal of Social Psychology*, 154(3), 181--185.
+multi-institutional study. *The Journal of Social Psychology*, *154*(3),
+181-185.
 doi:10.1080/00224545.2013.872596
+
+## Conference Proceedings
+
+\hangindent = 2em
+\hangafter = 1
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
+perception in African penguins (*Spheniscus demersus*).
+*Proceedings of Meetings on Acoustics*, *31*(1). doi:10.1121/2.0000773
+
+\hangindent = 2em
+\hangafter = 1
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
+perception in African penguins (*Spheniscus demersus*).
+*The Journal of the Acoustical Society of America*, *142*(4), 2503.
+doi:10.1121/1.5014142
 
 ## Manuscripts Under Review
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M.,Fobe, I., O’Leary, T., & **Wilcox, K. T.**. Visual perception of
+DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.**. Visual perception of
 rotated 2D objects in goldfish (*Carassius auratus*). Revise and resubmit.
 
 ## Manuscripts in Preparation
@@ -258,7 +262,7 @@ Poster presented at the Seneca Park Zoo, Rochester, NY.
 \hangafter = 1
 **Wilcox, K. T.** (2018, July). A Bayesian hidden topic Markov model for latent
 linguistic structure. Paper presented at the 2018 International Meeting of the
-Psychometric Society, New York City, New York. doi: 10.13140/RG.2.2.35465.54888
+Psychometric Society, New York City, New York.
 
 \hangindent = 2em
 \hangafter = 1
@@ -301,7 +305,6 @@ Melbourne, FL.
 **Wilcox, K. T.** (2016, April). An introduction to ensemble methods for machine
 learning. Talk presented at the Fifth Annual Joint Conference of the Upstate
 Chapters of the American Statistical Association, Buffalo, NY.
-doi:10.13140/RG.2.2.12009.90726
 
 \hangindent = 2em
 \hangafter = 1
