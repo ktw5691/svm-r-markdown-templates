@@ -191,8 +191,8 @@ objects varying in shape and color. Accepted.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, & Keenan, S. A. (2018). Visual
-discrimination for geometric and complex 2D shapes in goldfish
+DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, Fobe, I., & Keenan, S. A.
+(2018). Visual discrimination for geometric and complex 2D shapes in goldfish
 (*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-320.
 doi:10.26451/abc.05.03.05.2018
 
