@@ -193,14 +193,15 @@ objects varying in shape and color. Accepted.
 \hangafter = 1
 DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, Fobe, I., & Keenan, S. A.
 (2018). Visual discrimination for geometric and complex 2D shapes in goldfish
-(*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-320.
+(*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-319.
 doi:10.26451/abc.05.03.05.2018
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
 large number discrimination in goldfish (*Carassius auratus*) with extensive
-training. *Behavioural Processes*, *141*(P2), 172-183. doi:10.1016/j.beproc.2016.11.011
+training. *Behavioural Processes*, *141*(P2), 172-183.
+doi:10.1016/j.beproc.2016.11.011
 
 \hangindent = 2em
 \hangafter = 1
