@@ -187,7 +187,7 @@ Research advisers: John Manring, Satish Krishnamurthy
 \hangafter = 1
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
 North American river otters (*Lontra canadensis*) discriminate between 2D
-objects varying in shape and color. Accepted.
+objects varying in shape and color. Learning & Behavior.
 
 \hangindent = 2em
 \hangafter = 1
