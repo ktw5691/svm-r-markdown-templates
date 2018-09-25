@@ -188,21 +188,21 @@ Research advisers: John Manring, Satish Krishnamurthy
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
 North American river otters (*Lontra canadensis*) discriminate between 2D
 objects varying in shape and color. Learning & Behavior.
-doi:10.3758/s13420-018-0346-x
+https://doi.org/10.3758/s13420-018-0346-x
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, Fobe, I., & Keenan, S. A.
 (2018). Visual discrimination for geometric and complex 2D shapes in goldfish
 (*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-319.
-doi:10.26451/abc.05.03.05.2018
+https://doi.org/10.26451/abc.05.03.05.2018
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
 large number discrimination in goldfish (*Carassius auratus*) with extensive
 training. *Behavioural Processes*, *141*(P2), 172-183.
-doi:10.1016/j.beproc.2016.11.011
+https://doi.org/10.1016/j.beproc.2016.11.011
 
 \hangindent = 2em
 \hangafter = 1
@@ -210,8 +210,7 @@ Edlund, J.E., Nichols, A. L., Okdie, B. M., Guadagno, R. E., Eno, C. A., Heider,
 J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., & **Wilcox,
 K. T.** (2014). The prevalence and prevention of crosstalk: A
 multi-institutional study. *The Journal of Social Psychology*, *154*(3),
-181-185.
-doi:10.1080/00224545.2013.872596
+181-185. https://doi.org/10.1080/00224545.2013.872596
 
 ## Conference Proceedings
 
@@ -219,14 +218,14 @@ doi:10.1080/00224545.2013.872596
 \hangafter = 1
 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
 perception in African penguins (*Spheniscus demersus*).
-*Proceedings of Meetings on Acoustics*, *31*(1). doi:10.1121/2.0000773
+*Proceedings of Meetings on Acoustics*, *31*(1). https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
 perception in African penguins (*Spheniscus demersus*).
 *The Journal of the Acoustical Society of America*, *142*(4), 2503.
-doi:10.1121/1.5014142
+https://doi.org/10.1121/1.5014142
 
 ## Manuscripts Under Review
 
