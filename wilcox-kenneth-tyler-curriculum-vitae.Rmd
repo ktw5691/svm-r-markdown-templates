@@ -188,6 +188,7 @@ Research advisers: John Manring, Satish Krishnamurthy
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
 North American river otters (*Lontra canadensis*) discriminate between 2D
 objects varying in shape and color. Learning & Behavior.
+doi:10.3758/s13420-018-0346-x
 
 \hangindent = 2em
 \hangafter = 1
@@ -231,7 +232,7 @@ doi:10.1121/1.5014142
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.**. Visual perception of
+DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** Visual perception of
 planar-rotated 2D objects in goldfish (*Carassius auratus*).
 
 ## Manuscripts in Preparation
