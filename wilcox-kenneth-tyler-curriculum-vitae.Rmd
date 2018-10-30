@@ -185,9 +185,15 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** (2018). Visual
+perception of planar-rotated 2D objects in goldfish (*Carassius auratus*).
+*Behavioural Processes*. https://doi.org/10.1016/j.beproc.2018.10.009
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
 North American river otters (*Lontra canadensis*) discriminate between 2D
-objects varying in shape and color. Learning & Behavior.
+objects varying in shape and color. *Learning & Behavior*.
 https://doi.org/10.3758/s13420-018-0346-x
 
 \hangindent = 2em
@@ -218,7 +224,8 @@ multi-institutional study. *The Journal of Social Psychology*, *154*(3),
 \hangafter = 1
 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
 perception in African penguins (*Spheniscus demersus*).
-*Proceedings of Meetings on Acoustics*, *31*(1). https://doi.org/10.1121/2.0000773
+*Proceedings of Meetings on Acoustics*, *31*(1).
+https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
@@ -228,11 +235,6 @@ perception in African penguins (*Spheniscus demersus*).
 https://doi.org/10.1121/1.5014142
 
 ## Manuscripts Under Review
-
-\hangindent = 2em
-\hangafter = 1
-DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** Visual perception of
-planar-rotated 2D objects in goldfish (*Carassius auratus*).
 
 ## Manuscripts in Preparation
 
