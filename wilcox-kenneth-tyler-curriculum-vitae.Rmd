@@ -187,7 +187,8 @@ Research advisers: John Manring, Satish Krishnamurthy
 \hangafter = 1
 DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** (2018). Visual
 perception of planar-rotated 2D objects in goldfish (*Carassius auratus*).
-*Behavioural Processes*. https://doi.org/10.1016/j.beproc.2018.10.009
+*Behavioural Processes*, *157*, 263-278.
+https://doi.org/10.1016/j.beproc.2018.10.009
 
 \hangindent = 2em
 \hangafter = 1
