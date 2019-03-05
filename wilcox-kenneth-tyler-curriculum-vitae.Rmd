@@ -228,13 +228,6 @@ perception in African penguins (*Spheniscus demersus*).
 *Proceedings of Meetings on Acoustics*, *31*(1).
 https://doi.org/10.1121/2.0000773
 
-\hangindent = 2em
-\hangafter = 1
-Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
-perception in African penguins (*Spheniscus demersus*).
-*The Journal of the Acoustical Society of America*, *142*(4), 2503.
-https://doi.org/10.1121/1.5014142
-
 ## Manuscripts Under Review
 
 ## Manuscripts in Preparation
@@ -269,6 +262,13 @@ Poster presented at the Seneca Park Zoo, Rochester, NY.
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Morrison, E., Wegman, J., Rachfal, T., & **Wilcox, K. T.** (2019,
+April). Visual perception of rotated 2D color representations of familiar 3D
+objects in goldfish (*Carassius auratus*). Paper to be presented at the 26th
+Annual International Conference on Comparative Cognition, Melbourne, FL.
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.** (2018, July). A Bayesian hidden topic Markov model for latent
 linguistic structure. Paper presented at the 2018 International Meeting of the
 Psychometric Society, New York City, New York.
@@ -287,6 +287,13 @@ Morrison, E., DeLong, C. M., Wright, C., Gardner, K., Rachfal, H., Gamble, M.,
 North American river otters (*Lontra canadensis*) use shape and color to
 discriminate between 2D objects. Poster presented at the 25th Annual
 International Conference on Comparative Cognition, Melbourne Beach, Florida.
+
+\hangindent = 2em
+\hangafter = 1
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017, December). An exploration of
+rhythm perception in African penguins (*Spheniscus demersus*). Paper presented
+at the 174th Meeting of the Acoustical Society of America, New Orleans,
+Louisiana.
 
 \hangindent = 2em
 \hangafter = 1
