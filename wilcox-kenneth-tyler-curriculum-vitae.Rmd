@@ -262,6 +262,21 @@ Poster presented at the Seneca Park Zoo, Rochester, NY.
 
 \hangindent = 2em
 \hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. S., & Ammerman, B. A. (2019,
+March). Evaluating personal narratives of interpersonal relationships via text
+mining to predict nonsuicidal self-injury. Paper submitted for presentation at
+the 53rd Annual Convention for the Association for Behavioral and Cognitive
+Therapies, Atlanta, Georgia.
+
+\hangindent = 2em
+\hangafter = 1
+Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, March). A nuanced
+examination of the relationship between social connectedness and suicidal
+ideation. Paper submitted for presentation at the 53rd Annual Convention for the
+Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Rachfal, T., & **Wilcox, K. T.** (2019,
 April). Visual perception of rotated 2D color representations of familiar 3D
 objects in goldfish (*Carassius auratus*). Paper to be presented at the 26th
