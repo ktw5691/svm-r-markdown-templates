@@ -185,17 +185,17 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2019).
+North American river otters (*Lontra canadensis*) discriminate between 2D
+objects varying in shape and color. *Learning & Behavior*, *47*(1), 91-104.
+https://doi.org/10.3758/s13420-018-0346-x
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** (2018). Visual
 perception of planar-rotated 2D objects in goldfish (*Carassius auratus*).
 *Behavioural Processes*, *157*, 263-278.
 https://doi.org/10.1016/j.beproc.2018.10.009
-
-\hangindent = 2em
-\hangafter = 1
-DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2018).
-North American river otters (*Lontra canadensis*) discriminate between 2D
-objects varying in shape and color. *Learning & Behavior*.
-https://doi.org/10.3758/s13420-018-0346-x
 
 \hangindent = 2em
 \hangafter = 1
@@ -235,7 +235,19 @@ https://doi.org/10.1121/2.0000773
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
-modeling: An evaluation of methods and data requirements.
+modeling: Why, how, and when. Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
+mining approach to characterizing interpersonal stress among nonsuicidal
+self-injury. Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
+allocation with covariates: A Bayesian joint regression model of text and
+covariates. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -245,18 +257,6 @@ latent linguistic structure. Manuscript in preparation.
 # Presentations
 
 ## Invited Seminars
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.** (2017, March). Text mining with a Bayesian hidden topic
-Markov model. Talk presented at the Rochester Institute of Technology Applied
-Statistics Graduate Seminar, Rochester, NY.
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, October). Training North
-American river otters (*Lontra canadensis*) to discriminate among objects.
-Poster presented at the Seneca Park Zoo, Rochester, NY.
 
 ## Peer-Reviewed Conference Presentations
 
@@ -423,7 +423,7 @@ Psychometric Society
 
 *Association for Psychological Science*
 
-**Association for Psychological Science Student Caucus** \hfill 12/2016, 12/2017
+**Association for Psychological Science Student Caucus** \hfill 12/2016, 12/2017, 12/2018
 
 \hangindent = 2em
 \hangafter = -2
