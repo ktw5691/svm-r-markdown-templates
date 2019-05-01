@@ -290,15 +290,15 @@ Psychometric Society, New York City, New York.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Gardner, K., Rachfal, H., Morrison, E., & **Wilcox, K. T.**
+DeLong, C. M., Gardner, K., Rachfal, H., Morrison, E., & **Wilcox, K. T.** (2018, April).
 Visual discrimination of rotated 3D objects in goldfish (*Carassius auratus*).
-(2018, April). Paper presented at the 25th Annual International Conference on
-Comparative Cognition, Melbourne Beach, Florida.
+Paper presented at the 25th Annual International Conference on Comparative
+Cognition, Melbourne Beach, Florida.
 
 \hangindent = 2em
 \hangafter = 1
 Morrison, E., DeLong, C. M., Wright, C., Gardner, K., Rachfal, H., Gamble, M.,
-**Wilcox, K. T.**, Frye, D., Thorner, H., Fobe, I., & Dami, J (2018, April).
+**Wilcox, K. T.**, Frye, D., Thorner, H., Fobe, I., & Dami, J. (2018, April).
 North American river otters (*Lontra canadensis*) use shape and color to
 discriminate between 2D objects. Poster presented at the 25th Annual
 International Conference on Comparative Cognition, Melbourne Beach, Florida.
