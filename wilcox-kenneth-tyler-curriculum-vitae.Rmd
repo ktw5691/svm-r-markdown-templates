@@ -230,12 +230,12 @@ https://doi.org/10.1121/2.0000773
 
 ## Manuscripts Under Review
 
-## Manuscripts in Preparation
-
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
-modeling: Why, how, and when. Manuscript in preparation.
+modeling: Why, how, and when. Manuscript submitted for publication.
+
+## Manuscripts in Preparation
 
 \hangindent = 2em
 \hangafter = 1
