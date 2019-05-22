@@ -286,8 +286,8 @@ Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
 \hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Rachfal, T., & **Wilcox, K. T.** (2019,
 April). Visual perception of rotated 2D color representations of familiar 3D
-objects in goldfish (*Carassius auratus*). Paper to be presented at the 26th
-Annual International Conference on Comparative Cognition, Melbourne, FL.
+objects in goldfish (*Carassius auratus*). Paper presented at the 26th Annual
+International Conference on Comparative Cognition, Melbourne, FL.
 
 \hangindent = 2em
 \hangafter = 1
