@@ -266,7 +266,7 @@ latent linguistic structure. Manuscript in preparation.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2019). Psychtm: Text mining for psychological research
-(Version 2019.2) [Computer software]. Available at
+(Version 2019.3) [Computer software]. Available at
 https://github.com/ktw5691/psychtm/
 
 # Presentations
@@ -278,16 +278,16 @@ https://github.com/ktw5691/psychtm/
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M. S., & Ammerman, B. A. (2019,
-March). Evaluating personal narratives of interpersonal relationships via text
-mining to predict nonsuicidal self-injury. Paper submitted for presentation at
+November). Evaluating personal narratives of interpersonal relationships via text
+mining to predict nonsuicidal self-injury. Paper accepted for presentation at
 the 53rd Annual Convention for the Association for Behavioral and Cognitive
 Therapies, Atlanta, Georgia.
 
 \hangindent = 2em
 \hangafter = 1
-Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, March). A nuanced
+Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, November). A nuanced
 examination of the relationship between social connectedness and suicidal
-ideation. Paper submitted for presentation at the 53rd Annual Convention for the
+ideation. Paper accepted for presentation at the 53rd Annual Convention for the
 Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
 
 \hangindent = 2em
