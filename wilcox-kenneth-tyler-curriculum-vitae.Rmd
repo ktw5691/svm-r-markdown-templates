@@ -1,40 +1,50 @@
 ---
-title: "Curriculum Vitae"
-author: "Kenneth Tyler Wilcox"
-email: kwilcox3@nd.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: "svm-latex-cv.tex"
-  html_document: default
+    template: svm-r-markdown-templates-master/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: "Kenneth Tyler Wilcox"
+
+jobtitle: "Graduate Research Assistant, University of Notre Dame"
+address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
+fontawesome: yes
+email: kwilcox3@nd.edu
+# github: ktw5691
+phone: "315 209 7252"
+web: ktylerwilcox.netlify.com
+updated: yes
+
+# keywords: Quantitative psychology, statistics, data mining # Does not seem to do anything
+
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 12 pt
-geometry: margin = 1in
-#github: ktw5691
-jobtitle: Graduate Research Assistant, University of Notre Dame
 linkcolor: blue
-fontawesome: yes
-phone: 315 209 7252
-address: 390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46615
-updated: yes
 urlcolor: blue
-web: ktylerwilcox.netlify.com
 ---
 
 # Education
 
 *University of Notre Dame*, Notre Dame, IN
 
-Ph.D. Quantitative Psychology \hfill expected 05/2022
+Ph.D. Quantitative Psychology \hfill 2022 (expected)
 
 *Rochester Institute of Technology*, Rochester, NY
 
 M.S. Applied Statistics \hfill 2017
 
-*Thesis*: Bayesian hidden topic Markov models
+\hangindent = 2em
+\hangafter = -1
+Thesis: Bayesian hidden topic Markov models
 
 B.S. Psychology \hfill 2013
+
+# Employment
+
+*Soleo Communications*, Data Scientist \hfill 2016
 
 # Grants and Awards
 
@@ -78,6 +88,15 @@ Student Research Fund ($72) \hfill 2013
 Kearse Award for Excellence in Writing \hfill 2012
 
 # Teaching Experience
+
+*University of Notre Dame*
+
+**Teaching Assistant**, Department of Psychology \hfill
+08/2019--12/2019
+
+\hangindent = 2em
+\hangafter = -2
+Courses: Quantitative Methods I (graduate course)
 
 *Rochester Institute of Technology*
 
@@ -175,10 +194,6 @@ Research adviser: John Manring
 \hangafter = -1
 Research advisers: John Manring, Satish Krishnamurthy
 
-# Employment
-
-*Soleo Communications*, Data Scientist \hfill 01/2016--08/2016
-
 # Publications
 
 ## Journal Articles
@@ -272,7 +287,7 @@ latent linguistic structure. Manuscript in preparation.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2019). Psychtm: Text mining for psychological research
-(Version 2019.3) [Computer software]. Available at
+(Version 2019.7) [Computer software]. Available at
 https://github.com/ktw5691/psychtm/
 
 # Presentations
@@ -280,6 +295,10 @@ https://github.com/ktw5691/psychtm/
 ## Invited Seminars
 
 ## Peer-Reviewed Conference Presentations
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2019, October). Bayesian supervised topic modeling with covariates. Poster submitted for presentation at the 17th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Baltimore, Maryland.
 
 \hangindent = 2em
 \hangafter = 1
