@@ -247,16 +247,16 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
-modeling: Why, how, and when. Manuscript submitted for publication.
-
-\hangindent = 2em
-\hangafter = 1
 DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E. Visual
 perception in bottlenose dolphins: Successful recognition of 2D objects rotated
 in the picture and depth planes. Manuscript submitted for publication.
 
 ## Manuscripts in Preparation
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
+modeling: Why, how, and when. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -406,7 +406,7 @@ Rochester, NY.
 
 *University of Notre Dame*
 
-**Department of Psychology** \hfill 08/2018--present
+**Department of Psychology** \hfill 08/2018--07/2019
 
 \hangindent = 2em
 \hangafter = -1
