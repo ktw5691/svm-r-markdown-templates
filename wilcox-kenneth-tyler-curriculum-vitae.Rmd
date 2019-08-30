@@ -42,10 +42,6 @@ Thesis: Bayesian hidden topic Markov models
 
 B.S. Psychology \hfill 2013
 
-# Employment
-
-*Soleo Communications*, Data Scientist \hfill 2016
-
 # Grants and Awards
 
 **University of Notre Dame** \hfill 2017--present
@@ -194,6 +190,10 @@ Research adviser: John Manring
 \hangafter = -1
 Research advisers: John Manring, Satish Krishnamurthy
 
+# Employment
+
+*Soleo Communications*, Data Scientist \hfill 2016
+
 # Publications
 
 ## Journal Articles
@@ -260,12 +260,6 @@ modeling: Why, how, and when. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
-mining approach to characterizing interpersonal stress among nonsuicidal
-self-injury. Manuscript in preparation.
-
-\hangindent = 2em
-\hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
 allocation with covariates: A Bayesian joint regression model of text and
 covariates. Manuscript in preparation.
@@ -276,6 +270,12 @@ Jacobucci, R., Ammerman, B., & **Wilcox, K. T.** The application of machine
 learning for text-based responses to improve suicide risk prediction.
 *Suicide and Life Threatening Behavior*. Manuscript in preparation; invited for
 special issue.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
+mining approach to characterizing interpersonal stress among nonsuicidal
+self-injury. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -291,8 +291,6 @@ latent linguistic structure. Manuscript in preparation.
 https://github.com/ktw5691/psychtm/
 
 # Presentations
-
-## Invited Seminars
 
 ## Peer-Reviewed Conference Presentations
 
@@ -313,7 +311,10 @@ Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2019, October). Bayesian supervised topic modeling with covariates. Poster submitted for presentation at the 17th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Baltimore, Maryland.
+**Wilcox, K. T.** (2019, October). Bayesian supervised topic modeling with
+covariates. Poster accepted for presentation at the 17th Annual Society of
+Multivariate Experimental Psychology Graduate Student Conference, Baltimore,
+Maryland.
 
 \hangindent = 2em
 \hangafter = 1
@@ -392,8 +393,6 @@ Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., &
 crosstalk: A multi-institutional investigation. Paper presented at the Second
 International Conference on Emerging Research Paradigms in Business and Social
 Sciences, Dubai, UAE.
-
-## Student Symposium Presentations
 
 \hangindent = 2em
 \hangafter = 1
