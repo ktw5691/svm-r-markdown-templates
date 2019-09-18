@@ -97,7 +97,7 @@ Courses: Quantitative Methods I (graduate course)
 *Rochester Institute of Technology*
 
 **Teaching Assistant**, School of Mathematical Sciences \hfill
-08/2016--05/2017
+09/2015--05/2017
 
 \hangindent = 2em
 \hangafter = -2
@@ -111,13 +111,6 @@ Statistical Data Mining (graduate course)
 Courses: Calculus, Multivariate Calculus, Linear Algebra, Differential
 Equations, University Physics, Probability, Statistics, Regression Analysis,
 Design of Experiments, Stochastic Processes
-
-**Recitation Instructor**, School of Mathematical Sciences \hfill
-09/2015--12/2015
-
-\hangindent = 2em
-\hangafter = -1
-Course: Elements of Statistical Theory (graduate course)
 
 **Teaching Assistant**, Center for Quality and Applied Statistics \hfill
 01/2015--12/2015
