@@ -200,6 +200,13 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E. (2019)
+Visual perception in bottlenose dolphins: Successful recognition of 2D objects
+rotated in the picture and depth planes. *Journal of Comparative Psychology*.
+Accepted for publication.
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2019).
 North American river otters (*Lontra canadensis*) discriminate between 2D
 objects varying in shape and color. *Learning & Behavior*, *47*(1), 91-104.
@@ -244,12 +251,6 @@ perception in African penguins (*Spheniscus demersus*).
 https://doi.org/10.1121/2.0000773
 
 ## Manuscripts Under Review
-
-\hangindent = 2em
-\hangafter = 1
-DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E. Visual
-perception in bottlenose dolphins: Successful recognition of 2D objects rotated
-in the picture and depth planes. Manuscript submitted for publication.
 
 ## Manuscripts in Preparation
 
