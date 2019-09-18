@@ -104,13 +104,6 @@ Courses: Quantitative Methods I (graduate course)
 Courses: Elements of Statistical Theory (graduate course), Principles of
 Statistical Data Mining (graduate course)
 
-**Recitation Instructor**, School of Mathematical Sciences \hfill
-08/2016--12/2016
-
-\hangindent = 2em
-\hangafter = -1
-Course: Elements of Statistical Theory (graduate course)
-
 **Tutor**, Academic Support Center \hfill 09/2010--05/2013, 10/2014--05/2017
 
 \hangindent = 2em
