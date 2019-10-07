@@ -238,6 +238,12 @@ https://doi.org/10.1121/2.0000773
 
 ## Manuscripts Under Review
 
+\hangindent = 2em
+\hangafter = 1
+Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (Under review). The use of
+text-based responses to improve our understanding and prediction of suicide
+risk. *Suicide and Life-Threatening Behavior*.
+
 ## Manuscripts in Preparation
 
 \hangindent = 2em
@@ -250,13 +256,6 @@ modeling: Why, how, and when. Manuscript in preparation.
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
 allocation with covariates: A Bayesian joint regression model of text and
 covariates. Manuscript in preparation.
-
-\hangindent = 2em
-\hangafter = 1
-Jacobucci, R., Ammerman, B., & **Wilcox, K. T.** The application of machine
-learning for text-based responses to improve suicide risk prediction.
-*Suicide and Life Threatening Behavior*. Manuscript in preparation; invited for
-special issue.
 
 \hangindent = 2em
 \hangafter = 1
