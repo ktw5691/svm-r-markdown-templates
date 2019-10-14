@@ -87,13 +87,13 @@ Student Research Fund ($72) \hfill 2013
 
 \hangindent = 2em
 \hangafter = -1
-Kearse Award for Excellence in Writing \hfill 2012
+Kearse Award for Excellence in Writing ($100) \hfill 2012
 
 # Teaching Experience
 
 *University of Notre Dame*
 
-**Teaching Assistant**, Department of Psychology \hfill
+**Teaching Assistant \& Lab Instructor**, Department of Psychology \hfill
 08/2019--12/2019
 
 \hangindent = 2em
@@ -143,12 +143,6 @@ Courses: Pre-Calculus, Algebra
 
 *Rochester Institute of Technology*, Rochester, NY
 
-**Statistician**, Department of Psychology \hfill 02/2016--present
-
-\hangindent = 2em
-\hangafter = -1
-Research collaborator: Caroline M. DeLong
-
 **Statistician**, Department of Service Systems \hfill 05/2017--07/2017
 
 \hangindent = 2em
@@ -192,10 +186,10 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E. (2019)
-Visual perception in bottlenose dolphins: Successful recognition of 2D objects
-rotated in the picture and depth planes. *Journal of Comparative Psychology*.
-Accepted for publication.
+DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
+(Accepted). Visual perception in bottlenose dolphins: Successful recognition of
+2D objects rotated in the picture and depth planes. *Journal of Comparative
+Psychology*.
 
 \hangindent = 2em
 \hangafter = 1
@@ -304,16 +298,15 @@ Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2019, October). Bayesian supervised topic modeling with
-covariates. Poster accepted for presentation at the 17th Annual Society of
-Multivariate Experimental Psychology Graduate Student Conference, Baltimore,
-Maryland.
+covariates. Poster presented at the 17th Annual Society of Multivariate
+Experimental Psychology Graduate Student Conference, Baltimore, Maryland.
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Rachfal, T., & **Wilcox, K. T.** (2019,
 April). Visual perception of rotated 2D color representations of familiar 3D
 objects in goldfish (*Carassius auratus*). Paper presented at the 26th Annual
-International Conference on Comparative Cognition, Melbourne, FL.
+International Conference on Comparative Cognition, Melbourne, Florida.
 
 \hangindent = 2em
 \hangafter = 1
@@ -362,20 +355,20 @@ Chapters of the American Statistical Association, Buffalo, NY.
 DeLong, C. M., Fobe, I., **Wilcox, K. T.**, & O'Leary, T. (2017, April). Visual
 discrimination of rotated 2D objects in goldfish (*Carassius auratus*). Paper
 presented at the 24th Annual International Conference on Comparative Cognition,
-Melbourne, FL.
+Melbourne, Florida.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2016, April). An introduction to ensemble methods for machine
 learning. Talk presented at the Fifth Annual Joint Conference of the Upstate
-Chapters of the American Statistical Association, Buffalo, NY.
+Chapters of the American Statistical Association, Buffalo, New York.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, & DeLong, C. M. (2014, May). Mindfulness meditation and
 relaxation differentially improve mindfulness and affect, not emotional memory.
 Poster presented at the 26th Association for Psychological Science Annual
-Convention, San Francisco, CA.
+Convention, San Francisco, California.
 
 \hangindent = 2em
 \hangafter = 1
@@ -384,14 +377,14 @@ Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., &
 **Wilcox, K. T.** (2013, November). Predicting and preventing participant
 crosstalk: A multi-institutional investigation. Paper presented at the Second
 International Conference on Emerging Research Paradigms in Business and Social
-Sciences, Dubai, UAE.
+Sciences, Dubai, United Arab Emirates.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, August). Training North
 American river otters (*Lontra canadensis*) to discriminate among objects.
 Poster presented at the RIT Undergraduate Research and Innovation Symposium,
-Rochester, NY.
+Rochester, New York.
 
 # Institute Service
 
