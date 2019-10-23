@@ -193,6 +193,11 @@ Psychology*.
 
 \hangindent = 2em
 \hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic modeling with covariates. *Multivariate Behavioral Research*,
+*55*(1) (Abstract).
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2019).
 North American river otters (*Lontra canadensis*) discriminate between 2D
 objects varying in shape and color. *Learning & Behavior*, *47*(1), 91-104.
