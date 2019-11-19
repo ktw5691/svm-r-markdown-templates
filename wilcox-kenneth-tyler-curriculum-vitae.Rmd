@@ -193,8 +193,9 @@ Psychology*.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic modeling with covariates. *Multivariate Behavioral Research*,
-*55*(1) (Abstract).
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (Accepted). Bayesian supervised topic
+modeling with covariates. *Multivariate Behavioral Research* (Abstract).
+https://doi.org/10.1080/00273171.2019.1695568
 
 \hangindent = 2em
 \hangafter = 1
