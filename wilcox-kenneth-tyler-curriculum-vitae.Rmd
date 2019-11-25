@@ -273,11 +273,6 @@ Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.**. Humans discriminate among
 bottlenose dolphin signature whistles masked by noise: Investigating perceptual
 strategies for anthropogenic noise pollution. Manuscript in preparation.
 
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.** & Fokoué, E. P. A Bayesian hidden topic Markov model for
-latent linguistic structure. Manuscript in preparation.
-
 # Software Development
 
 \hangindent = 2em
@@ -292,18 +287,18 @@ https://github.com/ktw5691/psychtm/
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. S., & Ammerman, B. A. (2019,
-November). Evaluating personal narratives of interpersonal relationships via text
-mining to predict nonsuicidal self-injury. Paper accepted for presentation at
-the 53rd Annual Convention for the Association for Behavioral and Cognitive
-Therapies, Atlanta, Georgia.
+Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, November). A nuanced
+examination of the relationship between social connectedness and suicidal
+ideation. Paper presented at the 53rd Annual Convention for the Association for
+Behavioral and Cognitive Therapies, Atlanta, Georgia.
 
 \hangindent = 2em
 \hangafter = 1
-Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, November). A nuanced
-examination of the relationship between social connectedness and suicidal
-ideation. Paper accepted for presentation at the 53rd Annual Convention for the
-Association for Behavioral and Cognitive Therapies, Atlanta, Georgia.
+**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. S., & Ammerman, B. A. (2019,
+November). Evaluating personal narratives of interpersonal relationships via text
+mining to predict nonsuicidal self-injury. Paper presented at the 53rd Annual
+Convention for the Association for Behavioral and Cognitive Therapies, Atlanta,
+Georgia.
 
 \hangindent = 2em
 \hangafter = 1
@@ -370,7 +365,7 @@ Melbourne, Florida.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2016, April). An introduction to ensemble methods for machine
-learning. Talk presented at the Fifth Annual Joint Conference of the Upstate
+learning. Paper presented at the Fifth Annual Joint Conference of the Upstate
 Chapters of the American Statistical Association, Buffalo, New York.
 
 \hangindent = 2em
