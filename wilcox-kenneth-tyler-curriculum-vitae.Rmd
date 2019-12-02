@@ -246,6 +246,12 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
+Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
+discriminate among bottlenose dolphin signature whistles masked by noise:
+Investigating perceptual strategies for anthropogenic noise pollution.
+
+\hangindent = 2em
+\hangafter = 1
 Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (Under review). The use of
 text-based responses to improve our understanding and prediction of suicide
 risk. *Suicide and Life-Threatening Behavior*.
@@ -268,10 +274,6 @@ covariates. Manuscript in preparation.
 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
 mining approach to characterizing interpersonal stress among nonsuicidal
 self-injury. Manuscript in preparation.
-
-Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.**. Humans discriminate among
-bottlenose dolphin signature whistles masked by noise: Investigating perceptual
-strategies for anthropogenic noise pollution. Manuscript in preparation.
 
 # Software Development
 
