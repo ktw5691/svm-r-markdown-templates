@@ -295,8 +295,8 @@ https://github.com/ktw5691/psychtm/
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Morelli, J., Rachfal, T.,
-& **Wilcox, K. T.**. Visual object categorization in goldfish
-(*Carassius auratus*). Poster submitted for presentation at the 27th Annual
+& **Wilcox, K. T.**. (2020, April). Visual object categorization in goldfish
+(*Carassius auratus*). Poster accepted for presentation at the 27th Annual
 International Conference on Comparative Cognition, Melbourne, Florida.
 
 \hangindent = 2em
