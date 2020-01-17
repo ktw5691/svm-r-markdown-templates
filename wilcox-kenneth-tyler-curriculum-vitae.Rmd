@@ -249,6 +249,7 @@ https://doi.org/10.1121/2.0000773
 Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
 discriminate among bottlenose dolphin signature whistles masked by noise:
 Investigating perceptual strategies for anthropogenic noise pollution.
+*Journal of the Acoustical Society of America*.
 
 \hangindent = 2em
 \hangafter = 1
@@ -256,12 +257,13 @@ Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (Under review). The use of
 text-based responses to improve our understanding and prediction of suicide
 risk. *Suicide and Life-Threatening Behavior*.
 
-## Manuscripts in Preparation
-
 \hangindent = 2em
 \hangafter = 1
 Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (Under
 review). Characterizing the choice to disclose nonsuicidal self-injury.
+*Journal of Clinical Psychology*.
+
+## Manuscripts in Preparation
 
 \hangindent = 2em
 \hangafter = 1
