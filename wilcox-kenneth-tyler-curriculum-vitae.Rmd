@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: "Kenneth Tyler Wilcox"
 
-jobtitle: "Graduate Research Assistant, University of Notre Dame"
+jobtitle: "Graduate Teaching Assistant, University of Notre Dame"
 address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
 fontawesome: yes
 email: kwilcox3@nd.edu
@@ -187,13 +187,13 @@ Research advisers: John Manring, Satish Krishnamurthy
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
-Visual perception in bottlenose dolphins: Successful recognition of 2D objects
-rotated in the picture and depth planes. *Journal of Comparative Psychology*.
-https://doi.org/10.1037/com0000207
+(2019). Visual perception in bottlenose dolphins: Successful recognition of 2D
+objects rotated in the picture and depth planes. *Journal of Comparative
+Psychology*. https://doi.org/10.1037/com0000207
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Bayesian supervised topic
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2019). Bayesian supervised topic
 modeling with covariates. *Multivariate Behavioral Research* (Abstract).
 https://doi.org/10.1080/00273171.2019.1695568
 
@@ -246,10 +246,9 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
-Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
-discriminate among bottlenose dolphin signature whistles masked by noise:
-Investigating perceptual strategies for anthropogenic noise pollution.
-*Journal of the Acoustical Society of America*.
+Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (Under
+review). Characterizing the choice to disclose nonsuicidal self-injury.
+*Journal of Clinical Psychology*.
 
 \hangindent = 2em
 \hangafter = 1
@@ -259,16 +258,23 @@ risk. *Suicide and Life-Threatening Behavior*.
 
 \hangindent = 2em
 \hangafter = 1
-Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (Under
-review). Characterizing the choice to disclose nonsuicidal self-injury.
-*Journal of Clinical Psychology*.
+Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
+discriminate among bottlenose dolphin signature whistles masked by noise:
+Investigating perceptual strategies for anthropogenic noise pollution.
+*Journal of the Acoustical Society of America*.
 
 ## Manuscripts in Preparation
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
-modeling: Why, how, and when. Manuscript in preparation.
+Che, C., **Wilcox, K. T.**, Zhang, Z. Data requirements for latent Dirichlet
+allocation. Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
+mining approach to characterizing interpersonal stress among nonsuicidal
+self-injury. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -278,21 +284,28 @@ covariates. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
-mining approach to characterizing interpersonal stress among nonsuicidal
-self-injury. Manuscript in preparation.
+**Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
+modeling: Why, how, and when. Manuscript in preparation.
 
 # Software Development
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2019). Psychtm: Text mining for psychological research
-(Version 2019.7) [Computer software]. Available at
+**Wilcox, K. T.** (2020). Psychtm: Text mining for psychological research
+(Version 2020.2) [Computer software]. Available at
 https://github.com/ktw5691/psychtm/
 
 # Presentations
 
 ## Peer-Reviewed Conference Presentations
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., Zhang, Z. (2020, May). Modeling relationships
+from themes in text and covariates with an outcome: A Bayesian supervised topic
+model with covariates. Paper submitted for presentation at the Annual Meeting
+of the International Society for Data Science and Analytics, Notre Dame,
+Indiana.
 
 \hangindent = 2em
 \hangafter = 1
@@ -429,8 +442,8 @@ Rochester, New York.
 
 \hangindent = 2em
 \hangafter = -2
-Panel member for a panel discussion titled "On the Five Pillars of Statistical
-Science: Methodology, Theory, Computation, Applications and Data"
+Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory,
+Computation, Applications and Data"
 
 **Psychology Department** \hfill 03/2012--05/2013
 
@@ -478,14 +491,14 @@ Reviewer, APSSC Student Grant Competition
 
 \hangindent = 2em
 \hangafter = -1
-Chair for a session titled "Applications of Statistics in Environmental Studies"
+Session chair, "Applications of Statistics in Environmental Studies"
 
 \hangindent = 2em
 \hangafter = -1
-Judge for the 2017 Pre-College Statistical Data Analysis Competition
+Judge, 2017 Pre-College Statistical Data Analysis Competition
 
 **Fifth Annual Joint Conference (Buffalo, NY)** \hfill 04/2016
 
 \hangindent = 2em
 \hangafter = -1
-Judge for the 2016 Pre-College Statistical Data Analysis Competition
+Judge, 2016 Pre-College Statistical Data Analysis Competition
