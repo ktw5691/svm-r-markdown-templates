@@ -267,8 +267,8 @@ Investigating perceptual strategies for anthropogenic noise pollution.
 
 \hangindent = 2em
 \hangafter = 1
-Che, C., **Wilcox, K. T.**, Zhang, Z. Data requirements for latent Dirichlet
-allocation. Manuscript in preparation.
+Che, C., **Wilcox, K. T.**, & Zhang, Z. Evaluation of the unsupervised latent
+Dirichlet allocation model though simulation. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -301,18 +301,25 @@ https://github.com/ktw5691/psychtm/
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., Zhang, Z. (2020, May). Modeling relationships
-from themes in text and covariates with an outcome: A Bayesian supervised topic
-model with covariates. Paper submitted for presentation at the Annual Meeting
-of the International Society for Data Science and Analytics, Notre Dame,
-Indiana.
+Che, C., **Wilcox, K. T.**, & Zhang, Z. (2020, May). Evaluation of the
+unsupervised latent Dirichlet allocation model though simulation. Paper accepted
+for presentation at the Annual Meeting of the International Society for Data
+Science and Analytics, Notre Dame, Indiana.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Morrison, E., Wegman, J., Morelli, J., Rachfal, T.,
-& **Wilcox, K. T.**. (2020, April). Visual object categorization in goldfish
-(*Carassius auratus*). Poster accepted for presentation at the 27th Annual
-International Conference on Comparative Cognition, Melbourne, Florida.
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, May). Modeling
+relationships from themes in text and covariates with an outcome: A Bayesian
+supervised topic model with covariates. Paper accepted for presentation at the
+Annual Meeting of the International Society for Data Science and Analytics,
+Notre Dame, Indiana.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Morrison, E., Wegman, J., Morelli, J., Rachfal, T., & **Wilcox,
+K. T.**. (2020, April). Visual object categorization in goldfish (*Carassius
+auratus*). Poster accepted for presentation at the 27th Annual International
+Conference on Comparative Cognition, Melbourne, Florida.
 
 \hangindent = 2em
 \hangafter = 1
