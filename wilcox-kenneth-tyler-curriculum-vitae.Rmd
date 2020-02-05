@@ -301,6 +301,13 @@ https://github.com/ktw5691/psychtm/
 
 \hangindent = 2em
 \hangafter = 1
+Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July). A joint modeling
+framework for item response and topic models. Paper submitted for presentation
+at the 2020 International Meeting of the Psychometric Society, College Park,
+Maryland.
+
+\hangindent = 2em
+\hangafter = 1
 Che, C., **Wilcox, K. T.**, & Zhang, Z. (2020, May). Evaluation of the
 unsupervised latent Dirichlet allocation model though simulation. Paper accepted
 for presentation at the Annual Meeting of the International Society for Data
