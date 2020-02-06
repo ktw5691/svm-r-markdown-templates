@@ -186,16 +186,16 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic
+modeling with covariates. *Multivariate Behavioral Research*, *55*(1),
+141 (Abstract). https://doi.org/10.1080/00273171.2019.1695568
+
+\hangindent = 2em
+\hangafter = 1
 DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
 (2019). Visual perception in bottlenose dolphins: Successful recognition of 2D
 objects rotated in the picture and depth planes. *Journal of Comparative
 Psychology*. https://doi.org/10.1037/com0000207
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2019). Bayesian supervised topic
-modeling with covariates. *Multivariate Behavioral Research*, *55*(1),
-141 (Abstract). https://doi.org/10.1080/00273171.2019.1695568
 
 \hangindent = 2em
 \hangafter = 1
