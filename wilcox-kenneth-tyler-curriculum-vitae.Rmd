@@ -2,7 +2,7 @@
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: svm-r-markdown-templates-master/svm-latex-cv.tex
+    template: svm-r-markdown-templates/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "Curriculum Vitae"
@@ -12,8 +12,10 @@ jobtitle: "Graduate Student, University of Notre Dame"
 address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
 fontawesome: yes
 email: kwilcox3@nd.edu
-# github: ktw5691
 phone: "315 209 7252"
+# github: ktw5691
+# osf: "5 digit string here"
+orcid: "0000-0003-3969-0427"
 web: ktylerwilcox.netlify.app
 updated: yes
 
@@ -303,9 +305,8 @@ Evaluations and recommendations. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2020). Psychtm: Text mining for psychological research
-(Version 2020.2) [Computer software]. Available at
-https://github.com/ktw5691/psychtm/
+**Wilcox, K. T.** (2020). *psychtm: Text mining for psychological research*
+(Version 2020.3) [Computer software]. https://github.com/ktw5691/psychtm/
 
 # Presentations
 
