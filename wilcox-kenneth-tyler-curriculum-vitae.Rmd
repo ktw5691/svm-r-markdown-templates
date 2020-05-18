@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: "Kenneth Tyler Wilcox"
 
-jobtitle: "Graduate Teaching Assistant, University of Notre Dame"
+jobtitle: "Graduate Student, University of Notre Dame"
 address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
 fontawesome: yes
 email: kwilcox3@nd.edu
