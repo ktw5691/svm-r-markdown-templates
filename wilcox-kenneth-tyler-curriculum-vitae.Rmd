@@ -14,7 +14,7 @@ fontawesome: yes
 email: kwilcox3@nd.edu
 # github: ktw5691
 phone: "315 209 7252"
-web: ktylerwilcox.netlify.com
+web: ktylerwilcox.netlify.app
 updated: yes
 
 # keywords: Quantitative psychology, statistics, data mining # Does not seem to do anything
@@ -43,6 +43,12 @@ Thesis: Bayesian hidden topic Markov models
 B.S. Psychology \hfill 2013
 
 # Grants and Awards
+
+**University of Notre Dame** \hfill 2020
+
+\hangindent = 2em
+\hangafter = -1
+Graduate Student Union Outstanding Teaching Assistant Award ($300)
 
 **Society of Multivariate and Experimental Psychology** \hfill 2019
 
@@ -186,43 +192,50 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
+Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (in press). The use of
+text-based responses to improve our understanding and prediction of suicide
+risk. *Suicide and Life-Threatening Behavior*.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
+(2020). Visual perception in bottlenose dolphins (*Tursiops truncatus*):
+Successful recognition of 2-D objects rotated in the picture and depth planes.
+*Journal of Comparative Psychology*, *134*(2), 180--196.
+https://doi.org/10.1037/com0000207
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic
 modeling with covariates. *Multivariate Behavioral Research*, *55*(1),
 141 (Abstract). https://doi.org/10.1080/00273171.2019.1695568
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
-(2019). Visual perception in bottlenose dolphins: Successful recognition of 2D
-objects rotated in the picture and depth planes. *Journal of Comparative
-Psychology*. https://doi.org/10.1037/com0000207
-
-\hangindent = 2em
-\hangafter = 1
 DeLong, C. M., Wright, C., Fobe, I., **Wilcox, K. T.**, & Morrison, E. (2019).
 North American river otters (*Lontra canadensis*) discriminate between 2D
-objects varying in shape and color. *Learning & Behavior*, *47*(1), 91-104.
+objects varying in shape and color. *Learning & Behavior*, *47*, 91--104.
 https://doi.org/10.3758/s13420-018-0346-x
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Fobe, I., O’Leary, T., & **Wilcox, K. T.** (2018). Visual
 perception of planar-rotated 2D objects in goldfish (*Carassius auratus*).
-*Behavioural Processes*, *157*, 263-278.
+*Behavioural Processes*, *157*, 263--278.
 https://doi.org/10.1016/j.beproc.2018.10.009
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Keller, A. M., **Wilcox, K. T.**, Fobe, I., & Keenan, S. A.
-(2018). Visual discrimination for geometric and complex 2D shapes in goldfish
-(*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300-319.
+(2018). Visual discrimination of geometric and complex 2D shapes in goldfish
+(*Carassius auratus*). *Animal Behavior and Cognition*, *5*(3), 300--319.
 https://doi.org/10.26451/abc.05.03.05.2018
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and
 large number discrimination in goldfish (*Carassius auratus*) with extensive
-training. *Behavioural Processes*, *141*(P2), 172-183.
+training. *Behavioural Processes*, *141*(P2), 172--183.
 https://doi.org/10.1016/j.beproc.2016.11.011
 
 \hangindent = 2em
@@ -252,12 +265,6 @@ review). Characterizing the choice to disclose nonsuicidal self-injury.
 
 \hangindent = 2em
 \hangafter = 1
-Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (Under review). The use of
-text-based responses to improve our understanding and prediction of suicide
-risk. *Suicide and Life-Threatening Behavior*.
-
-\hangindent = 2em
-\hangafter = 1
 Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
 discriminate among bottlenose dolphin signature whistles masked by noise:
 Investigating perceptual strategies for anthropogenic noise pollution.
@@ -269,6 +276,11 @@ Investigating perceptual strategies for anthropogenic noise pollution.
 \hangafter = 1
 Che, C., **Wilcox, K. T.**, & Zhang, Z. Evaluation of the unsupervised latent
 Dirichlet allocation model though simulation. Manuscript in preparation.
+
+\hangindent = 2em
+\hangafter = 1
+Hong, M., & **Wilcox, K. T.**. A joint modeling framework for item response and
+topic models. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
@@ -284,8 +296,8 @@ covariates. Manuscript in preparation.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** & Wang, L. Integrative data analysis using multilevel
-modeling: Why, how, and when. Manuscript in preparation.
+**Wilcox, K. T.** & Wang, L. Modeling approaches for integrative data analysis:
+Evaluations and recommendations. Manuscript in preparation.
 
 # Software Development
 
@@ -301,145 +313,152 @@ https://github.com/ktw5691/psychtm/
 
 \hangindent = 2em
 \hangafter = 1
-Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July). A joint modeling
-framework for item response and topic models. Paper accepted for presentation
-at the 2020 International Meeting of the Psychometric Society, College Park,
-Maryland.
+Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July 13--17). *A joint modeling
+framework for item response and topic models* [Paper presentation]. 85th Annual
+Meeting of the Psychometric Society, College Park, MD, United States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July). Combining topic
-modeling and regression: Supervised topic modeling with covariates. Paper
-accepted for presentation at the 2020 International Meeting of the Psychometric
-Society, College Park, Maryland.
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July 13--17). *Combining
+topic modeling and regression: Supervised topic modeling with covariates*
+["Spotlight Talk" paper presentation]. 85th Annual Meeting of the Psychometric
+Society, College Park, MD, United States.
 
 \hangindent = 2em
 \hangafter = 1
-Che, C., **Wilcox, K. T.**, & Zhang, Z. (2020, May). Evaluation of the
-unsupervised latent Dirichlet allocation model though simulation. Paper accepted
-for presentation at the Annual Meeting of the International Society for Data
-Science and Analytics, Notre Dame, Indiana.
+Che, C., **Wilcox, K. T.**, & Zhang, Z. (2020, May 26--27). *Evaluation of the
+unsupervised latent Dirichlet allocation model though simulation* [Paper
+presentation]. 2nd Annual Meeting of the International Society for Data Science
+and Analytics, Notre Dame, IN, United States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, May). Modeling
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, May 26--27). *Modeling
 relationships from themes in text and covariates with an outcome: A Bayesian
-supervised topic model with covariates. Paper accepted for presentation at the
-Annual Meeting of the International Society for Data Science and Analytics,
-Notre Dame, Indiana.
+supervised topic model with covariates* [Paper presentation]. 2nd Annual Meeting
+of the International Society for Data Science and Analytics, Notre Dame, IN,
+United States.
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Morelli, J., Rachfal, T., & **Wilcox,
-K. T.**. (2020, April). Visual object categorization in goldfish (*Carassius
-auratus*). Poster accepted for presentation at the 27th Annual International
-Conference on Comparative Cognition, Melbourne, Florida.
+K. T.**. (2020, April 1--4). *Visual object categorization in goldfish (Carassius
+auratus)* [Poster presentation]. 27th Annual International Conference on
+Comparative Cognition, Melbourne, FL, United States. (Conference canceled)
 
 \hangindent = 2em
 \hangafter = 1
-Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, November). A nuanced
-examination of the relationship between social connectedness and suicidal
-ideation. Paper presented at the 53rd Annual Convention for the Association for
-Behavioral and Cognitive Therapies, Atlanta, Georgia.
+Ammerman, B. A., **Wilcox, K. T.**, & Jacobucci, R. (2019, November 21--24). A
+nuanced examination of the relationship between social connectedness and
+suicidal ideation. In B. A. Ammerman & R. Jacobucci (Chairs), *Utilizing text
+mining in clinical research: Novel applications for improving the prediction of
+psychological distress* [Symposium]. 53rd Annual Convention of the Association
+for Behavioral and Cognitive Therapies, Atlanta, GA, United States.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M. S., & Ammerman, B. A. (2019,
-November). Evaluating personal narratives of interpersonal relationships via text
-mining to predict nonsuicidal self-injury. Paper presented at the 53rd Annual
-Convention for the Association for Behavioral and Cognitive Therapies, Atlanta,
-Georgia.
+November 21--24). Evaluating personal narratives of interpersonal relationships
+via text mining to predict nonsuicidal self-injury. In B. A. Ammerman & R.
+Jacobucci (Chairs), *Utilizing text mining in clinical research: Novel
+applications for improving the prediction of psychological distress*
+[Symposium]. 53rd Annual Convention of the Association for Behavioral and
+Cognitive Therapies, Atlanta, GA, United States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2019, October). Bayesian supervised topic modeling with
-covariates. Poster presented at the 17th Annual Society of Multivariate
-Experimental Psychology Graduate Student Conference, Baltimore, Maryland.
+**Wilcox, K. T.** (2019, October 9--12). *Bayesian supervised topic modeling
+with covariates* [Poster presentation]. 17th Annual Society of Multivariate
+Experimental Psychology Graduate Student Conference, Baltimore, MD, United
+States.
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Morrison, E., Wegman, J., Rachfal, T., & **Wilcox, K. T.** (2019,
-April). Visual perception of rotated 2D color representations of familiar 3D
-objects in goldfish (*Carassius auratus*). Paper presented at the 26th Annual
-International Conference on Comparative Cognition, Melbourne, Florida.
+April 10--13). *Visual perception of rotated 2D color representations of
+familiar 3D objects in goldfish (Carassius auratus)* [Paper presentation]. 26th
+Annual International Conference on Comparative Cognition, Melbourne Beach, FL,
+United States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2018, July). A Bayesian hidden topic Markov model for latent
-linguistic structure. Paper presented at the 2018 International Meeting of the
-Psychometric Society, New York City, New York.
+**Wilcox, K. T.** (2018, July 9--13). *A Bayesian hidden topic Markov model for
+latent linguistic structure* [Paper presentation]. 83rd Annual Meeting of the
+Psychometric Society, New York City, NY, United States.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Gardner, K., Rachfal, H., Morrison, E., & **Wilcox, K. T.** (2018, April).
-Visual discrimination of rotated 3D objects in goldfish (*Carassius auratus*).
-Paper presented at the 25th Annual International Conference on Comparative
-Cognition, Melbourne Beach, Florida.
+DeLong, C. M., Gardner, K., Rachfal, H., Morrison, E., & **Wilcox, K. T.**
+(2018, April 4--7). *Visual discrimination of rotated 3D objects in goldfish
+(Carassius auratus)* [Paper presentation]. 25th Annual International Conference
+on Comparative Cognition, Melbourne Beach, FL, United States.
 
 \hangindent = 2em
 \hangafter = 1
 Morrison, E., DeLong, C. M., Wright, C., Gardner, K., Rachfal, H., Gamble, M.,
-**Wilcox, K. T.**, Frye, D., Thorner, H., Fobe, I., & Dami, J. (2018, April).
-North American river otters (*Lontra canadensis*) use shape and color to
-discriminate between 2D objects. Poster presented at the 25th Annual
-International Conference on Comparative Cognition, Melbourne Beach, Florida.
+**Wilcox, K. T.**, Frye, D., Thorner, H., Fobe, I., & Dami, J. (2018, April
+4--7). *North American river otters (Lontra canadensis) use shape and color to
+discriminate between 2D objects* [Poster presentation]. 25th Annual
+International Conference on Comparative Cognition, Melbourne Beach, FL, United
+States.
 
 \hangindent = 2em
 \hangafter = 1
-Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017, December). An exploration of
-rhythm perception in African penguins (*Spheniscus demersus*). Paper presented
-at the 174th Meeting of the Acoustical Society of America, New Orleans,
-Louisiana.
+Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017, December 4--8). *An
+exploration of rhythm perception in African penguins (Spheniscus demersus)*
+[Paper presentation]. 174th Meeting of the Acoustical Society of America, New
+Orleans, LA, United States.
 
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Fellner, W., Harley, H. E., Fobe, I., **Wilcox, K. T.**,
-Gardner, K., & Odell. K. (2017, November). Visual discrimination of rotated 2D
-objects in a bottlenose dolphin (*Tursiops truncatus*) and goldfish
-(*Carassius auratus*). Paper presented at the Fall Meeting of
-the Comparative Cognition Society, Vancouver, British Columbia, Canada.
+Gardner, K., & Odell. K. (2017, November 9). *Visual discrimination of rotated
+2D objects in a bottlenose dolphin (Tursiops truncatus) and goldfish (Carassius
+auratus)* [Paper presentation]. Fall Meeting of the Comparative Cognition
+Society 2017, Vancouver, BC, Canada.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2017, April). Text mining with a Bayesian hidden topic Markov
-model. Paper presented at the Sixth Annual Joint Conference of the Upstate
-Chapters of the American Statistical Association, Buffalo, NY.
+**Wilcox, K. T.** (2017, April). *Text mining with a Bayesian hidden topic
+Markov model* [Paper presentation]. 6th Annual Joint Conference of the Upstate
+Chapters of the American Statistical Association, Buffalo, NY, United States.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Fobe, I., **Wilcox, K. T.**, & O'Leary, T. (2017, April). Visual
-discrimination of rotated 2D objects in goldfish (*Carassius auratus*). Paper
-presented at the 24th Annual International Conference on Comparative Cognition,
-Melbourne, Florida.
+DeLong, C. M., Fobe, I., **Wilcox, K. T.**, & O'Leary, T. (2017, April 19--22).
+*Visual discrimination of rotated 2D objects in goldfish (Carassius auratus)*
+[Paper presentation]. 24th Annual International Conference on Comparative
+Cognition, Melbourne Beach, FL, United States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2016, April). An introduction to ensemble methods for machine
-learning. Paper presented at the Fifth Annual Joint Conference of the Upstate
-Chapters of the American Statistical Association, Buffalo, New York.
+**Wilcox, K. T.** (2016, April). *An introduction to ensemble methods for
+machine learning* [Paper presentation]. 5th Annual Joint Conference of the
+Upstate Chapters of the American Statistical Association, Buffalo, NY, United
+States.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & DeLong, C. M. (2014, May). Mindfulness meditation and
-relaxation differentially improve mindfulness and affect, not emotional memory.
-Poster presented at the 26th Association for Psychological Science Annual
-Convention, San Francisco, California.
+**Wilcox, K. T.**, & DeLong, C. M. (2014, May 22--25). *Mindfulness meditation
+and relaxation differentially improve mindfulness and affect, not emotional
+memory* [Poster presentation]. 26th Association for Psychological Science Annual
+Convention, San Francisco, CA, United States.
 
 \hangindent = 2em
 \hangafter = 1
 Nichols, A. L., Edlund, J. E., Okdie, B. M., Guadagno, R. E., Eno, C. A.,
 Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., &
-**Wilcox, K. T.** (2013, November). Predicting and preventing participant
-crosstalk: A multi-institutional investigation. Paper presented at the Second
+**Wilcox, K. T.** (2013, November). *Predicting and preventing participant
+crosstalk: A multi-institutional investigation* [Paper presentation]. 2nd
 International Conference on Emerging Research Paradigms in Business and Social
 Sciences, Dubai, United Arab Emirates.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, August). Training North
-American river otters (*Lontra canadensis*) to discriminate among objects.
-Poster presented at the RIT Undergraduate Research and Innovation Symposium,
-Rochester, New York.
+**Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, August 10). *Training
+North American river otters (Lontra canadensis) to discriminate among objects*
+[Poster presentation]. 21st Annual Rochester Institute of Technology
+Undergraduate Research Symposium, Rochester, NY, United States.
 
 # Institute Service
 
@@ -502,11 +521,11 @@ Psychometric Society
 
 \hangindent = 2em
 \hangafter = -2
-Multivariate Behavioral Research
+Multivariate Behavioral Research \hfill 2020
 
 *Association for Psychological Science*
 
-**Association for Psychological Science Student Caucus** \hfill 12/2016, 12/2017, 12/2018
+**Association for Psychological Science Student Caucus** \hfill 2016--2019
 
 \hangindent = 2em
 \hangafter = -2
