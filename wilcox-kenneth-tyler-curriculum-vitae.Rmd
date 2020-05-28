@@ -385,7 +385,7 @@ United States.
 \hangafter = 1
 **Wilcox, K. T.** (2018, July 9--13). *A Bayesian hidden topic Markov model for
 latent linguistic structure* [Paper presentation]. 83rd Annual Meeting of the
-Psychometric Society, New York City, NY, United States.
+Psychometric Society, New York, NY, United States.
 
 \hangindent = 2em
 \hangafter = 1
@@ -465,6 +465,12 @@ Undergraduate Research Symposium, Rochester, NY, United States.
 
 *University of Notre Dame*
 
+**Department of Psychology** \hfill 08/2020--present
+
+\hangindent = 2em
+\hangafter = -1
+**Student Representative for the Quantitative Area**, Departmental and Quantitative Area Faculty Meetings
+
 **Department of Psychology** \hfill 08/2018--07/2019
 
 \hangindent = 2em
@@ -486,7 +492,7 @@ Undergraduate Research Symposium, Rochester, NY, United States.
 Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory,
 Computation, Applications and Data"
 
-**Psychology Department** \hfill 03/2012--05/2013
+**Department of Psychology** \hfill 03/2012--05/2013
 
 \hangindent = 2em
 \hangafter = -1
