@@ -310,6 +310,15 @@ Evaluations and recommendations. Manuscript in preparation.
 
 # Presentations
 
+## Invited Talks
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July 13--17). *Combining
+topic modeling and regression: Supervised topic modeling with covariates*
+[Invited "Spotlight Talk"]. 85th Annual Meeting of the Psychometric
+Society, College Park, MD, United States.
+
 ## Peer-Reviewed Conference Presentations
 
 \hangindent = 2em
@@ -317,13 +326,6 @@ Evaluations and recommendations. Manuscript in preparation.
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July 13--17). *A joint modeling
 framework for item response and topic models* [Paper presentation]. 85th Annual
 Meeting of the Psychometric Society, College Park, MD, United States.
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July 13--17). *Combining
-topic modeling and regression: Supervised topic modeling with covariates*
-["Spotlight Talk" paper presentation]. 85th Annual Meeting of the Psychometric
-Society, College Park, MD, United States.
 
 \hangindent = 2em
 \hangafter = 1
