@@ -194,9 +194,16 @@ Research advisers: John Manring, Satish Krishnamurthy
 
 \hangindent = 2em
 \hangafter = 1
-Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (in press). The use of
+Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (In press). The use of
 text-based responses to improve our understanding and prediction of suicide
 risk. *Suicide and Life-Threatening Behavior*.
+
+\hangindent = 2em
+\hangafter = 1
+Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (In press). Humans
+discriminate among bottlenose dolphin signature whistles masked by noise:
+Investigating perceptual strategies for anthropogenic noise pollution.
+*Journal of the Acoustical Society of America*.
 
 \hangindent = 2em
 \hangafter = 1
@@ -264,13 +271,6 @@ https://doi.org/10.1121/2.0000773
 Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (Under
 review). Characterizing the choice to disclose nonsuicidal self-injury.
 *Journal of Clinical Psychology*.
-
-\hangindent = 2em
-\hangafter = 1
-Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (Under review). Humans
-discriminate among bottlenose dolphin signature whistles masked by noise:
-Investigating perceptual strategies for anthropogenic noise pollution.
-*Journal of the Acoustical Society of America*.
 
 ## Manuscripts in Preparation
 
