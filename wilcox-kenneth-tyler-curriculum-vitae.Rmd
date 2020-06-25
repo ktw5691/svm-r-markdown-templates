@@ -200,10 +200,10 @@ risk. *Suicide and Life-Threatening Behavior*.
 
 \hangindent = 2em
 \hangafter = 1
-Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (In press). Humans
-discriminate among bottlenose dolphin signature whistles masked by noise:
-Investigating perceptual strategies for anthropogenic noise pollution.
-*Journal of the Acoustical Society of America*.
+Morrison, E. K., DeLong, C. M., & **Wilcox, K. T.** (2020). How humans
+discriminate acoustically among bottlenose dolphin signature whistles with and
+without masking by boat noise. *Journal of the Acoustical Society of America*,
+*147*(6), 4162--4174. https://doi.org/10.1121/10.0001450
 
 \hangindent = 2em
 \hangafter = 1
