@@ -28,169 +28,29 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Education
-
-*University of Notre Dame*, Notre Dame, IN
+# EDUCATION
 
 Ph.D. Quantitative Psychology \hfill 2022 (expected)
 
-*Rochester Institute of Technology*, Rochester, NY
+\hangindent = 2em
+\hangafter = -1
+Department of Psychology, University of Notre Dame, Notre Dame, IN
 
 M.S. Applied Statistics \hfill 2017
 
 \hangindent = 2em
 \hangafter = -1
-Thesis: Bayesian hidden topic Markov models
+School of Mathematical Sciences, Rochester Institute of Technology, Rochester, NY
 
 B.S. Psychology \hfill 2013
 
-# Grants and Awards
-
-**University of Notre Dame** \hfill 2020
-
 \hangindent = 2em
 \hangafter = -1
-Graduate Student Union Outstanding Teaching Assistant Award ($300)
+Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
-**Society of Multivariate and Experimental Psychology** \hfill 2019
+# PUBLICATIONS
 
-\hangindent = 2em
-\hangafter = -1
-Travel Assistance Award ($1,500)
-
-**University of Notre Dame** \hfill 2017--present
-
-\hangindent = 2em
-\hangafter = -1
-University Presidential Fellowship
-
-**Upstate Chapters of the American Statistical Association** \hfill 2016
-
-\hangindent = 2em
-\hangafter = -1
-Honorable Mention for Oral Presentation Based on Methodology and Theory
-
-**Rochester Institute of Technology Center for Quality and Applied Statistics**
-\hfill 2015
-
-\hangindent = 2em
-\hangafter = -1
-John D. and Rachel E. Hromi Endowed Scholarship
-
-**Association for Psychological Science Student Caucus** \hfill 2014
-
-\hangindent = 2em
-\hangafter = -1
-Travel Assistance Award ($200)
-
-**Rochester Institute of Technology College of Liberal Arts**
-
-\hangindent = 2em
-\hangafter = -1
-Outstanding Undergraduate Scholarship Award \hfill 2013
-
-\hangindent = 2em
-\hangafter = -1
-Student Research Fund ($72) \hfill 2013
-
-\hangindent = 2em
-\hangafter = -1
-Kearse Award for Excellence in Writing ($100) \hfill 2012
-
-# Teaching Experience
-
-*University of Notre Dame*
-
-**Teaching Assistant \& Lab Instructor**, Department of Psychology \hfill
-08/2019--present
-
-\hangindent = 2em
-\hangafter = -2
-Courses: Quantitative Methods I (graduate course), Quantitative Methods II (graduate course)
-
-*Rochester Institute of Technology*
-
-**Teaching Assistant**, School of Mathematical Sciences \hfill
-09/2015--05/2017
-
-\hangindent = 2em
-\hangafter = -2
-Courses: Elements of Statistical Theory (graduate course), Principles of
-Statistical Data Mining (graduate course)
-
-**Tutor**, Academic Support Center \hfill 09/2010--05/2013, 10/2014--05/2017
-
-\hangindent = 2em
-\hangafter = -3
-Courses: Calculus, Multivariate Calculus, Linear Algebra, Differential
-Equations, University Physics, Probability, Statistics, Regression Analysis,
-Design of Experiments, Stochastic Processes
-
-**Teaching Assistant**, Center for Quality and Applied Statistics \hfill
-01/2015--12/2015
-
-\hangindent = 2em
-\hangafter = -2
-Courses: Statistical Software (graduate course), Probability and Statistics II
-for Engineers
-
-**Instructor**, Academic Support Center \hfill 10/2014--12/2015
-
-\hangindent = 2em
-\hangafter = -1
-Course: Critical Mathematical Skills
-
-**Tutor**, Arthur O. Eve Higher Education Opportunity Program \hfill
-07/2012--08/2012
-
-\hangindent = 2em
-\hangafter = -1
-Courses: Pre-Calculus, Algebra
-
-# Research Experience
-
-*Rochester Institute of Technology*, Rochester, NY
-
-**Statistician**, Department of Service Systems \hfill 05/2017--07/2017
-
-\hangindent = 2em
-\hangafter = -1
-Research collaborators: Malarvizhi Hirudayaraj, Martin Anselm
-
-**Research Assistant**, Department of Psychology \hfill 03/2012--05/2013
-
-\hangindent = 2em
-\hangafter = -1
-Research adviser: Caroline M. DeLong
-
-**Research Assistant**, Department of Psychology \hfill 11/2011--05/2013
-
-\hangindent = 2em
-\hangafter = -1
-Research adviser: John Edlund
-
-*SUNY Upstate Medical University*, Syracuse, NY
-
-**Research Analyst**, Department of Psychiatry and Behavioral Sciences \hfill
-06/2013--08/2013
-
-\hangindent = 2em
-\hangafter = -1
-Research adviser: John Manring
-
-**Research Intern**, Department of Neurosurgery \hfill 07/2011--09/2011
-
-\hangindent = 2em
-\hangafter = -1
-Research advisers: John Manring, Satish Krishnamurthy
-
-# Employment
-
-*Soleo Communications*, Data Scientist \hfill 2016
-
-# Publications
-
-## Journal Articles
+## Refereed Journal Articles
 
 \hangindent = 2em
 \hangafter = 1
@@ -264,7 +124,7 @@ perception in African penguins (*Spheniscus demersus*).
 *Proceedings of Meetings on Acoustics*, *31*(1).
 https://doi.org/10.1121/2.0000773
 
-## Manuscripts Under Review
+## Manuscripts in Submission
 
 \hangindent = 2em
 \hangafter = 1
@@ -277,55 +137,73 @@ review). Characterizing the choice to disclose nonsuicidal self-injury.
 \hangindent = 2em
 \hangafter = 1
 Che, C., **Wilcox, K. T.**, & Zhang, Z. Evaluation of the unsupervised latent
-Dirichlet allocation model though simulation. Manuscript in preparation.
+Dirichlet allocation model though simulation.
 
 \hangindent = 2em
 \hangafter = 1
 Hong, M., & **Wilcox, K. T.**. A joint modeling framework for item response and
-topic models. Manuscript in preparation.
+topic models.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
 mining approach to characterizing interpersonal stress among nonsuicidal
-self-injury. Manuscript in preparation.
+self-injury.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
 allocation with covariates: A Bayesian joint regression model of text and
-covariates. Manuscript in preparation.
+covariates.
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** & Wang, L. Modeling approaches for integrative data analysis:
-Evaluations and recommendations. Manuscript in preparation.
+Evaluations and recommendations.
 
-# Software Development
+## Software Development
 
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2020). *psychtm: Text mining for psychological research*
 (Version 2020.3) [Computer software]. https://github.com/ktw5691/psychtm/
 
-# Presentations
+# AWARDS AND HONORS
 
-## Invited Talks
+2020 \hfill Graduate Student Union Outstanding Teaching Assistant Award ($300) --- University of Notre Dame
 
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July 13--17). *Combining
-topic modeling and regression: Supervised topic modeling with covariates*
-[Invited "Spotlight Talk"]. 85th Annual Meeting of the Psychometric
-Society, College Park, MD, United States.
+2019 \hfill Travel Assistance Award ($1,500) --- Society of Multivariate and Experimental Psychology
 
-## Peer-Reviewed Conference Presentations
+2017--present \hfill University Presidential Fellowship --- University of Notre Dame
+
+2016 \hfill Honorable Mention for Oral Presentation Based on Methodology and Theory --- Upstate Chapters of the American Statistical Association
+
+2015 \hfill John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute of Technology, Center for Quality and Applied Statistics
+
+2014 \hfill Travel Assistance Award ($200) --- Association for Psychological Science Student Caucus
+
+2014 \hfill Outstanding Undergraduate Scholarship Award --- Rochester Institute of Technology, College of Liberal Arts
+
+2013 \hfill Student Research Fund ($72) --- Rochester Institute of Technology, College of Liberal Arts
+
+2012 \hfill Kearse Award for Excellence in Writing ($100) --- Rochester Institute of Technology, College of Liberal Arts
+
+# CONFERENCE ACTIVITY
+
+## Papers Presented
 
 \hangindent = 2em
 \hangafter = 1
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July 13--17). *A joint modeling
 framework for item response and topic models* [Paper presentation]. 85th Annual
 Meeting of the Psychometric Society, College Park, MD, United States.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020, July 13--17). *Combining
+topic modeling and regression: Supervised topic modeling with covariates*
+[Invited "Spotlight Talk" paper presentation]. 85th Annual Meeting of the
+Psychometric Society, College Park, MD, United States.
 
 \hangindent = 2em
 \hangafter = 1
@@ -463,56 +341,123 @@ North American river otters (Lontra canadensis) to discriminate among objects*
 [Poster presentation]. 21st Annual Rochester Institute of Technology
 Undergraduate Research Symposium, Rochester, NY, United States.
 
-# Institute Service
+# TEACHING EXPERIENCE
 
-*University of Notre Dame*
+## University of Notre Dame
 
-**Department of Psychology** \hfill 08/2020--present
+Quantitative Methods II (teaching assistant \& lab instructor, graduate course; Spring 2020)
+
+Quantitative Methods I (teaching assistant \& lab instructor, graduate course; Fall 2019)
+
+## Rochester Institute of Technology
+
+Elements of Statistical Theory (teaching assistant, graduate course; Fall 2015, Fall 2016)
+
+Principles of Statistical Data Mining (teaching assistant, graduate course; Spring 2017)
+
+Statistical Software (teaching assistant, graduate course; Fall 2015)
+
+Probability and Statistics II for Engineers (teaching assistant; Spring 2015)
+
+Critical Mathematical Skills (instructor; Fall 2014, Fall 2015)
+
+# RESEARCH EXPERIENCE
+
+*Rochester Institute of Technology*, Rochester, NY
+
+**Statistician**, Department of Service Systems \hfill 05/2017--07/2017
 
 \hangindent = 2em
 \hangafter = -1
-**Student Representative for the Quantitative Area**, Departmental and Quantitative Area Faculty Meetings
+Research collaborators: Malarvizhi Hirudayaraj, Martin Anselm
 
-**Department of Psychology** \hfill 08/2018--07/2019
-
-\hangindent = 2em
-\hangafter = -1
-**Quantitative Area Representative**, Graduate Advisory Committee
-
-*Rochester Institute of Technology*
-
-**Department of Applied Statistics** \hfill 01/2015--05/2017
+**Research Assistant**, Department of Psychology \hfill 03/2012--05/2013
 
 \hangindent = 2em
 \hangafter = -1
-**Secretary**, Data Science Research Group
+Research adviser: Caroline M. DeLong
 
-**Summer Mathematics Institute (Rochester, NY)** \hfill 06/2016
+**Research Assistant**, Department of Psychology \hfill 11/2011--05/2013
+
+\hangindent = 2em
+\hangafter = -1
+Research adviser: John Edlund
+
+*SUNY Upstate Medical University*, Syracuse, NY
+
+**Research Analyst**, Department of Psychiatry and Behavioral Sciences \hfill
+06/2013--08/2013
+
+\hangindent = 2em
+\hangafter = -1
+Research adviser: John Manring
+
+**Research Intern**, Department of Neurosurgery \hfill 07/2011--09/2011
+
+\hangindent = 2em
+\hangafter = -1
+Research advisers: John Manring, Satish Krishnamurthy
+
+# SERVICE TO PROFESSION
+
+## Journal Manuscript Review
+
+Multivariate Behavioral Research
+
+Psychological Methods
+
+## Sessions Chaired
+
+*Regression modeling and prediction*. (2020, July 13--17). 85th Annual Meeting of the Psychometric Society, College Park, MD, United States.
+
+*Applications of Statistics in Environmental Studies*. (2017, April). 6th Annual Joint Conference of the Upstate Chapters of the American Statistical Association, Buffalo, NY, United States.
+
+## Student Submission Review
+
+Association for Psychological Science Student Caucus \hfill 2016--2019
 
 \hangindent = 2em
 \hangafter = -2
+Reviewer, APSSC Student Grant Competition
+
+Fifth Annual Joint Conference of the Upstate Chapters of the American Statistical Association \hfill 2017
+
+\hangindent = 2em
+\hangafter = -1
+Judge, Pre-College Statistical Data Analysis Competition
+
+Fifth Annual Joint Conference of the Upstate Chapters of the American Statistical Association \hfill 2016
+
+\hangindent = 2em
+\hangafter = -1
+Judge, Pre-College Statistical Data Analysis Competition
+
+# DEPARTMENTAL/UNIVERSITY SERVICE
+
+## University of Notre Dame
+
+Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings (08/2020--present)
+
+Quantitative Area Representative, Graduate Advisory Committee (08/2018--07/2019)
+
+## Rochester Institute of Technology
+
 Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory,
-Computation, Applications and Data"
+Computation, Applications and Data", Summer Mathematics Institute (06/2016)
 
-**Department of Psychology** \hfill 03/2012--05/2013
+Student Representative, Eisenhart Award Nomination Committee (09/2012--05/2013)
 
-\hangindent = 2em
-\hangafter = -1
-**Secretary**, Psychology Student Society
+Peer Mentor, First Year Enrichment Program (09/2010--05/2013)
 
-**College of Liberal Arts** \hfill 09/2012--05/2013
+# EXTRACURRICULAR UNIVERSITY SERVICE
 
-\hangindent = 2em
-\hangafter = -1
-**Student Representative**, Eisenhart Nomination Committee
+## Rochester Institute of Technology
 
-**First Year Enrichment Program** \hfill 09/2010--05/2013
+Secretary, Data Science Research Group (01/2015--05/2017)
 
-\hangindent = 2em
-\hangafter = -1
-**Peer Mentor**
+Secretary, Psychology Student Society (03/2012--05/2013)
 
-# Professional Associations
+# PROFESSIONAL MEMBERSHIPS
 
 American Psychological Association
 
@@ -523,37 +468,3 @@ American Statistical Association
 Association for Psychological Science
 
 Psychometric Society
-
-# Professional Activities
-
-*Ad Hoc Reviewer*
-
-\hangindent = 2em
-\hangafter = -2
-Multivariate Behavioral Research \hfill 2020
-
-*Association for Psychological Science*
-
-**Association for Psychological Science Student Caucus** \hfill 2016--2019
-
-\hangindent = 2em
-\hangafter = -2
-Reviewer, APSSC Student Grant Competition
-
-*Upstate Chapters of the American Statistical Association*
-
-**Sixth Annual Joint Conference (Buffalo, NY)** \hfill 04/2017
-
-\hangindent = 2em
-\hangafter = -1
-Session chair, "Applications of Statistics in Environmental Studies"
-
-\hangindent = 2em
-\hangafter = -1
-Judge, 2017 Pre-College Statistical Data Analysis Competition
-
-**Fifth Annual Joint Conference (Buffalo, NY)** \hfill 04/2016
-
-\hangindent = 2em
-\hangafter = -1
-Judge, 2016 Pre-College Statistical Data Analysis Competition
