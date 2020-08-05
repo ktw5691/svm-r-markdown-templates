@@ -54,6 +54,12 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
+Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (In
+press). Characterizing the choice to disclose nonsuicidal self-injury.
+*Journal of Clinical Psychology*.
+
+\hangindent = 2em
+\hangafter = 1
 Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (In press). The use of
 text-based responses to improve our understanding and prediction of suicide
 risk. *Suicide and Life-Threatening Behavior*.
@@ -125,12 +131,6 @@ perception in African penguins (*Spheniscus demersus*).
 https://doi.org/10.1121/2.0000773
 
 ## Manuscripts in Submission
-
-\hangindent = 2em
-\hangafter = 1
-Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey, M. S. (Under
-review). Characterizing the choice to disclose nonsuicidal self-injury.
-*Journal of Clinical Psychology*.
 
 ## Manuscripts in Preparation
 
