@@ -194,6 +194,11 @@ covariates.
 
 \hangindent = 2em
 \hangafter = 1
+Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, October 7--10). *A constructed response model* [Poster presentation]. 18th Annual Society of Multivariate
+Experimental Psychology Graduate Student Preconference, Virtual conference.
+
+\hangindent = 2em
+\hangafter = 1
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, July 13--17). *A joint modeling
 framework for item response and topic models* [Paper presentation]. 85th Annual
 Meeting of the Psychometric Society, College Park, MD, United States.
