@@ -2,9 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+*wilcox-kenneth-tyler-curriculum-vitae.log
+
+# ignore images and PDFs and Word docs
+*.png
+*.svg
+*.jpg
 *.pdf
 *.docx
-*wilcox-kenneth-tyler-curriculum-vitae.log
 
 # ignore temp files w/ trailing ~. I think I stopped Gedit from doing this.
 *~
