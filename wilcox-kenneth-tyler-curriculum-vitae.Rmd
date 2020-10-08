@@ -194,6 +194,10 @@ covariates.
 
 \hangindent = 2em
 \hangafter = 1
+Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16-20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States.
+
+\hangindent = 2em
+\hangafter = 1
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, October 7--10). *A constructed response model* [Poster presentation]. 18th Annual Society of Multivariate
 Experimental Psychology Graduate Student Preconference, Virtual conference.
 
