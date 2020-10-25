@@ -166,7 +166,7 @@ covariates.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.** (2020). *psychtm: Text mining for psychological research*
-(Version 2020.8) [Computer software]. https://github.com/ktw5691/psychtm/
+(Version 2020.9) [Computer software]. https://github.com/ktw5691/psychtm/
 
 # AWARDS AND HONORS
 
