@@ -134,8 +134,8 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** & Wang, L. Modeling approaches for integrative data analysis:
-Evaluations and recommendations.
+**Wilcox, K. T.** & Wang, L. Modeling approaches for cross-sectional integrative
+data analysis: Evaluations and recommendations.
 
 ## Manuscripts in Preparation
 
@@ -194,7 +194,7 @@ covariates.
 
 \hangindent = 2em
 \hangafter = 1
-Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16-20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States.
+Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16-20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States. Note: Winner of Oral Presentation Award. https://youtu.be/hrgLbcJDPXo
 
 \hangindent = 2em
 \hangafter = 1
@@ -412,6 +412,8 @@ Research advisers: John Manring, Satish Krishnamurthy
 # SERVICE TO PROFESSION
 
 ## Journal Manuscript Review
+
+Frontiers in Psychology, section Quantitative Psychology and Measurement
 
 Multivariate Behavioral Research
 
