@@ -441,7 +441,7 @@ Society for Multivariate and Experimental Psychology \hfill 2020
 \hangafter =-2
 Reviewer, SMEP Graduate Student Conference
 
-Association for Psychological Science Student Caucus \hfill 2016--2019
+Association for Psychological Science Student Caucus \hfill 2016--2021
 
 \hangindent = 2em
 \hangafter = -2
