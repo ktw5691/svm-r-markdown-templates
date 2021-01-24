@@ -165,8 +165,8 @@ self-injury.
 \hangindent = 2em
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
-allocation with covariates: A Bayesian joint regression model of text and
-covariates.
+allocation with covariates: A Bayesian structural and measurement model of text
+and covariates. Retrieved from psyarxiv.com/62tc3
 
 ## Software Development
 
