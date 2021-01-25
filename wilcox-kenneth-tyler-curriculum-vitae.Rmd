@@ -203,6 +203,10 @@ and covariates. *PsyArXiv*. https://doi.org/10.31234/osf.io/62tc3
 
 \hangindent = 2em
 \hangafter = 1
+DeLong, C. M., Morelli, J., Wegman, J., Sheldon, H., Gunther, K., **Wilcox, K. T.** (Submitted). *Long-term object recognition memory in goldfish (Carassius auratus)* [Paper presentation]. 28th Annual International Conference on Comparative Cognition, Virtual conference.
+
+\hangindent = 2em
+\hangafter = 1
 Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16-20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States. Note: Winner of Oral Presentation Award. https://youtu.be/hrgLbcJDPXo
 
 \hangindent = 2em
