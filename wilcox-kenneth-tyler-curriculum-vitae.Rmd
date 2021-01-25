@@ -168,7 +168,6 @@ self-injury.
 allocation with covariates: A Bayesian structural and measurement model of text
 <<<<<<< HEAD
 and covariates. *PsyArXiv*. https://doi.org/10.31234/osf.io/62tc3
->>>>>>> f179c26 (Submitted pre-print to PsyArXiv)
 
 ## Software Development
 
