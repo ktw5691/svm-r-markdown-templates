@@ -144,6 +144,13 @@ https://doi.org/10.1121/2.0000773
 
 ## Manuscripts in Submission
 
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (Under review). Supervised latent
+Dirichlet allocation with covariates: A Bayesian structural and measurement
+model of text and covariates. *Psychological Methods*. Preprint available at
+https://doi.org/10.31234/osf.io/62tc3
+
 ## Manuscripts in Preparation
 
 \hangindent = 2em
@@ -161,12 +168,6 @@ topic models.
 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
 mining approach to characterizing interpersonal stress among nonsuicidal
 self-injury.
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. Supervised latent Dirichlet
-allocation with covariates: A Bayesian structural and measurement model of text
-and covariates. *PsyArXiv*. https://doi.org/10.31234/osf.io/62tc3
 
 ## Software Development
 
