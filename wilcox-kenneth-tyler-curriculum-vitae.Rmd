@@ -54,12 +54,6 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
-Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (In press). The use of
-text-based responses to improve our understanding and prediction of suicide
-risk. *Suicide and Life-Threatening Behavior*.
-
-\hangindent = 2em
-\hangafter = 1
 **Wilcox, K. T.** & Wang, L. (In press). Modeling approaches for cross-sectional
 integrative data analysis: Evaluations and recommendations.
 *Psychological Methods*. https://doi.org/10.1037/met0000397
@@ -75,6 +69,12 @@ M. S. (2021). Characterizing the choice to disclose nonsuicidal self-injury.
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2021). A constructed response
 model. *Multivariate Behavioral Research* (Abstract).
 https://doi.org/10.1080/00273171.2020.1852907
+
+\hangindent = 2em
+\hangafter = 1
+Jacobucci, R., Ammerman, B. A., & **Wilcox, K. T.** (2021). The use of
+text-based responses to improve our understanding and prediction of suicide
+risk. *Suicide and Life-Threatening Behavior*, *51*(1), 55--64. https://doi.org/10.1111/sltb.12668
 
 \hangindent = 2em
 \hangafter = 1
