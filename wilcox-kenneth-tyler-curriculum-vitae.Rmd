@@ -202,7 +202,11 @@ self-injury.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C. M., Morelli, J., Wegman, J., Sheldon, H., Gunther, K., **Wilcox, K. T.** (Submitted). *Long-term object recognition memory in goldfish (Carassius auratus)* [Paper presentation]. 28th Annual International Conference on Comparative Cognition, Virtual conference.
+DeLong, C. M., Morelli, J., Wegman, J., Sheldon, H., Gunther, K., & **Wilcox, K. T.** (Submitted). *Long-term object recognition memory in goldfish (Carassius auratus)* [Paper presentation]. 28th Annual International Conference on Comparative Cognition, Virtual conference.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, & Wang, L. (Submitted). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Paper presentation]. 86th Annual Meeting of the Psychometric Society, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
