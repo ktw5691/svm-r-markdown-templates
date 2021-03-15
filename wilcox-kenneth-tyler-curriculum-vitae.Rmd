@@ -67,7 +67,7 @@ M. S. (2021). Characterizing the choice to disclose nonsuicidal self-injury.
 \hangindent = 2em
 \hangafter = 1
 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2021). A constructed response
-model. *Multivariate Behavioral Research* (Abstract).
+model. *Multivariate Behavioral Research*, *56*(1), 150--151 (Abstract).
 https://doi.org/10.1080/00273171.2020.1852907
 
 \hangindent = 2em
