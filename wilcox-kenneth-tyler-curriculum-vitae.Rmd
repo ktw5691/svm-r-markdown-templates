@@ -16,7 +16,7 @@ phone: "315 209 7252"
 # github: ktw5691
 # osf: "5 digit string here"
 orcid: "0000-0003-3969-0427"
-web: ktylerwilcox.netlify.app
+web: ktylerwilcox.me
 updated: yes
 
 # keywords: Quantitative psychology, statistics, data mining # Does not seem to do anything
@@ -208,11 +208,11 @@ DeLong, C. M., Morelli, J., Wegman, J., Sheldon, H., Gunther, K., & **Wilcox, K.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (Submitted). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Paper presentation]. 86th Annual Meeting of the Psychometric Society, Virtual conference.
+**Wilcox, K. T.**, & Wang, L. (2021, July 19--23). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Paper presentation]. 86th Annual Meeting of the Psychometric Society, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
-Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16-20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States. Note: Winner of Oral Presentation Award. https://youtu.be/hrgLbcJDPXo
+Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16--20). *Visual object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT Graduate Showcase, Rochester, NY, United States. Note: Winner of Oral Presentation Award. https://youtu.be/hrgLbcJDPXo
 
 \hangindent = 2em
 \hangafter = 1
@@ -432,6 +432,8 @@ Research advisers: John Manring, Satish Krishnamurthy
 ## Journal Manuscript Review
 
 Frontiers in Psychology, section Quantitative Psychology and Measurement
+
+Journal of Behavioral Data Science
 
 Multivariate Behavioral Research
 
