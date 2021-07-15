@@ -160,12 +160,12 @@ Dirichlet allocation model though simulation.
 
 \hangindent = 2em
 \hangafter = 1
-Hong, M., & **Wilcox, K. T.**. A joint modeling framework for item response and
+Hong, M., & **Wilcox, K. T.** A joint modeling framework for item response and
 topic models.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., McCloskey, M. A., & Ammerman, B. A. A topic
+**Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E., McCloskey, M. S., & Ammerman, B. A. A topic
 mining approach to characterizing interpersonal stress among nonsuicidal
 self-injury.
 
