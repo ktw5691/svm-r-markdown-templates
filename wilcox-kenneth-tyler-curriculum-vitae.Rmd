@@ -178,25 +178,31 @@ self-injury.
 
 # AWARDS AND HONORS
 
-2021 \hfill Outstanding Graduate Student Teacher Award ($100) --- University of Notre Dame, Graduate School and ND Learning | Kaneb Center for Teaching Excellence
+2021 --- Outstanding Graduate Student Teacher Award ($100) --- University of Notre Dame, Graduate School and ND Learning | Kaneb Center for Teaching Excellence
 
-2020 \hfill Graduate Student Union Outstanding Teaching Assistant Award ($300) --- University of Notre Dame
+2020 --- Graduate Student Union Outstanding Teaching Assistant Award ($300) --- University of Notre Dame
 
-2019 \hfill Travel Assistance Award ($1,500) --- Society of Multivariate and Experimental Psychology
+2019 --- Travel Assistance Award ($1,500) --- Society of Multivariate and Experimental Psychology
 
-2017 \hfill University Presidential Fellowship --- University of Notre Dame
+2017 --- University Presidential Fellowship --- University of Notre Dame
 
-2016 \hfill Honorable Mention for Oral Presentation Based on Methodology and Theory ($50) --- Upstate Chapters of the American Statistical Association
+2016 --- Honorable Mention for Oral Presentation Based on Methodology and Theory ($50) --- Upstate Chapters of the American Statistical Association
 
-2015 \hfill John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute of Technology, Center for Quality and Applied Statistics
+2015 --- John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute of Technology, Center for Quality and Applied Statistics
 
-2014 \hfill Travel Assistance Award ($200) --- Association for Psychological Science Student Caucus
+2014 --- Travel Assistance Award ($200) --- Association for Psychological Science Student Caucus
 
-2013 \hfill Outstanding Undergraduate Scholarship Award --- Rochester Institute of Technology, College of Liberal Arts
+2013 --- Outstanding Undergraduate Scholarship Award --- Rochester Institute of Technology, College of Liberal Arts
 
-2013 \hfill Student Research Fund ($72) --- Rochester Institute of Technology, College of Liberal Arts
+2013 --- Student Research Fund ($72) --- Rochester Institute of Technology, College of Liberal Arts
 
-2012 \hfill Kearse Award for Excellence in Writing ($100) --- Rochester Institute of Technology, College of Liberal Arts
+2012 --- Kearse Award for Excellence in Writing ($100) --- Rochester Institute of Technology, College of Liberal Arts
+
+# INVITED TALKS
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2021, September 13). *Bayesian supervised topic modeling with covariates*. Quantitative Methods Colloquium, Department of Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
 
@@ -386,7 +392,7 @@ Statistical Software (teaching assistant, graduate course; Fall 2015)
 
 Probability and Statistics II for Engineers (teaching assistant; Spring 2015)
 
-Critical Mathematical Skills (instructor; Fall 2014, Fall 2015)
+Critical Mathematical Skills (co-instructor; Fall 2014, Fall 2015)
 
 # RESEARCH EXPERIENCE
 
