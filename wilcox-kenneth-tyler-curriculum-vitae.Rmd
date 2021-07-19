@@ -146,28 +146,71 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (Under review). Supervised latent
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2021). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
-model of text and covariates. *Psychological Methods*. Preprint available at
-https://doi.org/10.31234/osf.io/62tc3
+model of text and covariates* [Manuscript under review at *Psychological
+Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
 
 ## Manuscripts in Preparation
 
 \hangindent = 2em
 \hangafter = 1
-Che, C., **Wilcox, K. T.**, & Zhang, Z. Evaluation of the unsupervised latent
-Dirichlet allocation model though simulation.
+Che, C., **Wilcox, K. T.**, & Zhang, Z. (2021). *Evaluation of the unsupervised
+latent Dirichlet allocation model though simulation* [Manuscript in preparation].
+Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
-Hong, M., & **Wilcox, K. T.** A joint modeling framework for item response and
-topic models.
+DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2021). *Goldfish (*Carassius
+auratus*) exhibit visual object constancy in the picture plane and depth plane
+with 3D objects* [Manuscript in preparation]. Department of Psychology,
+Rochester Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E., McCloskey, M. S., & Ammerman, B. A. A topic
-mining approach to characterizing interpersonal stress among nonsuicidal
-self-injury.
+DeLong, C.M., Morelli, J., & **Wilcox, K.T.** (2021). *Object recognition memory
+in goldfish (*Carassius auratus*)* [Manuscript in preparation]. Department of
+Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C.M., Morrison, E., & **Wilcox, K.T.** (2021). *Visual perception of
+rotated 2D color photos of 3D objects in goldfish (*Carassius auratus*)*
+[Manuscript in preparation]. Department of Psychology, Rochester Institute of
+Technology.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C.M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2021).
+*Categorization of 3D objects in goldfish (*Carassius auratus*)* [Manuscript in
+preparation]. Department of Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C.M., Wegman, J., & **Wilcox, K.T.** (2021). *Object discrimination in
+goldfish (*Carassius auratus*): The role of color cues in the perception of
+rotated 3D objects* [Manuscript in preparation]. Department of Psychology,
+Rochester Institute of Technology.
+
+\hangindent = 2em
+\hangafter = 1
+DeLong, C.M., Wegman, J., Wright, C., & **Wilcox, K. T.** (2021).
+*Categorization of 2D objects in North American river otters (*Lontra
+canadensis*)* [Manuscript in preparation]. Department of Psychology, Rochester
+Institute of Technology.
+
+\hangindent = 2em
+\hangafter = 1
+Hong, M., & **Wilcox, K. T.** (2021). *A joint modeling framework for item
+response and topic models* [Manuscript in preparation]. Department of Psychology,
+University of California, Davis.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E., McCloskey, M. S.,
+& Ammerman, B. A. (2021). *A topic mining approach to characterizing
+interpersonal stress among nonsuicidal self-injury* [Manuscript in preparation].
+Department of Psychology, University of Notre Dame.
 
 ## Software Development
 
