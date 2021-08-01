@@ -54,9 +54,9 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** & Wang, L. (In press). Modeling approaches for cross-sectional
+**Wilcox, K. T.** & Wang, L. (2021). Modeling approaches for cross-sectional
 integrative data analysis: Evaluations and recommendations.
-*Psychological Methods*. https://doi.org/10.1037/met0000397
+*Psychological Methods*. Advance online publication. https://doi.org/10.1037/met0000397
 
 \hangindent = 2em
 \hangafter = 1
