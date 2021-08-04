@@ -36,6 +36,10 @@ Ph.D. Quantitative Psychology \hfill 2022 (expected)
 \hangafter = -1
 Department of Psychology, University of Notre Dame, Notre Dame, IN
 
+\hangindent = 2em
+\hangafter = -1
+Dissertation: *Jointly modeling participant-level data and published summary statistics for treatment differences with and without covariates*
+
 M.S. Applied Statistics \hfill 2017
 
 \hangindent = 2em
