@@ -371,7 +371,7 @@ Orleans, LA, United States.
 \hangindent = 2em
 \hangafter = 1
 DeLong, C. M., Fellner, W., Harley, H. E., Fobe, I., **Wilcox, K. T.**,
-Gardner, K., & Odell. K. (2017, November 9). *Visual discrimination of rotated
+Gardner, K., & Odell, K. (2017, November 9). *Visual discrimination of rotated
 2D objects in a bottlenose dolphin (Tursiops truncatus) and goldfish (Carassius
 auratus)* [Paper presentation]. Fall Meeting of the Comparative Cognition
 Society 2017, Vancouver, BC, Canada.
