@@ -203,7 +203,8 @@ $if(fontawesome)$\usepackage{fontawesome5}$endif$
 \rhead{}
 \lfoot{
 \cfoot{\scriptsize  $author-meta$ - $title$ }}
-\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+% Comment out this line to avoid redundant page numbers
+% \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
 
 % Always load hyperref last.
 \usepackage{hyperref}
