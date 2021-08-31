@@ -249,9 +249,13 @@ Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2021, September 13). *Bayesian supervised topic modeling with covariates*. Quantitative Methods Colloquium, Department of Psychology & Human Development, Vanderbilt University, Nashville, TN.
+**Wilcox, K. T.** (2021, September 13). *Integrating text into psychological research: Latent variable modeling and applications*. Quantitative Methods Colloquium, Department of Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, & Wang, L. (2021, October 14--16). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Submitted poster presentation]. 19th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
@@ -267,8 +271,7 @@ Wegman, J., DeLong, C. M., Morrison, E., Morelli, J., Rachfal, T., & **Wilcox, K
 
 \hangindent = 2em
 \hangafter = 1
-Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, October 7--10). *A constructed response model* [Poster presentation]. 18th Annual Society of Multivariate
-Experimental Psychology Graduate Student Preconference, Virtual conference.
+Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020, October 7--10). *A constructed response model* [Poster presentation]. 18th Annual Society of Multivariate Experimental Psychology Graduate Student Preconference, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
@@ -441,6 +444,14 @@ Probability and Statistics II for Engineers (teaching assistant; Spring 2015)
 
 Critical Mathematical Skills (co-instructor; Fall 2014, Fall 2015)
 
+## Certifications
+
+Striving for Excellence in Teaching \hfill 08/2021
+
+\hangindent = 2em
+\hangafter = -1
+*University of Notre Dame, Kaneb Center*
+
 # RESEARCH EXPERIENCE
 
 *Rochester Institute of Technology*, Rochester, NY
@@ -498,7 +509,7 @@ Psychological Methods
 
 *Regression modeling and prediction*. (2020, July 13--17). 85th Annual Meeting of the Psychometric Society, College Park, MD, United States.
 
-*Applications of Statistics in Environmental Studies*. (2017, April). 6th Annual Joint Conference of the Upstate Chapters of the American Statistical Association, Buffalo, NY, United States.
+*Applications of statistics in environmental studies*. (2017, April). 6th Annual Joint Conference of the Upstate Chapters of the American Statistical Association, Buffalo, NY, United States.
 
 ## Student Submission Review
 
@@ -530,7 +541,7 @@ Judge, Pre-College Statistical Data Analysis Competition
 
 ## University of Notre Dame
 
-Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings (08/2020--present)
+Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings (08/2020--08/2021)
 
 Quantitative Area Representative, Graduate Advisory Committee (08/2018--07/2019)
 
