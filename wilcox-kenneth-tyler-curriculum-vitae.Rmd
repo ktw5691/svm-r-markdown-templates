@@ -259,7 +259,7 @@ Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (2021, October 14--16). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Poster presentation]. 19th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Virtual conference.
+**Wilcox, K. T.**, & Wang, L. (2021, October 14--16). *Jointly modeling participant-level data and summary statistics for treatment differences* [Poster presentation]. 19th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
