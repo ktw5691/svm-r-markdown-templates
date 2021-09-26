@@ -249,13 +249,17 @@ Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2021, September 13). *Integrating text into psychological research: Latent variable modeling and applications*. Quantitative Methods Colloquium, Department of Psychology & Human Development, Vanderbilt University, Nashville, TN.
+**Wilcox, K. T.** (2021, October 21). *Integrating text into psychological and education research: Latent variable modeling and applications*. Quantitative Brown Bag Series, Department of Psychology, University of California, Davis, Davis, CA.
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2021, September 13). *Integrating text into psychological and education research: Latent variable modeling and applications*. Quantitative Methods Colloquium, Department of Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (2021, October 14--16). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Submitted poster presentation]. 19th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Virtual conference.
+**Wilcox, K. T.**, & Wang, L. (2021, October 14--16). *Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations* [Poster presentation]. 19th Annual Society of Multivariate Experimental Psychology Graduate Student Conference, Virtual conference.
 
 \hangindent = 2em
 \hangafter = 1
