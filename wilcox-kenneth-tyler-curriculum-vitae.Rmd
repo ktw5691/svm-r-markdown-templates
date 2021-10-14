@@ -152,7 +152,7 @@ https://doi.org/10.1121/2.0000773
 \hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2021). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
-model of text and covariates* [Manuscript under review at *Psychological
+model of text and covariates* [Revise and resubmit, *Psychological
 Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
 
 ## Manuscripts in Preparation
@@ -457,6 +457,14 @@ Striving for Excellence in Teaching \hfill 08/2021
 *University of Notre Dame, Kaneb Center*
 
 # RESEARCH EXPERIENCE
+
+*University of Notre Dame*, Notre Dame, IN
+
+**Graduate Research Assistant**, Department of Psychology \hfill 07/2017--present
+
+\hangindent = 2em
+\hangafter = -1
+Research advisers: Lijuan Wang, Ross Jacobucci, Zhiyong Zhang, Brooke A. Ammerman
 
 *Rochester Institute of Technology*, Rochester, NY
 
