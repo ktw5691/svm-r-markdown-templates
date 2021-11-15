@@ -58,6 +58,10 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
+**Wilcox, K. T.**, & Wang, L. (In press). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, (Abstract).
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.** & Wang, L. (2021). Modeling approaches for cross-sectional
 integrative data analysis: Evaluations and recommendations.
 *Psychological Methods*. Advance online publication. https://doi.org/10.1037/met0000397
@@ -220,8 +224,8 @@ Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.** (2020). *psychtm: Text mining for psychological research*
-(Version 2020.9) [Computer software]. https://github.com/ktw5691/psychtm/
+**Wilcox, K. T.** (2021). *psychtm: Text mining methods for psychological research*
+(Version 2021.1.0) [Computer software]. https://cran.r-project.org/package=psychtm
 
 # AWARDS AND HONORS
 
@@ -246,6 +250,10 @@ Department of Psychology, University of Notre Dame.
 2012 --- Kearse Award for Excellence in Writing ($100) --- Rochester Institute of Technology, College of Liberal Arts
 
 # INVITED TALKS
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.** (2021, November 30). *Integrating text into psychological and education research: Latent variable modeling and applications*. Job Talk, Department of Educational Psychology, University of Minnesota, Minneapolis, MN.
 
 \hangindent = 2em
 \hangafter = 1
