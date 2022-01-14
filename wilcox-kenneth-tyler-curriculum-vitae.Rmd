@@ -58,7 +58,7 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (In press). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, (Abstract).
+**Wilcox, K. T.**, & Wang, L. (In press). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, (Abstract). https://doi.org/10.1080/00273171.2022.2030204
 
 \hangindent = 2em
 \hangafter = 1
@@ -160,12 +160,6 @@ model of text and covariates* [Revise and resubmit, *Psychological
 Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
 
 ## Manuscripts in Preparation
-
-\hangindent = 2em
-\hangafter = 1
-Che, C., **Wilcox, K. T.**, & Zhang, Z. (2021). *Evaluation of the unsupervised
-latent Dirichlet allocation model though simulation* [Manuscript in preparation].
-Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em
 \hangafter = 1
