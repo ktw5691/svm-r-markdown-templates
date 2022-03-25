@@ -12,8 +12,8 @@ jobtitle: "Ph.D. Student, University of Notre Dame"
 address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
 fontawesome: yes
 email: kwilcox3@nd.edu
-phone: "315 209 7252"
-# github: ktw5691
+# phone: "315 209 7252"
+github: ktw5691
 # osf: "5 digit string here"
 orcid: "0000-0003-3969-0427"
 web: ktylerwilcox.me
@@ -58,10 +58,6 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, Advance online publication (Abstract). https://doi.org/10.1080/00273171.2022.2030204
-
-\hangindent = 2em
-\hangafter = 1
 **Wilcox, K. T.** & Wang, L. (2021). Modeling approaches for cross-sectional
 integrative data analysis: Evaluations and recommendations.
 *Psychological Methods*. Advance online publication. https://doi.org/10.1037/met0000397
@@ -71,12 +67,6 @@ integrative data analysis: Evaluations and recommendations.
 Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin, C. M., & McCloskey,
 M. S. (2021). Characterizing the choice to disclose nonsuicidal self-injury.
 *Journal of Clinical Psychology*, *77*(3), 683--700. https://doi.org/10.1002/jclp.23045
-
-\hangindent = 2em
-\hangafter = 1
-Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2021). A constructed response
-model. *Multivariate Behavioral Research*, *56*(1), 150--151 (Abstract).
-https://doi.org/10.1080/00273171.2020.1852907
 
 \hangindent = 2em
 \hangafter = 1
@@ -98,12 +88,6 @@ DeLong, C. M., Fellner, W., **Wilcox, K. T.**, Odell, K., & Harley, H. E.
 Successful recognition of 2-D objects rotated in the picture and depth planes.
 *Journal of Comparative Psychology*, *134*(2), 180--196.
 https://doi.org/10.1037/com0000207
-
-\hangindent = 2em
-\hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic
-modeling with covariates. *Multivariate Behavioral Research*, *55*(1),
-141 (Abstract). https://doi.org/10.1080/00273171.2019.1695568
 
 \hangindent = 2em
 \hangafter = 1
@@ -145,6 +129,22 @@ multi-institutional study. *The Journal of Social Psychology*, *154*(3),
 
 \hangindent = 2em
 \hangafter = 1
+**Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, Advance online publication (Abstract). https://doi.org/10.1080/00273171.2022.2030204
+
+\hangindent = 2em
+\hangafter = 1
+Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2021). A constructed response
+model. *Multivariate Behavioral Research*, *56*(1), 150--151 (Abstract).
+https://doi.org/10.1080/00273171.2020.1852907
+
+\hangindent = 2em
+\hangafter = 1
+**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2020). Bayesian supervised topic
+modeling with covariates. *Multivariate Behavioral Research*, *55*(1),
+141 (Abstract). https://doi.org/10.1080/00273171.2019.1695568
+
+\hangindent = 2em
+\hangafter = 1
 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm
 perception in African penguins (*Spheniscus demersus*).
 *Proceedings of Meetings on Acoustics*, *31*(1).
@@ -154,7 +154,7 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, Jacobucci, R., & Zhang, Z. (2021). *Supervised latent
+**Wilcox, K. T.**, Jacobucci, R., Zhang, Z, & Ammerman, B. A. (2022). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
 model of text and covariates* [Revise and resubmit, *Psychological
 Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
@@ -163,54 +163,54 @@ Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2021). *Goldfish (*Carassius
+DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2022). *Goldfish (*Carassius
 auratus*) exhibit visual object constancy in the picture plane and depth plane
 with 3D objects* [Manuscript in preparation]. Department of Psychology,
 Rochester Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C.M., Morelli, J., & **Wilcox, K.T.** (2021). *Object recognition memory
+DeLong, C.M., Morelli, J., & **Wilcox, K.T.** (2022). *Object recognition memory
 in goldfish (*Carassius auratus*)* [Manuscript in preparation]. Department of
 Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C.M., Morrison, E., & **Wilcox, K.T.** (2021). *Visual perception of
-rotated 2D color photos of 3D objects in goldfish (*Carassius auratus*)*
-[Manuscript in preparation]. Department of Psychology, Rochester Institute of
-Technology.
-
-\hangindent = 2em
-\hangafter = 1
-DeLong, C.M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2021).
+DeLong, C.M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2022).
 *Categorization of 3D objects in goldfish (*Carassius auratus*)* [Manuscript in
 preparation]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C.M., Wegman, J., & **Wilcox, K.T.** (2021). *Object discrimination in
+DeLong, C.M., Wegman, J., & **Wilcox, K.T.** (2022). *Object discrimination in
 goldfish (*Carassius auratus*): The role of color cues in the perception of
 rotated 3D objects* [Manuscript in preparation]. Department of Psychology,
 Rochester Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-DeLong, C.M., Wegman, J., Wright, C., & **Wilcox, K. T.** (2021).
+DeLong, C.M., Wegman, J., Wright, C., & **Wilcox, K. T.** (2022).
 *Categorization of 2D objects in North American river otters (*Lontra
 canadensis*)* [Manuscript in preparation]. Department of Psychology, Rochester
 Institute of Technology.
 
 \hangindent = 2em
 \hangafter = 1
-Hong, M., & **Wilcox, K. T.** (2021). *A joint modeling framework for item
+Hong, M., & **Wilcox, K. T.** (2022). *A joint modeling framework for item
 response and topic models* [Manuscript in preparation]. Department of Psychology,
 University of California, Davis.
 
 \hangindent = 2em
 \hangafter = 1
+Wegman, J., Morrison, E., **Wilcox, K.T.**, & DeLong, C.M. (2022). *Visual perception of
+photographs of rotated 3D objects in goldfish (*Carassius auratus*)*
+[Manuscript in preparation]. Department of Psychology, Rochester Institute of
+Technology.
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E., McCloskey, M. S.,
-& Ammerman, B. A. (2021). *A topic mining approach to characterizing
+& Ammerman, B. A. (2022). *A topic mining approach to characterizing
 interpersonal stress among nonsuicidal self-injury* [Manuscript in preparation].
 Department of Psychology, University of Notre Dame.
 
@@ -527,7 +527,7 @@ Psychological Methods
 
 ## Student Submission Review
 
-Society for Multivariate and Experimental Psychology \hfill 2020
+Society for Multivariate and Experimental Psychology \hfill 2020, 2022
 
 \hangindent = 2em
 \hangafter =-2
@@ -554,6 +554,8 @@ Judge, Pre-College Statistical Data Analysis Competition
 # DEPARTMENTAL/UNIVERSITY SERVICE
 
 ## University of Notre Dame
+
+Prospective Graduate Student Recruitment for the Quantitative Area (11/2017--02/2022)
 
 Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings (08/2020--08/2021)
 
