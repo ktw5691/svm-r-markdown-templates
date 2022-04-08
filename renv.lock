@@ -121,7 +121,7 @@
       "RemoteType": "standard",
       "RemotePkgRef": "glue",
       "RemoteRef": "glue",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://repo.miserver.it.umich.edu/cran",
       "RemotePkgPlatform": "source",
       "RemoteSha": "1.6.2",
       "Hash": "4f2596dfb05dac67b9dc558e5c6fba2e",
@@ -214,16 +214,16 @@
     },
     "magrittr": {
       "Package": "magrittr",
-      "Version": "2.0.2",
+      "Version": "2.0.3",
       "Source": "CRAN",
       "Repository": "CRAN",
       "RemoteType": "standard",
       "RemotePkgRef": "magrittr",
       "RemoteRef": "magrittr",
-      "RemoteRepos": "https://cran.rstudio.com",
+      "RemoteRepos": "https://repo.miserver.it.umich.edu/cran",
       "RemotePkgPlatform": "source",
-      "RemoteSha": "2.0.2",
-      "Hash": "cdc87ecd81934679d1557633d8e1fe51",
+      "RemoteSha": "2.0.3",
+      "Hash": "7ce2733a9826b3aeb1775d56fd305472",
       "Requirements": []
     },
     "rappdirs": {
@@ -341,7 +341,7 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.37",
+      "Version": "0.38",
       "Source": "CRAN",
       "Repository": "CRAN",
       "RemoteType": "standard",
@@ -349,8 +349,8 @@
       "RemoteRef": "tinytex",
       "RemoteRepos": "https://repo.miserver.it.umich.edu/cran",
       "RemotePkgPlatform": "source",
-      "RemoteSha": "0.37",
-      "Hash": "a80abeb527a977e4bef21873d29222dd",
+      "RemoteSha": "0.38",
+      "Hash": "759d047596ac173433985deddf313450",
       "Requirements": [
         "xfun"
       ]
