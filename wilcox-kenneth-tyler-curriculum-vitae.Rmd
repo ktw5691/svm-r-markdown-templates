@@ -154,6 +154,13 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
+Wegman, J., Morrison, E., **Wilcox, K. T.**, & DeLong, C. M. (2022). *Visual perception of
+photographs of rotated 3D objects in goldfish (*Carassius auratus*)*
+[Submitted]. Department of Psychology, Rochester Institute of
+Technology.
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, & Ammerman, B. A. (2022). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
 model of text and covariates* [Revise and resubmit, *Psychological
@@ -199,13 +206,6 @@ Institute of Technology.
 Hong, M., & **Wilcox, K. T.** (2022). *A joint modeling framework for item
 response and topic models* [Manuscript in preparation]. Department of Psychology,
 University of California, Davis.
-
-\hangindent = 2em
-\hangafter = 1
-Wegman, J., Morrison, E., **Wilcox, K.T.**, & DeLong, C.M. (2022). *Visual perception of
-photographs of rotated 3D objects in goldfish (*Carassius auratus*)*
-[Manuscript in preparation]. Department of Psychology, Rochester Institute of
-Technology.
 
 \hangindent = 2em
 \hangafter = 1
