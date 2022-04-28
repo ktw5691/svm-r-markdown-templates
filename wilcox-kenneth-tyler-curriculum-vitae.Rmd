@@ -129,7 +129,10 @@ multi-institutional study. *The Journal of Social Psychology*, *154*(3),
 
 \hangindent = 2em
 \hangafter = 1
-**Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, Advance online publication (Abstract). https://doi.org/10.1080/00273171.2022.2030204
+**Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data
+and summary statistics for treatment differences. *Multivariate Behavioral
+Research*, *57*(1), 175-176 (Abstract).
+https://doi.org/10.1080/00273171.2022.2030204
 
 \hangindent = 2em
 \hangafter = 1
