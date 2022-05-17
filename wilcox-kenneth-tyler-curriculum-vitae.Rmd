@@ -38,7 +38,7 @@ Department of Psychology, University of Notre Dame, Notre Dame, IN
 
 \hangindent = 2em
 \hangafter = -1
-Dissertation: *Jointly modeling participant-level data and published summary statistics for treatment differences with and without covariates*
+Dissertation: *Jointly modeling participant-level data and summary statistics for treatment differences*
 
 M.S. Applied Statistics \hfill 2017
 
@@ -159,7 +159,7 @@ https://doi.org/10.1121/2.0000773
 \hangafter = 1
 Wegman, J., Morrison, E., **Wilcox, K. T.**, & DeLong, C. M. (2022). *Visual perception of
 photographs of rotated 3D objects in goldfish (*Carassius auratus*)*
-[Submitted]. Department of Psychology, Rochester Institute of
+[Revise and resubmit]. Department of Psychology, Rochester Institute of
 Technology.
 
 \hangindent = 2em
@@ -167,7 +167,7 @@ Technology.
 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, & Ammerman, B. A. (2022). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
 model of text and covariates* [Revise and resubmit, *Psychological
-Methods*]. PsyArXiv. https://doi.org/10.31234/osf.io/62tc3
+Methods*]. Department of Psychology, University of Notre Dame. https://doi.org/10.31234/osf.io/62tc3
 
 ## Manuscripts in Preparation
 
