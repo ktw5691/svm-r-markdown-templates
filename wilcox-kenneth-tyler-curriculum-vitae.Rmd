@@ -8,8 +8,8 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: "Kenneth Tyler Wilcox"
 
-jobtitle: "Ph.D. Student, University of Notre Dame"
-address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
+jobtitle: "Postdoctoral Associate, Cornell University"
+# address: "390 Corbett Family Hall · Department of Psychology · Notre Dame, IN 46556"
 fontawesome: yes
 email: kwilcox3@nd.edu
 # phone: "315 209 7252"
@@ -30,7 +30,7 @@ urlcolor: blue
 
 # EDUCATION
 
-Ph.D. Quantitative Psychology \hfill 2022 (expected)
+Ph.D. Quantitative Psychology \hfill 2022
 
 \hangindent = 2em
 \hangafter = -1
@@ -462,6 +462,10 @@ Striving for Excellence in Teaching \hfill 08/2021
 *University of Notre Dame, Kaneb Center*
 
 # RESEARCH EXPERIENCE
+
+*Cornell University*, Ithaca, NY
+
+**Postdoctoral Associate**, Department of Psychology \hfill 08/2022--present
 
 *University of Notre Dame*, Notre Dame, IN
 
