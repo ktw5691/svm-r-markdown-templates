@@ -58,6 +58,11 @@ Department of Psychology, Rochester Institute of Technology, Rochester, NY
 
 \hangindent = 2em
 \hangafter = 1
+Wegman, J. J., Morrison, E., **Wilcox, K. T.**, & DeLong, C. M. (2022). Visual perception of
+photographs of rotated 3D objects in goldfish (*Carassius auratus*). *Animals*, *12*(14), 1797. https://doi.org/10.3390/ani12141797
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.** & Wang, L. (2021). Modeling approaches for cross-sectional
 integrative data analysis: Evaluations and recommendations.
 *Psychological Methods*. Advance online publication. https://doi.org/10.1037/met0000397
@@ -154,13 +159,6 @@ perception in African penguins (*Spheniscus demersus*).
 https://doi.org/10.1121/2.0000773
 
 ## Manuscripts in Submission
-
-\hangindent = 2em
-\hangafter = 1
-Wegman, J., Morrison, E., **Wilcox, K. T.**, & DeLong, C. M. (2022). *Visual perception of
-photographs of rotated 3D objects in goldfish (*Carassius auratus*)*
-[Revise and resubmit]. Department of Psychology, Rochester Institute of
-Technology.
 
 \hangindent = 2em
 \hangafter = 1
