@@ -162,6 +162,10 @@ https://doi.org/10.1121/2.0000773
 
 \hangindent = 2em
 \hangafter = 1
+Schor, D., **Wilcox, K. T.**, & Gibson, B. S. (2022). *Partial recall: Evidence for the continuous resource account of working memory capacity* [Submitted]. Department of Psychology, University of Notre Dame.
+
+\hangindent = 2em
+\hangafter = 1
 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, & Ammerman, B. A. (2022). *Supervised latent
 Dirichlet allocation with covariates: A Bayesian structural and measurement
 model of text and covariates* [Revise and resubmit, *Psychological
