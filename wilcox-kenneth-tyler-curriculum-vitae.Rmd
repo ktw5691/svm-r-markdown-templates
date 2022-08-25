@@ -176,6 +176,8 @@ Psychology, Rochester Institute of Technology.
 modeling framework for item response and topic models* [Manuscript in
 preparation]. Department of Psychology, University of California, Davis.
 
+\hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. T.**. *Positive affect dynamics and health: A synthesis and critical appraisal* [Manuscript in preparation]. Department of Psychology, Cornell University.
+
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
 K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2022). *A topic mining
 approach to characterizing interpersonal stress among nonsuicidal self-injury*
