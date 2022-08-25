@@ -1,0 +1,554 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: "Kenneth Tyler Wilcox"
+
+jobtitle: "Postdoctoral Associate, Cornell University"
+address: "G201 Martha Van Rensselaer Hall · Department of Psychology · Ithaca, NY 14853"
+fontawesome: yes
+email: ktwilcox@cornell.edu
+# phone: "315 209 7252"
+github: ktw5691
+# osf: "5 digit string here"
+orcid: "0000-0003-3969-0427"
+web: ktylerwilcox.me
+updated: yes
+
+# keywords: Quantitative psychology, statistics, data mining # Does not seem to do anything
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12 pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+Ph.D. Quantitative Psychology \hfill 2022
+
+\hangindent = 2em \hangafter = -1 Department of Psychology, University of Notre
+Dame, Notre Dame, IN
+
+\hangindent = 2em \hangafter = -1 Dissertation: *Jointly modeling
+participant-level data and summary statistics for treatment differences*
+
+M.S. Applied Statistics \hfill 2017
+
+\hangindent = 2em \hangafter = -1 School of Mathematical Sciences, Rochester
+Institute of Technology, Rochester, NY
+
+B.S. Psychology \hfill 2013
+
+\hangindent = 2em \hangafter = -1 Department of Psychology, Rochester Institute
+of Technology, Rochester, NY
+
+# PUBLICATIONS
+
+## Refereed Journal Articles
+
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Morrison, E., **Wilcox, K. T.**,
+& DeLong, C. M. (2022). Visual perception of photographs of rotated 3D objects
+in goldfish (*Carassius auratus*). *Animals*, *12*(14), 1797.
+<https://doi.org/10.3390/ani12141797>
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2021). Modeling
+approaches for cross-sectional integrative data analysis: Evaluations and
+recommendations. *Psychological Methods*. Advance online publication.
+<https://doi.org/10.1037/met0000397>
+
+\hangindent = 2em \hangafter = 1 Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin,
+C. M., & McCloskey, M. S. (2021). Characterizing the choice to disclose
+nonsuicidal self-injury. *Journal of Clinical Psychology*, *77*(3), 683--700.
+<https://doi.org/10.1002/jclp.23045>
+
+\hangindent = 2em \hangafter = 1 Jacobucci, R., Ammerman, B. A., & **Wilcox, K.
+T.** (2021). The use of text-based responses to improve our understanding and
+prediction of suicide risk. *Suicide and Life-Threatening Behavior*, *51*(1),
+55--64. <https://doi.org/10.1111/sltb.12668>
+
+\hangindent = 2em \hangafter = 1 Morrison, E. K., DeLong, C. M., & **Wilcox, K.
+T.** (2020). How humans discriminate acoustically among bottlenose dolphin
+signature whistles with and without masking by boat noise. *Journal of the
+Acoustical Society of America*, *147*(6), 4162--4174.
+<https://doi.org/10.1121/10.0001450>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Fellner, W., **Wilcox, K. T.**,
+Odell, K., & Harley, H. E. (2020). Visual perception in bottlenose dolphins
+(*Tursiops truncatus*): Successful recognition of 2-D objects rotated in the
+picture and depth planes. *Journal of Comparative Psychology*, *134*(2),
+180--196. <https://doi.org/10.1037/com0000207>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Wright, C., Fobe, I., **Wilcox,
+K. T.**, & Morrison, E. (2019). North American river otters (*Lontra
+canadensis*) discriminate between 2D objects varying in shape and color.
+*Learning & Behavior*, *47*, 91--104.
+<https://doi.org/10.3758/s13420-018-0346-x>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Fobe, I., O'Leary, T., &
+**Wilcox, K. T.** (2018). Visual perception of planar-rotated 2D objects in
+goldfish (*Carassius auratus*). *Behavioural Processes*, *157*, 263--278.
+<https://doi.org/10.1016/j.beproc.2018.10.009>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Keller, A. M., **Wilcox, K.
+T.**, Fobe, I., & Keenan, S. A. (2018). Visual discrimination of geometric and
+complex 2D shapes in goldfish (*Carassius auratus*). *Animal Behavior and
+Cognition*, *5*(3), 300--319. <https://doi.org/10.26451/abc.05.03.05.2018>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Barbato, S., O'Leary, T., &
+**Wilcox, K. T.** (2017). Small and large number discrimination in goldfish
+(*Carassius auratus*) with extensive training. *Behavioural Processes*,
+*141*(P2), 172--183. <https://doi.org/10.1016/j.beproc.2016.11.011>
+
+\hangindent = 2em \hangafter = 1 Edlund, J.E., Nichols, A. L., Okdie, B. M.,
+Guadagno, R. E., Eno, C. A., Heider, J. D., Hansen, E., Sagarin, B. J.,
+Blackhart, G., Cottrell, C. A., & **Wilcox, K. T.** (2014). The prevalence and
+prevention of crosstalk: A multi-institutional study. *The Journal of Social
+Psychology*, *154*(3), 181-185. <https://doi.org/10.1080/00224545.2013.872596>
+
+## Conference Proceedings
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2022). Jointly
+modeling participant-level data and summary statistics for treatment
+differences. *Multivariate Behavioral Research*, *57*(1), 175-176 (Abstract).
+<https://doi.org/10.1080/00273171.2022.2030204>
+
+\hangindent = 2em \hangafter = 1 Hong, M., **Wilcox, K. T.**, & Cheng, Y.
+(2021). A constructed response model. *Multivariate Behavioral Research*,
+*56*(1), 150--151 (Abstract). <https://doi.org/10.1080/00273171.2020.1852907>
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z.
+(2020). Bayesian supervised topic modeling with covariates. *Multivariate
+Behavioral Research*, *55*(1), 141 (Abstract).
+<https://doi.org/10.1080/00273171.2019.1695568>
+
+\hangindent = 2em \hangafter = 1 Fobe, I., DeLong, C. M., & **Wilcox, K. T.**
+(2017). An exploration of rhythm perception in African penguins (*Spheniscus
+demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
+<https://doi.org/10.1121/2.0000773>
+
+## Manuscripts in Submission
+
+\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S.
+(2022). *Partial recall: Evidence for the continuous resource account of working
+memory capacity* [Submitted]. Department of Psychology, University of Notre
+Dame.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
+Ammerman, B. A. (2022). *Supervised latent Dirichlet allocation with covariates:
+A Bayesian structural and measurement model of text and covariates* [Revise and
+resubmit, *Psychological Methods*]. Department of Psychology, University of
+Notre Dame. <https://doi.org/10.31234/osf.io/62tc3>
+
+## Manuscripts in Preparation
+
+\hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.**
+(2022). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the
+picture plane and depth plane with 3D objects* [Manuscript in preparation].
+Department of Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 DeLong, C.M., Morelli, J., & **Wilcox, K.T.**
+(2022). *Object recognition memory in goldfish (*Carassius auratus*)*
+[Manuscript in preparation]. Department of Psychology, Rochester Institute of
+Technology.
+
+\hangindent = 2em \hangafter = 1 DeLong, C.M., Morrison, E., **Wilcox, K.T.**, &
+Wegman, J. (2022). *Categorization of 3D objects in goldfish (*Carassius
+auratus*)* [Manuscript in preparation]. Department of Psychology, Rochester
+Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., & **Wilcox, K.T.**
+(2022). *Object discrimination in goldfish (*Carassius auratus*): The role of
+color cues in the perception of rotated 3D objects* [Manuscript in preparation].
+Department of Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., Wright, C., &
+**Wilcox, K. T.** (2022). *Categorization of 2D objects in North American river
+otters (*Lontra canadensis*)* [Manuscript in preparation]. Department of
+Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2022). *A joint
+modeling framework for item response and topic models* [Manuscript in
+preparation]. Department of Psychology, University of California, Davis.
+
+\hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. T.**. *Positive affect dynamics and health: A synthesis and critical appraisal* [Manuscript in preparation]. Department of Psychology, Cornell University.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
+K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2022). *A topic mining
+approach to characterizing interpersonal stress among nonsuicidal self-injury*
+[Manuscript in preparation]. Department of Psychology, University of Notre Dame.
+
+## Software Development
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2021). *psychtm: Text mining
+methods for psychological research* (Version 2021.1.0) [Computer software].
+<https://cran.r-project.org/package=psychtm>
+
+# AWARDS AND HONORS
+
+2021 --- [Outstanding Graduate Student Teacher
+Award](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/)
+(\$100) --- University of Notre Dame, Graduate School and ND Learning \| Kaneb
+Center for Teaching Excellence
+
+2020 --- [Graduate Student Union Outstanding Teaching Assistant
+Award](https://gsg.nd.edu/funding-awards/teaching-assistant-award/) (\$300) ---
+University of Notre Dame
+
+2019 --- Travel Assistance Award (\$1,500) --- Society of Multivariate and
+Experimental Psychology
+
+2017 --- [University Presidential
+Fellowship](https://graduateschool.nd.edu/funding/select-fellowships/university-presidential-fellowship-in-humanities-and-social-sciences/)
+--- University of Notre Dame
+
+2016 --- Honorable Mention for Oral Presentation Based on Methodology and Theory
+(\$50) --- Upstate Chapters of the American Statistical Association
+
+2015 --- John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute
+of Technology, Center for Quality and Applied Statistics
+
+2014 --- Travel Assistance Award (\$200) --- Association for Psychological
+Science Student Caucus
+
+2013 --- [Outstanding Undergraduate Scholarship
+Award](https://www.rit.edu/provost/outstanding-undergraduate-scholar-award) ---
+Rochester Institute of Technology, College of Liberal Arts
+
+2013 --- Student Research Fund (\$72) --- Rochester Institute of Technology,
+College of Liberal Arts
+
+2012 --- Kearse Award for Excellence in Writing (\$100) --- Rochester Institute
+of Technology, College of Liberal Arts
+
+# INVITED TALKS
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2021, November 30).
+*Integrating text into psychological and education research: Latent variable
+modeling and applications*. Job Talk, Department of Educational Psychology,
+University of Minnesota, Minneapolis, MN.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2021, October 21).
+*Integrating text into psychological and education research: Latent variable
+modeling and applications*. Quantitative Brown Bag Series, Department of
+Psychology, University of California, Davis, Davis, CA.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2021, September 13).
+*Integrating text into psychological and education research: Latent variable
+modeling and applications*. Quantitative Methods Colloquium, Department of
+Psychology & Human Development, Vanderbilt University, Nashville, TN.
+
+# CONFERENCE ACTIVITY
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2021, October
+14--16). *Jointly modeling participant-level data and summary statistics for
+treatment differences* [Poster presentation]. 19th Annual Society of
+Multivariate Experimental Psychology Graduate Student Conference, Virtual
+conference.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2021, July
+19--23). *Modeling approaches for cross-sectional integrative data analysis:
+Evaluations and recommendations* [Paper presentation]. 86th Annual Meeting of
+the Psychometric Society, Virtual conference.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Morelli, J., Wegman, J.,
+Sheldon, H., Gunther, K., & **Wilcox, K. T.** (2021, April 7--10). *Long-term
+object recognition memory in goldfish (Carassius auratus)* [Paper presentation].
+28th Annual International Conference on Comparative Cognition, Virtual
+conference.
+
+\hangindent = 2em \hangafter = 1 Wegman, J., DeLong, C. M., Morrison, E.,
+Morelli, J., Rachfal, T., & **Wilcox, K. T.** (2020, November 16--20). *Visual
+object categorization in goldfish (Carassius auratus)* [Paper presentation]. RIT
+Graduate Showcase, Rochester, NY, United States. Note: Winner of Oral
+Presentation Award. <https://youtu.be/hrgLbcJDPXo>
+
+\hangindent = 2em \hangafter = 1 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020,
+October 7--10). *A constructed response model* [Poster presentation]. 18th
+Annual Society of Multivariate Experimental Psychology Graduate Student
+Preconference, Virtual conference.
+
+\hangindent = 2em \hangafter = 1 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2020,
+July 13--17). *A joint modeling framework for item response and topic models*
+[Paper presentation]. 85th Annual Meeting of the Psychometric Society, College
+Park, MD, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z.
+(2020, July 13--17). *Combining topic modeling and regression: Supervised topic
+modeling with covariates* [Invited "Spotlight Talk" paper presentation]. 85th
+Annual Meeting of the Psychometric Society, College Park, MD, United States.
+
+\hangindent = 2em \hangafter = 1 Che, C., **Wilcox, K. T.**, & Zhang, Z. (2020,
+May 26--27). *Evaluation of the unsupervised latent Dirichlet allocation model
+though simulation* [Paper presentation]. 2nd Annual Meeting of the International
+Society for Data Science and Analytics, Notre Dame, IN, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., & Zhang, Z.
+(2020, May 26--27). *Modeling relationships from themes in text and covariates
+with an outcome: A Bayesian supervised topic model with covariates* [Paper
+presentation]. 2nd Annual Meeting of the International Society for Data Science
+and Analytics, Notre Dame, IN, United States.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Morrison, E., Wegman, J.,
+Morelli, J., Rachfal, T., & **Wilcox, K. T.**. (2020, April 1--4). *Visual
+object categorization in goldfish (Carassius auratus)* [Poster presentation].
+27th Annual International Conference on Comparative Cognition, Melbourne, FL,
+United States. (Conference canceled)
+
+\hangindent = 2em \hangafter = 1 Ammerman, B. A., **Wilcox, K. T.**, &
+Jacobucci, R. (2019, November 21--24). A nuanced examination of the relationship
+between social connectedness and suicidal ideation. In B. A. Ammerman & R.
+Jacobucci (Chairs), *Utilizing text mining in clinical research: Novel
+applications for improving the prediction of psychological distress*
+[Symposium]. 53rd Annual Convention of the Association for Behavioral and
+Cognitive Therapies, Atlanta, GA, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., McCloskey, M.
+S., & Ammerman, B. A. (2019, November 21--24). Evaluating personal narratives of
+interpersonal relationships via text mining to predict nonsuicidal self-injury.
+In B. A. Ammerman & R. Jacobucci (Chairs), *Utilizing text mining in clinical
+research: Novel applications for improving the prediction of psychological
+distress* [Symposium]. 53rd Annual Convention of the Association for Behavioral
+and Cognitive Therapies, Atlanta, GA, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2019, October 9--12).
+*Bayesian supervised topic modeling with covariates* [Poster presentation]. 17th
+Annual Society of Multivariate Experimental Psychology Graduate Student
+Conference, Baltimore, MD, United States.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Morrison, E., Wegman, J.,
+Rachfal, T., & **Wilcox, K. T.** (2019, April 10--13). *Visual perception of
+rotated 2D color representations of familiar 3D objects in goldfish (Carassius
+auratus)* [Paper presentation]. 26th Annual International Conference on
+Comparative Cognition, Melbourne Beach, FL, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2018, July 9--13). *A
+Bayesian hidden topic Markov model for latent linguistic structure* [Paper
+presentation]. 83rd Annual Meeting of the Psychometric Society, New York, NY,
+United States.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Rachfal, H.,
+Morrison, E., & **Wilcox, K. T.** (2018, April 4--7). *Visual discrimination of
+rotated 3D objects in goldfish (Carassius auratus)* [Paper presentation]. 25th
+Annual International Conference on Comparative Cognition, Melbourne Beach, FL,
+United States.
+
+\hangindent = 2em \hangafter = 1 Morrison, E., DeLong, C. M., Wright, C.,
+Gardner, K., Rachfal, H., Gamble, M., **Wilcox, K. T.**, Frye, D., Thorner, H.,
+Fobe, I., & Dami, J. (2018, April 4--7). *North American river otters (Lontra
+canadensis) use shape and color to discriminate between 2D objects* [Poster
+presentation]. 25th Annual International Conference on Comparative Cognition,
+Melbourne Beach, FL, United States.
+
+\hangindent = 2em \hangafter = 1 Fobe, I., DeLong, C. M., & **Wilcox, K. T.**
+(2017, December 4--8). *An exploration of rhythm perception in African penguins
+(Spheniscus demersus)* [Paper presentation]. 174th Meeting of the Acoustical
+Society of America, New Orleans, LA, United States.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Fellner, W., Harley, H. E.,
+Fobe, I., **Wilcox, K. T.**, Gardner, K., & Odell, K. (2017, November 9).
+*Visual discrimination of rotated 2D objects in a bottlenose dolphin (Tursiops
+truncatus) and goldfish (Carassius auratus)* [Paper presentation]. Fall Meeting
+of the Comparative Cognition Society 2017, Vancouver, BC, Canada.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2017, April). *Text mining
+with a Bayesian hidden topic Markov model* [Paper presentation]. 6th Annual
+Joint Conference of the Upstate Chapters of the American Statistical
+Association, Buffalo, NY, United States.
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Fobe, I., **Wilcox, K. T.**, &
+O'Leary, T. (2017, April 19--22). *Visual discrimination of rotated 2D objects
+in goldfish (Carassius auratus)* [Paper presentation]. 24th Annual International
+Conference on Comparative Cognition, Melbourne Beach, FL, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2016, April). *An
+introduction to ensemble methods for machine learning* [Paper presentation]. 5th
+Annual Joint Conference of the Upstate Chapters of the American Statistical
+Association, Buffalo, NY, United States.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & DeLong, C. M. (2014, May
+22--25). *Mindfulness meditation and relaxation differentially improve
+mindfulness and affect, not emotional memory* [Poster presentation]. 26th
+Association for Psychological Science Annual Convention, San Francisco, CA,
+United States.
+
+\hangindent = 2em \hangafter = 1 Nichols, A. L., Edlund, J. E., Okdie, B. M.,
+Guadagno, R. E., Eno, C. A., Heider, J. D., Hansen, E., Sagarin, B. J.,
+Blackhart, G., Cottrell, C. A., & **Wilcox, K. T.** (2013, November).
+*Predicting and preventing participant crosstalk: A multi-institutional
+investigation* [Paper presentation]. 2nd International Conference on Emerging
+Research Paradigms in Business and Social Sciences, Dubai, United Arab Emirates.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Wright, C., & DeLong, C. M.
+(2012, August 10). *Training North American river otters (Lontra canadensis) to
+discriminate among objects* [Poster presentation]. 21st Annual Rochester
+Institute of Technology Undergraduate Research Symposium, Rochester, NY, United
+States.
+
+# TEACHING EXPERIENCE
+
+## University of Notre Dame
+
+Graduate Seminar: Quantitative Study (co-instructor, graduate course; Spring
+2021, Fall 2021)
+
+Quantitative Methods II (teaching assistant & lab instructor, graduate course;
+Spring 2020)
+
+Quantitative Methods I (teaching assistant & lab instructor, graduate course;
+Fall 2019)
+
+## Rochester Institute of Technology
+
+Elements of Statistical Theory (teaching assistant, graduate course; Fall 2015,
+Fall 2016)
+
+Principles of Statistical Data Mining (teaching assistant, graduate course;
+Spring 2017)
+
+Statistical Software (teaching assistant, graduate course; Fall 2015)
+
+Probability and Statistics II for Engineers (teaching assistant; Spring 2015)
+
+Critical Mathematical Skills (co-instructor; Fall 2014, Fall 2015)
+
+## Certifications
+
+Striving for Excellence in Teaching \hfill 08/2021
+
+\hangindent = 2em \hangafter = -1 *University of Notre Dame, Kaneb Center*
+
+# RESEARCH EXPERIENCE
+
+*Cornell University*, Ithaca, NY
+
+**Postdoctoral Associate**, Department of Psychology \hfill 08/2022--present
+
+*University of Notre Dame*, Notre Dame, IN
+
+**Graduate Research Assistant**, Department of Psychology \hfill
+07/2017--present
+
+\hangindent = 2em \hangafter = -1 Research advisers: Lijuan Wang, Ross
+Jacobucci, Zhiyong Zhang, Brooke A. Ammerman
+
+*Rochester Institute of Technology*, Rochester, NY
+
+**Statistician**, Department of Service Systems \hfill 05/2017--07/2017
+
+\hangindent = 2em \hangafter = -1 Research collaborators: Malarvizhi
+Hirudayaraj, Martin Anselm
+
+**Research Assistant**, Department of Psychology \hfill 03/2012--05/2013
+
+\hangindent = 2em \hangafter = -1 Research adviser: Caroline M. DeLong
+
+**Research Assistant**, Department of Psychology \hfill 11/2011--05/2013
+
+\hangindent = 2em \hangafter = -1 Research adviser: John Edlund
+
+*SUNY Upstate Medical University*, Syracuse, NY
+
+**Research Analyst**, Department of Psychiatry and Behavioral Sciences \hfill
+06/2013--08/2013
+
+\hangindent = 2em \hangafter = -1 Research adviser: John Manring
+
+**Research Intern**, Department of Neurosurgery \hfill 07/2011--09/2011
+
+\hangindent = 2em \hangafter = -1 Research advisers: John Manring, Satish
+Krishnamurthy
+
+# SERVICE TO PROFESSION
+
+## [Journal Manuscript Review](https://publons.com/researcher/3552151/kenneth-tyler-wilcox/)
+
+Frontiers in Psychology, section Quantitative Psychology and Measurement
+
+Journal of Behavioral Data Science
+
+Multivariate Behavioral Research
+
+PLOS-ONE
+
+Psychological Methods
+
+## Sessions Chaired
+
+*Structural equation modeling*. (2021, July 19--23). 86th Annual Meeting of the
+Psychometric Society, Virtual conference.
+
+*Regression modeling and prediction*. (2020, July 13--17). 85th Annual Meeting
+of the Psychometric Society, College Park, MD, United States.
+
+*Applications of statistics in environmental studies*. (2017, April). 6th Annual
+Joint Conference of the Upstate Chapters of the American Statistical
+Association, Buffalo, NY, United States.
+
+## Student Submission Review
+
+Society for Multivariate and Experimental Psychology \hfill 2020, 2022
+
+\hangindent = 2em \hangafter =-2 Reviewer, SMEP Graduate Student Conference
+
+Association for Psychological Science Student Caucus \hfill 2016--2021
+
+\hangindent = 2em \hangafter = -2 Reviewer, APSSC Student Grant Competition
+
+Sixth Annual Joint Conference of the Upstate Chapters of the American
+Statistical Association \hfill 2017
+
+\hangindent = 2em \hangafter = -1 Judge, Pre-College Statistical Data Analysis
+Competition
+
+Fifth Annual Joint Conference of the Upstate Chapters of the American
+Statistical Association \hfill 2016
+
+\hangindent = 2em \hangafter = -1 Judge, Pre-College Statistical Data Analysis
+Competition
+
+# DEPARTMENTAL/UNIVERSITY SERVICE
+
+## University of Notre Dame
+
+Prospective Graduate Student Recruitment for the Quantitative Area
+(11/2017--02/2022)
+
+Student Representative for the Quantitative Area, Departmental and Quantitative
+Area Faculty Meetings (08/2020--08/2021)
+
+Quantitative Area Representative, Graduate Advisory Committee (08/2018--07/2019)
+
+## Rochester Institute of Technology
+
+Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory,
+Computation, Applications and Data", Summer Mathematics Institute (06/2016)
+
+Student Representative, Eisenhart Award Nomination Committee (09/2012--05/2013)
+
+Peer Mentor, First Year Enrichment Program (09/2010--05/2013)
+
+# EXTRACURRICULAR UNIVERSITY SERVICE
+
+## Rochester Institute of Technology
+
+Secretary, Data Science Research Group (01/2015--05/2017)
+
+Secretary, Psychology Student Society (03/2012--05/2013)
+
+# PROFESSIONAL MEMBERSHIPS
+
+American Psychological Association
+
+American Psychological Association Division 5
+
+American Statistical Association
+
+Association for Psychological Science
+
+Psychometric Society
