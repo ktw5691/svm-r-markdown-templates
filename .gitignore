@@ -32,3 +32,4 @@
 _cache
 # don't ignore the .gitignore file
 !.gitignore
+*.icloud
