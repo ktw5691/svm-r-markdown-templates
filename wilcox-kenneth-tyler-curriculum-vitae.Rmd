@@ -52,6 +52,11 @@ of Technology, Rochester, NY
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
+Ammerman, B. A. (in press). Supervised latent Dirichlet allocation with
+covariates: A Bayesian structural and measurement model of text and covariates.
+*Psychological Methods*.
+
 \hangindent = 2em \hangafter = 1 Wegman, J. J., Morrison, E., **Wilcox, K. T.**,
 & DeLong, C. M. (2022). Visual perception of photographs of rotated 3D objects
 in goldfish (*Carassius auratus*). *Animals*, *12*(14), 1797.
@@ -135,53 +140,48 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 ## Manuscripts in Submission
 
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S.
-(2022). *Partial recall: Evidence for the continuous resource account of working
-memory capacity* [Submitted]. Department of Psychology, University of Notre
-Dame.
+(2022). Partial recall: Evidence for the continuous resource account of working
+memory capacity. [Manuscript submitted for publication]. Department of
+Psychology, University of Notre Dame.
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
-Ammerman, B. A. (2022). *Supervised latent Dirichlet allocation with covariates:
-A Bayesian structural and measurement model of text and covariates* [Revise and
-resubmit, *Psychological Methods*]. Department of Psychology, University of
-Notre Dame. <https://doi.org/10.31234/osf.io/62tc3>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
+K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2022). A topic mining
+approach to characterizing interpersonal stress among nonsuicidal self-injury.
+[Manuscript submitted for publication]. Department of Psychology, University of
+Notre Dame.
 
 ## Manuscripts in Preparation
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.**
 (2022). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the
-picture plane and depth plane with 3D objects* [Manuscript in preparation].
+picture plane and depth plane with 3D objects*. [Manuscript in preparation].
 Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Morelli, J., & **Wilcox, K.T.**
-(2022). *Object recognition memory in goldfish (*Carassius auratus*)*
+(2022). *Object recognition memory in goldfish (*Carassius auratus*)*.
 [Manuscript in preparation]. Department of Psychology, Rochester Institute of
 Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Morrison, E., **Wilcox, K.T.**, &
 Wegman, J. (2022). *Categorization of 3D objects in goldfish (*Carassius
-auratus*)* [Manuscript in preparation]. Department of Psychology, Rochester
+auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester
 Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., & **Wilcox, K.T.**
 (2022). *Object discrimination in goldfish (*Carassius auratus*): The role of
-color cues in the perception of rotated 3D objects* [Manuscript in preparation].
-Department of Psychology, Rochester Institute of Technology.
+color cues in the perception of rotated 3D objects*. [Manuscript in
+preparation]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., Wright, C., &
 **Wilcox, K. T.** (2022). *Categorization of 2D objects in North American river
-otters (*Lontra canadensis*)* [Manuscript in preparation]. Department of
+otters (*Lontra canadensis*)*. [Manuscript in preparation]. Department of
 Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2022). *A joint
-modeling framework for item response and topic models* [Manuscript in
+modeling framework for item response and topic models*. [Manuscript in
 preparation]. Department of Psychology, University of California, Davis.
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. T.**. *Positive affect dynamics and health: A synthesis and critical appraisal* [Manuscript in preparation]. Department of Psychology, Cornell University.
-
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
-K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2022). *A topic mining
-approach to characterizing interpersonal stress among nonsuicidal self-injury*
-[Manuscript in preparation]. Department of Psychology, University of Notre Dame.
+\hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. T.**. *Positive affect dynamics and health: A synthesis and critical appraisal*. [Manuscript in preparation]. Department of Psychology, Cornell University.
 
 ## Software Development
 
