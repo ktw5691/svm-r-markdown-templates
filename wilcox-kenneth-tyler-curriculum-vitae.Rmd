@@ -139,6 +139,9 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 
 ## Manuscripts in Submission
 
+\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2022). A joint
+modeling framework for item response and topic models. [Manuscript submitted for publication]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31219/osf.io/fzx7r>
+
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S.
 (2022). Partial recall: Evidence for the continuous resource account of working
 memory capacity. [Manuscript submitted for publication]. Department of
@@ -176,10 +179,6 @@ preparation]. Department of Psychology, Rochester Institute of Technology.
 **Wilcox, K. T.** (2022). *Categorization of 2D objects in North American river
 otters (*Lontra canadensis*)*. [Manuscript in preparation]. Department of
 Psychology, Rochester Institute of Technology.
-
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2022). *A joint
-modeling framework for item response and topic models*. [Manuscript in
-preparation]. Department of Psychology, University of Notre Dame.
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. T.**. *Positive affect dynamics and health: A synthesis and critical appraisal*. [Manuscript in preparation]. Department of Psychology, Cornell University.
 
