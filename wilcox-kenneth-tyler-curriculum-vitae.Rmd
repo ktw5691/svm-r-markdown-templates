@@ -246,6 +246,9 @@ Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
 
+\hangindent = 2em \hangafter = 1 Ong, A., **Wilcox, K. T.**, Moskowitz, J., Wethington, E., Addington, E., & Reid, M. C. (2022, November
+02--06). *Lessons in Affect Regulation to Keep Stress and Pain UndeR control (LARKSPUR): Design of a randomized controlled trial to increase positive affect in middle-aged and older adults with fibromyalgia* [Paper presentation]. 75th Annual Scientific Meeting of the Gerontological Society of America, Indianapolis, IN, United States.
+
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2021, October
 14--16). *Jointly modeling participant-level data and summary statistics for
 treatment differences* [Poster presentation]. 19th Annual Society of
