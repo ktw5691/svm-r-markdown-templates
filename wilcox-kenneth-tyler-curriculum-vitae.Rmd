@@ -189,9 +189,10 @@ appraisal*. [Manuscript in preparation]. Department of Psychology, Cornell
 University.
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K.T.**, Moskowitz, J. T.,
-Wethington, E., & Reid, M. C. *Feasibility, acceptability, and preliminary 
-efficacy of a positive affect skills intervention for adults with 
-fibromyalgia*. [Manuscript in preparation]. Department of Psychology, Cornell 
+Wethington, E., Addington, E. L., & Reid, M. C. *Feasibility, acceptability, and
+preliminary  efficacy of a multicomponent behavioral intervention to increase
+positive affect and reduce pain in middle-aged and older adults with
+fibromyalgia*. [Manuscript in preparation]. Department of Psychology, Cornell
 University.
 
 ## Software Development
