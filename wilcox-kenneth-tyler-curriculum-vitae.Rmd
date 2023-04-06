@@ -58,15 +58,15 @@ covariates: A Bayesian structural and measurement model of text and covariates.
 *Psychological Methods*. Advance online publication.
 <https://doi.org/10.1037/met0000541>
 
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2023). Modeling
+approaches for cross-sectional integrative data analysis: Evaluations and
+recommendations. *Psychological Methods*, *28*(1), 242-261.
+<https://doi.org/10.1037/met0000397>
+
 \hangindent = 2em \hangafter = 1 Wegman, J. J., Morrison, E., **Wilcox, K. T.**,
 & DeLong, C. M. (2022). Visual perception of photographs of rotated 3D objects
 in goldfish (*Carassius auratus*). *Animals*, *12*(14), 1797.
 <https://doi.org/10.3390/ani12141797>
-
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2021). Modeling
-approaches for cross-sectional integrative data analysis: Evaluations and
-recommendations. *Psychological Methods*. Advance online publication.
-<https://doi.org/10.1037/met0000397>
 
 \hangindent = 2em \hangafter = 1 Ammerman, B. A., **Wilcox, K. T.**, O'Loughlin,
 C. M., & McCloskey, M. S. (2021). Characterizing the choice to disclose
@@ -140,24 +140,24 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2022). A joint
+\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). A joint
 modeling framework for item response and topic models. [Manuscript submitted for
 publication]. Department of Psychology, University of Notre Dame. 
 <https://doi.org/10.31219/osf.io/fzx7r>
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K.T.**, Moskowitz, J. T.,
-Wethington, E., Addington, E. L., & Reid, M. C. *Feasibility, acceptability, and
+Wethington, E., Addington, E. L., & Reid, M. C. (2023). *Feasibility, acceptability, and
 preliminary  efficacy of a positive affect skills intervention for adults with
 fibromyalgia*. [Manuscript submitted for publication]. Department of Psychology, Cornell
 University.
 
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. 
-S. (2022). Partial recall: Evidence for the discrete slot limit of working 
+S. (2023). Partial recall: Implications for the discrete slot limit of working 
 memory capacity. [Manuscript submitted for publication]. Department of 
 Psychology, University of Notre Dame.
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
-K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2022). A topic mining
+K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2023). A topic mining
 approach to characterizing interpersonal stress among nonsuicidal self-injury.
 [Manuscript submitted for publication]. Department of Psychology, University of
 Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
@@ -165,33 +165,33 @@ Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
 ## Manuscripts in Preparation
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.**
-(2022). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the
+(2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the
 picture plane and depth plane with 3D objects*. [Manuscript in preparation].
 Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Morelli, J., & **Wilcox, K.T.**
-(2022). *Object recognition memory in goldfish (*Carassius auratus*)*.
+(2023). *Object recognition memory in goldfish (*Carassius auratus*)*.
 [Manuscript in preparation]. Department of Psychology, Rochester Institute of
 Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Morrison, E., **Wilcox, K.T.**, &
-Wegman, J. (2022). *Categorization of 3D objects in goldfish (*Carassius
+Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius
 auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester
 Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., & **Wilcox, K.T.**
-(2022). *Object discrimination in goldfish (*Carassius auratus*): The role of
+(2023). *Object discrimination in goldfish (*Carassius auratus*): The role of
 color cues in the perception of rotated 3D objects*. [Manuscript in
 preparation]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., Wright, C., &
-**Wilcox, K. T.** (2022). *Categorization of 2D objects in North American river
+**Wilcox, K. T.** (2023). *Categorization of 2D objects in North American river
 otters (*Lontra canadensis*)*. [Manuscript in preparation]. Department of
 Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., Dejonckheere, E., & **Wilcox, K. 
 T.** *Positive affect dynamics and health: A synthesis and critical
-appraisal*. [Manuscript in preparation]. Department of Psychology, Cornell 
+appraisal*. (2023). [Manuscript in preparation]. Department of Psychology, Cornell 
 University.
 
 ## Software Development
