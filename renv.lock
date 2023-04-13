@@ -932,11 +932,13 @@
     },
     "igraph": {
       "Package": "igraph",
-      "Version": "1.4.1",
+      "Version": "1.4.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "Matrix",
+        "R",
+        "cpp11",
         "grDevices",
         "graphics",
         "magrittr",
@@ -946,7 +948,7 @@
         "stats",
         "utils"
       ],
-      "Hash": "a7ef0d811cb66d8be9da0d7b5ab80ded"
+      "Hash": "3e476b375c746d899fd53a7281d78191"
     },
     "influenceR": {
       "Package": "influenceR",
@@ -1034,7 +1036,7 @@
     },
     "labelled": {
       "Package": "labelled",
-      "Version": "2.10.0",
+      "Version": "2.11.0",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1047,7 +1049,7 @@
         "tidyr",
         "vctrs"
       ],
-      "Hash": "1c444c7fe66cebddc0e6e3e2a5ca37c1"
+      "Hash": "bf5e8a9e9a64b779a338a81c54c2a2a3"
     },
     "later": {
       "Package": "later",
@@ -1465,13 +1467,13 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "0.17.2",
+      "Version": "0.17.3",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "utils"
       ],
-      "Hash": "aaf3c7f769695266a2113db67a25148b"
+      "Hash": "4543b8cd233ae25c6aba8548be9e747e"
     },
     "reprex": {
       "Package": "reprex",
