@@ -28,6 +28,10 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+```{r, echo=FALSE, message=FALSE}
+library(markdown)
+```
+
 # EDUCATION
 
 Ph.D. Quantitative Psychology \hfill 2022
