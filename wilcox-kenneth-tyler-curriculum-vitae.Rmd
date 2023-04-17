@@ -148,22 +148,28 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). A joint
-modeling framework for item response and topic models. [Manuscript submitted for
-publication]. Department of Psychology, University of Notre Dame. 
-<https://doi.org/10.31219/osf.io/fzx7r>
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W.,
+Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive
+experiences to improve emotional and functional well-being in adults with
+fibromyalgia*. [Letter of intent submitted for review]. Department of
+Psychology, Cornell University.
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K.T.**, Moskowitz, J. T.,
-Wethington, E., Addington, E. L., & Reid, M. C. (2023). *Feasibility, acceptability, and
-preliminary  efficacy of a positive affect skills intervention for adults with
-fibromyalgia*. [Manuscript submitted for publication]. Department of Psychology, Cornell
-University.
+Wethington, E., Addington, E. L., & Reid, M. C. (2023). *Feasibility,
+acceptability, and preliminary  efficacy of a positive affect skills
+intervention for adults with fibromyalgia*. [Manuscript submitted for
+publication]. Department of Psychology, Cornell University.
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
 K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2023). A topic mining
 approach to characterizing interpersonal stress among nonsuicidal self-injury.
 [Manuscript submitted for publication]. Department of Psychology, University of
 Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
+
+\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). A joint
+modeling framework for item response and topic models. [Manuscript submitted for
+publication]. Department of Psychology, University of Notre Dame. 
+<https://doi.org/10.31219/osf.io/fzx7r>
 
 ## Manuscripts in Preparation
 
