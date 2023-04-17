@@ -56,6 +56,10 @@ of Technology, Rochester, NY
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B.
+S. (in press). Partial recall: Implications for the discrete slot limit of
+working memory capacity. *Attention, Perception, & Psychophysics*.
+
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
 Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with
 covariates: A Bayesian structural and measurement model of text and covariates.
@@ -154,11 +158,6 @@ Wethington, E., Addington, E. L., & Reid, M. C. (2023). *Feasibility, acceptabil
 preliminary  efficacy of a positive affect skills intervention for adults with
 fibromyalgia*. [Manuscript submitted for publication]. Department of Psychology, Cornell
 University.
-
-\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. 
-S. (2023). Partial recall: Implications for the discrete slot limit of working 
-memory capacity. [Manuscript submitted for publication]. Department of 
-Psychology, University of Notre Dame.
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
 K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2023). A topic mining
