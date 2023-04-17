@@ -668,7 +668,7 @@
     },
     "gargle": {
       "Package": "gargle",
-      "Version": "1.3.0",
+      "Version": "1.4.0",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -682,12 +682,11 @@
         "openssl",
         "rappdirs",
         "rlang",
-        "rstudioapi",
         "stats",
         "utils",
         "withr"
       ],
-      "Hash": "bb3208dcdfeb2e68bf33c87601b3cbe3"
+      "Hash": "8c72a723822dc317613da5ff8e8da6ee"
     },
     "generics": {
       "Package": "generics",
