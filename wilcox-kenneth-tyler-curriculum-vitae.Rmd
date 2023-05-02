@@ -268,6 +268,8 @@ Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
 
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**. (2023, July 20--23). An integrative data analysis of positive psychology interventions. In J. Moskowitz (Chair), *IPPA past preseident's symposium: Emerging topics in positive psychological interventions* [Invited symposium]. 8th International Positive Psychology Association World Congress, Vancouver, Canada.
+
 \hangindent = 2em \hangafter = 1 Ong, A., **Wilcox, K. T.**, Moskowitz, J., Wethington, E., Addington, E., & Reid, M. C. (2022, November
 02--06). *Lessons in Affect Regulation to Keep Stress and Pain UndeR control (LARKSPUR): Design of a randomized controlled trial to increase positive affect in middle-aged and older adults with fibromyalgia* [Paper presentation]. 75th Annual Scientific Meeting of the Gerontological Society of America, Indianapolis, IN, United States.
 
