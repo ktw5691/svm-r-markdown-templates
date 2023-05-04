@@ -148,11 +148,7 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W.,
-Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive
-experiences to improve emotional and functional well-being in adults with
-fibromyalgia*. [Letter of intent submitted for review]. Department of
-Psychology, Cornell University.
+\hangindent = 2em \hangafter = 1 Ammerman, B. A., **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E. E., & McCloskey, M. S. (2023). *A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history.* [Manuscript submitted for publication]. Department of Psychology, University of Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K.T.**, Moskowitz, J. T.,
 Wethington, E., Addington, E. L., & Reid, M. C. (2023). *Feasibility,
@@ -160,18 +156,20 @@ acceptability, and preliminary  efficacy of a positive affect skills
 intervention for adults with fibromyalgia*. [Manuscript submitted for
 publication]. Department of Psychology, Cornell University.
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon,
-K., Waite, E., McCloskey, M. S., & Ammerman, B. A. (2023). A topic mining
-approach to characterizing interpersonal stress among nonsuicidal self-injury.
-[Manuscript submitted for publication]. Department of Psychology, University of
-Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
-
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). A joint
-modeling framework for item response and topic models. [Manuscript submitted for
+\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint
+modeling framework for item response and topic models.* [Manuscript submitted for
 publication]. Department of Psychology, University of Notre Dame. 
 <https://doi.org/10.31219/osf.io/fzx7r>
 
 ## Manuscripts in Preparation
+
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W.,
+Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive
+experiences to improve emotional and functional well-being in adults with
+fibromyalgia*. [Letter of intent submitted for review]. Department of
+Psychology, Cornell University.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2023). *Integrative data analysis of both participant-level data and summary statistics for disaggregated treatment differences: Frequentist and Bayesian approaches.* [Manuscript in preparation]. Department of Psychology, Cornell University.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.**
 (2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the
@@ -268,7 +266,7 @@ Psychology & Human Development, Vanderbilt University, Nashville, TN.
 
 # CONFERENCE ACTIVITY
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**. (2023, July 20--23). An integrative data analysis of positive psychology interventions. In J. Moskowitz (Chair), *IPPA past preseident's symposium: Emerging topics in positive psychological interventions* [Invited symposium]. 8th International Positive Psychology Association World Congress, Vancouver, Canada.
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**. (2023, July 20--23). An integrative data analysis of positive psychology interventions. In J. Moskowitz (Chair), *IPPA past president's symposium: Emerging topics in positive psychological interventions* [Invited symposium]. 8th International Positive Psychology Association World Congress, Vancouver, Canada.
 
 \hangindent = 2em \hangafter = 1 Ong, A., **Wilcox, K. T.**, Moskowitz, J., Wethington, E., Addington, E., & Reid, M. C. (2022, November
 02--06). *Lessons in Affect Regulation to Keep Stress and Pain UndeR control (LARKSPUR): Design of a randomized controlled trial to increase positive affect in middle-aged and older adults with fibromyalgia* [Paper presentation]. 75th Annual Scientific Meeting of the Gerontological Society of America, Indianapolis, IN, United States.
