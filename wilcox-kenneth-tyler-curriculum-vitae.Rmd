@@ -57,8 +57,9 @@ of Technology, Rochester, NY
 ## Refereed Journal Articles
 
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B.
-S. (in press). Partial recall: Implications for the discrete slot limit of
-working memory capacity. *Attention, Perception, & Psychophysics*.
+S. (2023). Partial recall: Implications for the discrete slot limit of
+working memory capacity. *Attention, Perception, & Psychophysics*. Advance
+online publication. <https://doi.org/10.3758/s13414-023-02713-5>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
 Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with
@@ -166,8 +167,8 @@ publication]. Department of Psychology, University of Notre Dame.
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W.,
 Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive
 experiences to improve emotional and functional well-being in adults with
-fibromyalgia*. [Letter of intent submitted for review]. Department of
-Psychology, Cornell University.
+fibromyalgia*. [Invited manuscript in preparation]. Department of Psychology,
+Cornell University.
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2023). *Integrative data analysis of both participant-level data and summary statistics for disaggregated treatment differences: Frequentist and Bayesian approaches.* [Manuscript in preparation]. Department of Psychology, Cornell University.
 
