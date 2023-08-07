@@ -60,8 +60,7 @@ of Technology, Rochester, NY
 
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B.
 S. (2023). Partial recall: Implications for the discrete slot limit of
-working memory capacity. *Attention, Perception, & Psychophysics*. Advance
-online publication. <https://doi.org/10.3758/s13414-023-02713-5>
+working memory capacity. *Attention, Perception, & Psychophysics*. , 85, 1746–1754. <https://doi.org/10.3758/s13414-023-02713-5>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
 Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with
