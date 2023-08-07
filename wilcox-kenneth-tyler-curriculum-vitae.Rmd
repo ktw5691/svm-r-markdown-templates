@@ -56,17 +56,19 @@ of Technology, Rochester, NY
 
 ## Refereed Journal Articles
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M. M., Kim, P., & Reid, M. C. (In press). Feasibility, acceptability, and preliminary efficacy of a positive affect skills intervention for adults with fibromyalgia. Innovation in Aging. https://doi.org/10.1093/geroni/igad070
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Ammerman, B. A., Jacobucci, R., Dixon-Gordon, K., Waite, E. E., & McCloskey, M. S. (In press). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*.
 
-\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B.
-S. (2023). Partial recall: Implications for the discrete slot limit of
-working memory capacity. *Attention, Perception, & Psychophysics*. , 85, 1746–1754. <https://doi.org/10.3758/s13414-023-02713-5>
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M. M., Kim, P., & Reid, M. C. (In press). Feasibility, acceptability, and preliminary efficacy of a positive affect skills intervention for adults with fibromyalgia. *Innovation in Aging*. https://doi.org/10.1093/geroni/igad070
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
 Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with
 covariates: A Bayesian structural and measurement model of text and covariates.
 *Psychological Methods*. Advance online publication.
 <https://doi.org/10.1037/met0000541>
+
+\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B.
+S. (2023). Partial recall: Implications for the discrete slot limit of
+working memory capacity. *Attention, Perception, & Psychophysics*, *85*, 1746–1754. <https://doi.org/10.3758/s13414-023-02713-5>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2023). Modeling
 approaches for cross-sectional integrative data analysis: Evaluations and
@@ -149,8 +151,6 @@ demersus*). *Proceedings of Meetings on Acoustics*, *31*(1).
 <https://doi.org/10.1121/2.0000773>
 
 ## Manuscripts in Submission
-
-\hangindent = 2em \hangafter = 1 Ammerman, B. A., **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K., Waite, E. E., & McCloskey, M. S. (2023). *A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history.* [Manuscript submitted for publication]. Department of Psychology, University of Notre Dame. https://doi.org/10.22541/au.167669103.36453553/v1
 
 \hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint
 modeling framework for item response and topic models.* [Manuscript submitted for
@@ -570,9 +570,3 @@ Secretary, Psychology Student Society (03/2012--05/2013)
 American Psychological Association
 
 American Psychological Association Division 5
-
-American Statistical Association
-
-Association for Psychological Science
-
-Psychometric Society
