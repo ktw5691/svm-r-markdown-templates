@@ -1690,21 +1690,25 @@
     "stringi": {
       "Package": "stringi",
       "Version": "1.7.12",
-      "Source": "Repository",
+      "Source": "URL",
       "Repository": "CRAN",
+      "RemoteType": "url",
+      "RemoteUrl": "https://cran.mirrors.hoobly.com/bin/macosx/big-sur-arm64/contrib/4.2/stringi_1.7.12.tgz",
       "Requirements": [
         "R",
         "stats",
         "tools",
         "utils"
       ],
-      "Hash": "ca8bd84263c77310739d2cf64d84d7c9"
+      "Hash": "cdb667d1698e35be196e9f01ce4c6aab"
     },
     "stringr": {
       "Package": "stringr",
       "Version": "1.5.0",
-      "Source": "Repository",
+      "Source": "URL",
       "Repository": "CRAN",
+      "RemoteType": "url",
+      "RemoteUrl": "https://cran.mirrors.hoobly.com/bin/macosx/big-sur-arm64/contrib/4.2/stringr_1.5.0.tgz",
       "Requirements": [
         "R",
         "cli",
@@ -1715,7 +1719,7 @@
         "stringi",
         "vctrs"
       ],
-      "Hash": "671a4d384ae9d32fc47a14e98bfa3dc8"
+      "Hash": "a4eb71ee0619bf97f9ef35d1581d5bb9"
     },
     "sys": {
       "Package": "sys",
