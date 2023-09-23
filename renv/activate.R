@@ -2,7 +2,11 @@
 local({
 
   # the requested version of renv
+<<<<<<< Updated upstream
   version <- "1.0.2"
+=======
+  version <- "1.0.3"
+>>>>>>> Stashed changes
   attr(version, "sha") <- NULL
 
   # the project directory
@@ -1033,6 +1037,7 @@ local({
     warning(paste(msg, collapse = "\n"), call. = FALSE)
   
   }
+<<<<<<< Updated upstream
   
   
   renv_bootstrap_in_rstudio <- function() {
@@ -1046,6 +1051,8 @@ local({
       tools$.rs.api.sendToConsole("", echo = FALSE, focus = FALSE)
     }, error = function(cnd) {})
   }
+=======
+>>>>>>> Stashed changes
   
   renv_json_read <- function(file = NULL, text = NULL) {
   
@@ -1185,6 +1192,7 @@ local({
   # construct full libpath
   libpath <- file.path(root, prefix)
 
+<<<<<<< Updated upstream
   if (renv_bootstrap_in_rstudio()) {
     # RStudio only updates console once .Rprofile is finished, so
     # instead run code on sessionInit
@@ -1195,6 +1203,10 @@ local({
   } else {
     renv_bootstrap_exec(project, libpath, version)
   }
+=======
+  # run bootstrap code
+  renv_bootstrap_exec(project, libpath, version)
+>>>>>>> Stashed changes
 
   invisible()
 
