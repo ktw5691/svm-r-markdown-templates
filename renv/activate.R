@@ -2,11 +2,7 @@
 local({
 
   # the requested version of renv
-<<<<<<< Updated upstream
-  version <- "1.0.2"
-=======
   version <- "1.0.3"
->>>>>>> Stashed changes
   attr(version, "sha") <- NULL
 
   # the project directory
@@ -1037,22 +1033,6 @@ local({
     warning(paste(msg, collapse = "\n"), call. = FALSE)
   
   }
-<<<<<<< Updated upstream
-  
-  
-  renv_bootstrap_in_rstudio <- function() {
-    commandArgs()[[1]] == "RStudio"
-  }
-  
-  # Used to work around buglet in RStudio if hook uses readline
-  renv_bootstrap_flush_console <- function() {
-    tryCatch({
-      tools <- as.environment("tools:rstudio")
-      tools$.rs.api.sendToConsole("", echo = FALSE, focus = FALSE)
-    }, error = function(cnd) {})
-  }
-=======
->>>>>>> Stashed changes
   
   renv_json_read <- function(file = NULL, text = NULL) {
   
@@ -1192,21 +1172,8 @@ local({
   # construct full libpath
   libpath <- file.path(root, prefix)
 
-<<<<<<< Updated upstream
-  if (renv_bootstrap_in_rstudio()) {
-    # RStudio only updates console once .Rprofile is finished, so
-    # instead run code on sessionInit
-    setHook("rstudio.sessionInit", function(...) {
-      renv_bootstrap_exec(project, libpath, version)
-      renv_bootstrap_flush_console()
-    })
-  } else {
-    renv_bootstrap_exec(project, libpath, version)
-  }
-=======
   # run bootstrap code
   renv_bootstrap_exec(project, libpath, version)
->>>>>>> Stashed changes
 
   invisible()
 
