@@ -46,7 +46,7 @@ library(markdown)
 
 # GRANTS
 
-\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} NIH R21 PA-20-183 (PI: A. D. Ong). Submitted, under review. National Institutes of Health. "Targeting Deficits in Positive Affect Regulation to Improve Fibromyalgia Symptoms: A Randomized Controlled Trial." Role: Collaborator.
+\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} NIH R01 PA-20-183 (PI: A. D. Ong). Submitted, under review. National Institutes of Health. "Targeting Deficits in Positive Affect Regulation to Improve Fibromyalgia Symptoms: A Randomized Controlled Trial." Role: Collaborator.
 
 # PUBLICATIONS
 
