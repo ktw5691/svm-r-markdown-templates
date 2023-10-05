@@ -34,19 +34,19 @@ library(markdown)
 
 # EDUCATION
 
-Ph.D. Quantitative Psychology \hfill 2022
+\hangindent = 1.585cm \hangafter = 1 2022 \hspace{0.5cm} Ph.D., Quantitative Psychology, Department of Psychology, University of Notre Dame
 
-\hangindent = 2em \hangafter = -1 Department of Psychology, University of Notre Dame, Notre Dame, IN
+\hangindent = 1.585cm \hangafter = 1 2017 \hspace{0.5cm} M.S., Applied Statistics, School of Mathematical Sciences, Rochester Institute of Technology
 
-\hangindent = 2em \hangafter = -1 Dissertation: *Jointly modeling participant-level data and summary statistics for treatment differences*
+\hangindent = 1.585cm \hangafter = 1 2013 \hspace{0.5cm} B.S., Psychology, Department of Psychology, Rochester Institute of Technology
 
-M.S. Applied Statistics \hfill 2017
+# EMPLOYMENT
 
-\hangindent = 2em \hangafter = -1 School of Mathematical Sciences, Rochester Institute of Technology, Rochester, NY
+\hangindent = 3.185cm \hangafter = 1 2022--present \hspace{0.5cm} Postdoctoral Associate, Center for Integrative Developmental Science, Department of Psychology, Cornell University
 
-B.S. Psychology \hfill 2013
+# GRANTS
 
-\hangindent = 2em \hangafter = -1 Department of Psychology, Rochester Institute of Technology, Rochester, NY
+\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} NIH R21 PA-20-183 (PI: A. D. Ong). Submitted, under review. National Institutes of Health. "Targeting Deficits in Positive Affect Regulation to Improve Fibromyalgia Symptoms: A Randomized Controlled Trial." Role: Collaborator.
 
 # PUBLICATIONS
 
@@ -95,6 +95,8 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Submission
 
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). *Leveraging integrative analyses to advance the science of happiness*. [Manuscript under review]. Department of Psychology, Cornell University.
+
 ## Manuscripts in Preparation
 
 \hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint modeling framework for item response and topic models.* [Manuscript in preparation]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31219/osf.io/fzx7r>
@@ -121,27 +123,27 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 # AWARDS AND HONORS
 
-2023 --- [Anne Anastasi Dissertation Award](https://www.apadivisions.org/division-5/awards/anastasi-dissertation) (\$500) --- American Psychological Association, Division 5, Quantitative and Qualitative Methods
+\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} [Anne Anastasi Dissertation Award](https://www.apadivisions.org/division-5/awards/anastasi-dissertation) (\$500) --- American Psychological Association, Division 5, Quantitative and Qualitative Methods
 
-2021 --- [Outstanding Graduate Student Teacher Award](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/) (\$100) --- University of Notre Dame, Graduate School and ND Learning \| Kaneb Center for Teaching Excellence
+\hangindent = 1.585cm \hangafter = 1 2021 \hspace{0.5cm} [Outstanding Graduate Student Teacher Award](https://learning.nd.edu/for-grad-student-post-docs-2/outstanding-graduate-student-ta-awards/) (\$100) --- University of Notre Dame, Graduate School and ND Learning \| Kaneb Center for Teaching Excellence
 
-2020 --- [Graduate Student Union Outstanding Teaching Assistant Award](https://gsg.nd.edu/funding-awards/teaching-assistant-award/) (\$300) --- University of Notre Dame
+\hangindent = 1.585cm \hangafter = 1 2020 \hspace{0.5cm} [Graduate Student Union Outstanding Teaching Assistant Award](https://gsg.nd.edu/funding-awards/teaching-assistant-award/) (\$300) --- University of Notre Dame
 
-2019 --- Travel Assistance Award (\$1,500) --- Society of Multivariate and Experimental Psychology
+\hangindent = 1.585cm \hangafter = 1 2019 \hspace{0.5cm} Travel Assistance Award (\$1,500) --- Society of Multivariate and Experimental Psychology
 
-2017 --- [University Presidential Fellowship](https://graduateschool.nd.edu/funding/select-fellowships/university-presidential-fellowship-in-humanities-and-social-sciences/) --- University of Notre Dame
+\hangindent = 1.585cm \hangafter = 1 2017 \hspace{0.5cm} [University Presidential Fellowship](https://graduateschool.nd.edu/funding/select-fellowships/university-presidential-fellowship-in-humanities-and-social-sciences/) --- University of Notre Dame
 
-2016 --- Honorable Mention for Oral Presentation Based on Methodology and Theory (\$50) --- Upstate Chapters of the American Statistical Association
+\hangindent = 1.585cm \hangafter = 1 2016 \hspace{0.5cm} Honorable Mention for Oral Presentation Based on Methodology and Theory (\$50) --- Upstate Chapters of the American Statistical Association
 
-2015 --- John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute of Technology, Center for Quality and Applied Statistics
+\hangindent = 1.585cm \hangafter = 1 2015 \hspace{0.5cm} John D. and Rachel E. Hromi Endowed Scholarship --- Rochester Institute of Technology, Center for Quality and Applied Statistics
 
-2014 --- Travel Assistance Award (\$200) --- Association for Psychological Science Student Caucus
+\hangindent = 1.585cm \hangafter = 1 2014 \hspace{0.5cm} Travel Assistance Award (\$200) --- Association for Psychological Science Student Caucus
 
-2013 --- [Outstanding Undergraduate Scholarship Award](https://www.rit.edu/provost/outstanding-undergraduate-scholar-award) --- Rochester Institute of Technology, College of Liberal Arts
+\hangindent = 1.585cm \hangafter = 1 2013 \hspace{0.5cm} [Outstanding Undergraduate Scholarship Award](https://www.rit.edu/provost/outstanding-undergraduate-scholar-award) --- Rochester Institute of Technology, College of Liberal Arts
 
-2013 --- Student Research Fund (\$72) --- Rochester Institute of Technology, College of Liberal Arts
+\hangindent = 1.585cm \hangafter = 1 2013 \hspace{0.5cm} Student Research Fund (\$72) --- Rochester Institute of Technology, College of Liberal Arts
 
-2012 --- Kearse Award for Excellence in Writing (\$100) --- Rochester Institute of Technology, College of Liberal Arts
+\hangindent = 1.585cm \hangafter = 1 2012 \hspace{0.5cm} Kearse Award for Excellence in Writing (\$100) --- Rochester Institute of Technology, College of Liberal Arts
 
 # INVITED TALKS
 
@@ -234,46 +236,27 @@ Critical Mathematical Skills (co-instructor; Fall 2014, Fall 2015)
 
 ## Certifications
 
-Striving for Excellence in Teaching \hfill 08/2021
-
-\hangindent = 2em \hangafter = -1 *University of Notre Dame, Kaneb Center*
+\hangindent = 1.585cm \hangafter = 1 2021 \hspace{0.5cm} Striving for Excellence in Teaching, University of Notre Dame, Kaneb Center
 
 # RESEARCH EXPERIENCE
 
-*Cornell University*, Ithaca, NY
-
-**Postdoctoral Associate**, Department of Psychology \hfill 08/2022--present
-
 *University of Notre Dame*, Notre Dame, IN
 
-**Graduate Research Assistant**, Department of Psychology \hfill
-07/2017--present
-
-\hangindent = 2em \hangafter = -1 Research advisers: Lijuan Wang, Ross Jacobucci, Zhiyong Zhang, Brooke A. Ammerman
+\hangindent = 2.645cm \hangafter = 1 2017--2022 \hspace{0.5cm} Graduate Research Assistant, Department of Psychology, Research advisers: Lijuan Wang, Zhiyong Zhang, Ross Jacobucci, Brooke A. Ammerman
 
 *Rochester Institute of Technology*, Rochester, NY
 
-**Statistician**, Department of Service Systems \hfill 05/2017--07/2017
+\hangindent = 2.645cm \hangafter = 1 2017 \hspace{1.45cm} Statistician, Department of Service Systems, Research team: Malarvizhi Hirudayaraj, Martin Anselm
 
-\hangindent = 2em \hangafter = -1 Research collaborators: Malarvizhi Hirudayaraj, Martin Anselm
+\hangindent = 2.645cm \hangafter = 1 2012--2013 \hspace{0.5cm} Research Assistant, Department of Psychology, Research adviser: Caroline M. DeLong
 
-**Research Assistant**, Department of Psychology \hfill 03/2012--05/2013
-
-\hangindent = 2em \hangafter = -1 Research adviser: Caroline M. DeLong
-
-**Research Assistant**, Department of Psychology \hfill 11/2011--05/2013
-
-\hangindent = 2em \hangafter = -1 Research adviser: John Edlund
+\hangindent = 2.645cm \hangafter = 1 2011-2013 \hspace{0.5cm} Research Assistant, Department of Psychology, Research adviser: John E. Edlund
 
 *SUNY Upstate Medical University*, Syracuse, NY
 
-**Research Analyst**, Department of Psychiatry and Behavioral Sciences \hfill 06/2013--08/2013
+\hangindent = 2.645cm \hangafter = 1 2013 \hspace{1.45cm} Research Analyst, Department of Psychiatry and Behavioral Sciences, Research adviser: John Manring
 
-\hangindent = 2em \hangafter = -1 Research adviser: John Manring
-
-**Research Intern**, Department of Neurosurgery \hfill 07/2011--09/2011
-
-\hangindent = 2em \hangafter = -1 Research advisers: John Manring, Satish Krishnamurthy
+\hangindent = 2.645cm \hangafter = 1 2011 \hspace{1.45cm} Research Intern, Department of Neurosurgery, Research advisers: John Manring, Satish Krishnamurthy
 
 # SERVICE TO PROFESSION
 
@@ -301,47 +284,37 @@ Psychological Methods
 
 ## Student Submission Review
 
-Society for Multivariate and Experimental Psychology \hfill 2020, 2022
+\hangindent = 2.77cm \hangafter = 1 2020, 2022 \hspace{0.5cm} Reviewer, SMEP Graduate Student Conference, Society for Multivariate and Experimental Psychology
 
-\hangindent = 2em \hangafter =-2 Reviewer, SMEP Graduate Student Conference
+\hangindent = 2.645cm \hangafter = 1 2016--2021 \hspace{0.5cm} Reviewer, APSSC Student Grant Competition, Association for Psychological Science Student Caucus
 
-Association for Psychological Science Student Caucus \hfill 2016--2021
-
-\hangindent = 2em \hangafter = -2 Reviewer, APSSC Student Grant Competition
-
-Sixth Annual Joint Conference of the Upstate Chapters of the American Statistical Association \hfill 2017
-
-\hangindent = 2em \hangafter = -1 Judge, Pre-College Statistical Data Analysis Competition
-
-Fifth Annual Joint Conference of the Upstate Chapters of the American Statistical Association \hfill 2016
-
-\hangindent = 2em \hangafter = -1 Judge, Pre-College Statistical Data Analysis Competition
+\hangindent = 2.645cm \hangafter = 1 2016--2017 \hspace{0.5cm} Judge, Pre-College Statistical Data Analysis Competition, Annual Joint Conference of the Upstate Chapters of the American Statistical Association
 
 # DEPARTMENTAL/UNIVERSITY SERVICE
 
 ## University of Notre Dame
 
-Prospective Graduate Student Recruitment for the Quantitative Area (11/2017--02/2022)
+\hangindent = 2.645cm \hangafter = 1 2017--2022 \hspace{0.5cm} Prospective Graduate Student Recruitment for the Quantitative Area
 
-Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings (08/2020--08/2021)
+\hangindent = 2.645cm \hangafter = 1 2020--2021 \hspace{0.5cm} Student Representative for the Quantitative Area, Departmental and Quantitative Area Faculty Meetings
 
-Quantitative Area Representative, Graduate Advisory Committee (08/2018--07/2019)
+\hangindent = 2.645cm \hangafter = 1 2018--2019 \hspace{0.5cm} Quantitative Area Representative, Graduate Advisory Committee
 
 ## Rochester Institute of Technology
 
-Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory, Computation, Applications and Data", Summer Mathematics Institute (06/2016)
+\hangindent = 2.645cm \hangafter = 1 2016 \hspace{1.5cm} Discussant, "On the Five Pillars of Statistical Science: Methodology, Theory, Computation, Applications and Data", Summer Mathematics Institute
 
-Student Representative, Eisenhart Award Nomination Committee (09/2012--05/2013)
+\hangindent = 2.645cm \hangafter = 1 2012--2013 \hspace{0.5cm} Student Representative, Eisenhart Award Nomination Committee
 
-Peer Mentor, First Year Enrichment Program (09/2010--05/2013)
+\hangindent = 2.645cm \hangafter = 1 2010--2013 \hspace{0.5cm} Peer Mentor, First Year Enrichment Program
 
 # EXTRACURRICULAR UNIVERSITY SERVICE
 
 ## Rochester Institute of Technology
 
-Secretary, Data Science Research Group (01/2015--05/2017)
+\hangindent = 2.645cm \hangafter = 1 2015--2017 \hspace{0.5cm} Secretary, Data Science Research Group
 
-Secretary, Psychology Student Society (03/2012--05/2013)
+\hangindent = 2.645cm \hangafter = 1 2012--2013 \hspace{0.5cm} Secretary, Psychology Student Society
 
 # PROFESSIONAL MEMBERSHIPS
 
