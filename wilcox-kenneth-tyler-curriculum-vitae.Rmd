@@ -57,11 +57,11 @@ library(markdown)
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K. L., Waite, E. E., McCloskey, M. S., & Ammerman, B. A. (2023). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*, Advance online publication. <https://doi.org/10.1007/s12144-023-05056-4>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
-Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: A Bayesian structural and measurement model of text and covariates. *Psychological Methods*, Advance online publication. <https://doi.org/10.1037/met0000541>
+Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: A Bayesian structural and measurement model of text and covariates. *Psychological Methods*, *28*(5), 1178--1206. <https://doi.org/10.1037/met0000541>
 
-\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S. (2023). Partial recall: Implications for the discrete slot limit of working memory capacity. *Attention, Perception, & Psychophysics*, *85*(5), 1746–1754. <https://doi.org/10.3758/s13414-023-02713-5>
+\hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S. (2023). Partial recall: Implications for the discrete slot limit of working memory capacity. *Attention, Perception, & Psychophysics*, *85*(5), 1746--1754. <https://doi.org/10.3758/s13414-023-02713-5>
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2023). Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations. *Psychological Methods*, *28*(1), 242-261. <https://doi.org/10.1037/met0000397>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** & Wang, L. (2023). Modeling approaches for cross-sectional integrative data analysis: Evaluations and recommendations. *Psychological Methods*, *28*(1), 242--261. <https://doi.org/10.1037/met0000397>
 
 \hangindent = 2em \hangafter = 1 Wegman, J. J., Morrison, E., **Wilcox, K. T.**, & DeLong, C. M. (2022). Visual perception of photographs of rotated 3D objects in goldfish (*Carassius auratus*). *Animals*, *12*(14), 1797. <https://doi.org/10.3390/ani12141797>
 
@@ -81,11 +81,11 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Barbato, S., O'Leary, T., & **Wilcox, K. T.** (2017). Small and large number discrimination in goldfish (*Carassius auratus*) with extensive training. *Behavioural Processes*, *141*(P2), 172--183. <https://doi.org/10.1016/j.beproc.2016.11.011>
 
-\hangindent = 2em \hangafter = 1 Edlund, J.E., Nichols, A. L., Okdie, B. M., Guadagno, R. E., Eno, C. A., Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., & **Wilcox, K. T.** (2014). The prevalence and prevention of crosstalk: A multi-institutional study. *The Journal of Social Psychology*, *154*(3), 181-185. <https://doi.org/10.1080/00224545.2013.872596>
+\hangindent = 2em \hangafter = 1 Edlund, J.E., Nichols, A. L., Okdie, B. M., Guadagno, R. E., Eno, C. A., Heider, J. D., Hansen, E., Sagarin, B. J., Blackhart, G., Cottrell, C. A., & **Wilcox, K. T.** (2014). The prevalence and prevention of crosstalk: A multi-institutional study. *The Journal of Social Psychology*, *154*(3), 181--185. <https://doi.org/10.1080/00224545.2013.872596>
 
 ## Conference Proceedings
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, *57*(1), 175-176 (Abstract). <https://doi.org/10.1080/00273171.2022.2030204>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Wang, L. (2022). Jointly modeling participant-level data and summary statistics for treatment differences. *Multivariate Behavioral Research*, *57*(1), 175--176 (Abstract). <https://doi.org/10.1080/00273171.2022.2030204>
 
 \hangindent = 2em \hangafter = 1 Hong, M., **Wilcox, K. T.**, & Cheng, Y. (2021). A constructed response model. *Multivariate Behavioral Research*, *56*(1), 150--151 (Abstract). <https://doi.org/10.1080/00273171.2020.1852907>
 
@@ -250,7 +250,7 @@ Critical Mathematical Skills (co-instructor; Fall 2014, Fall 2015)
 
 \hangindent = 2.645cm \hangafter = 1 2012--2013 \hspace{0.5cm} Research Assistant, Department of Psychology, Research adviser: Caroline M. DeLong
 
-\hangindent = 2.645cm \hangafter = 1 2011-2013 \hspace{0.5cm} Research Assistant, Department of Psychology, Research adviser: John E. Edlund
+\hangindent = 2.645cm \hangafter = 1 2011--2013 \hspace{0.5cm} Research Assistant, Department of Psychology, Research adviser: John E. Edlund
 
 *SUNY Upstate Medical University*, Syracuse, NY
 
