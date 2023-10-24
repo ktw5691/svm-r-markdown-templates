@@ -95,7 +95,9 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). *Leveraging integrative analyses to advance the science of happiness*. [Manuscript under review]. Department of Psychology, Cornell University.
+## Preprints
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). _Leveraging integrative analyses to advance the science of happiness_ [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/kxb54>
 
 ## Manuscripts in Preparation
 
