@@ -97,7 +97,7 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame.
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Preprints
 
