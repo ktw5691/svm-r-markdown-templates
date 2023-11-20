@@ -97,6 +97,8 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Submission
 
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W., Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia*. [Invited manuscript submitted]. Department of Psychology, Cornell University.
+
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Preprints
@@ -108,8 +110,6 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 \hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Zhang, G., Joiner, R. J., Fang, Y., **Wilcox, K. T.**, & Bergeman, C. S. (2023). *Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox.* [Manuscript in preparation]. Department of Psychology, Cornell University.
 
 \hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint modeling framework for item response and topic models.* [Manuscript in preparation]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31219/osf.io/fzx7r>
-
-\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W., Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia*. [Invited manuscript in preparation]. Department of Psychology, Cornell University.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the picture plane and depth plane with 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
