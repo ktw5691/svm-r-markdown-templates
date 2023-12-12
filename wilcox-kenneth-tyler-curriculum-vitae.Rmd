@@ -48,13 +48,13 @@ library(markdown)
 
 # GRANTS
 
-\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} NIH R01 PA-20-183 (PI: A. D. Ong). Submitted, under review. National Institutes of Health. "Targeting Deficits in Positive Affect Regulation to Improve Fibromyalgia Symptoms: A Randomized Controlled Trial." Role: Collaborator.
+\hangindent = 1.585cm \hangafter = 1 2023 \hspace{0.5cm} NIH R01 PA-20-183 (PI: A. D. Ong). Not funded. National Institutes of Health. "Targeting Deficits in Positive Affect Regulation to Improve Fibromyalgia Symptoms: A Randomized Controlled Trial." Role: Collaborator.
 
 # PUBLICATIONS
 
 ## Refereed Journal Articles
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M. M., Kim, P., & Reid, M. C. (2023). Feasibility, acceptability, and preliminary efficacy of a positive affect skills intervention for adults with fibromyalgia. *Innovation in Aging*, igad070. <https://doi.org/10.1093/geroni/igad070>
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M. M., Kim, P., & Reid, M. C. (2023). Feasibility, acceptability, and preliminary efficacy of a positive affect skills intervention for adults with fibromyalgia. *Innovation in Aging*, *7*(10), igad070. <https://doi.org/10.1093/geroni/igad070>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K. L., Waite, E. E., McCloskey, M. S., & Ammerman, B. A. (2023). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*, Advance online publication. <https://doi.org/10.1007/s12144-023-05056-4>
 
