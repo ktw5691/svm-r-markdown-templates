@@ -109,11 +109,7 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Preparation
 
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint modeling framework for item response and topic models.* [Manuscript in preparation]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31219/osf.io/fzx7r>
-
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the picture plane and depth plane with 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
-
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Morelli, J., & **Wilcox, K.T.** (2023). *Object recognition memory in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C.M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
