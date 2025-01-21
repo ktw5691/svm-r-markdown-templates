@@ -100,7 +100,7 @@ library(markdown)
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., & **Wilcox, K. T.**. (2024). *Cardiovascular disease burden in the homeless population: A systematic review and meta-analysis.* [Submitted]. College of Human Ecology, Cornell University.
+\hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., & **Wilcox, K. T.**. (2025). *Cardiovascular disease burden in the homeless population: A systematic review and meta-analysis.* [Submitted]. College of Human Ecology, Cornell University.
 
 ## Preprints
 
