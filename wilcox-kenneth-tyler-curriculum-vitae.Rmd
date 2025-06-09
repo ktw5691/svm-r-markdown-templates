@@ -54,6 +54,8 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
+
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Reid, M. C., Wethington, E., Cintron, D. W., Addington, E. L., Goktas, S., & Moskowitz, J. T. (2024). Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia: Insights from the LARKSPUR randomized controlled trial. *Journal of Medical Internet Research*, *28*, e54678. <https://doi.org/10.2196/54678>
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Fang, Y., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2024). Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox. *Emotion*, Advance online publication. <https://doi.org/10.1037/emo0001465>
@@ -100,20 +102,21 @@ library(markdown)
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., & **Wilcox, K. T.**. (2025). *Cardiovascular disease burden in the homeless population: A systematic review and meta-analysis.* [Submitted]. College of Human Ecology, Cornell University.
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2023). *Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
 
 ## Preprints
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). _Leveraging integrative analyses to advance the science of happiness_ [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/kxb54>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). *Leveraging integrative analyses to advance the science of happiness* [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/kxb54>
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Manuscripts in Preparation
 
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
-
 <!--
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., & **Wilcox, K.T.** (2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the picture plane and depth plane with 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
