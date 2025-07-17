@@ -102,7 +102,7 @@ library(markdown)
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). *Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants*. [Submitted]. Department 
+\hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). *Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants*. [Submitted]. Cornell University.
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
 
@@ -117,6 +117,8 @@ library(markdown)
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Manuscripts in Preparation
+
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Short report: Preliminary evidence that youth with autism engage in more moderate-to-vigorous physical activity in outdoor environments compared to indoor environments*. [Manuscript in preparation]. Department of Human Centered Design, Cornell University.
 
 <!--
 
