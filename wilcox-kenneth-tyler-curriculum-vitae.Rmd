@@ -54,12 +54,17 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
+
+\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Reid, M. C., Wethington, E., Cintron, D. W., Addington, E. L., Goktas, S., & Moskowitz, J. T. (2024). Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia: Insights from the LARKSPUR randomized controlled trial. *Journal of Medical Internet Research*, *28*, e54678. <https://doi.org/10.2196/54678>
+
+\hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Fang, Y., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2024). Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox. *Emotion*, Advance online publication. <https://doi.org/10.1037/emo0001465>
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K. L., Waite, E. E., McCloskey, M. S., & Ammerman, B. A. (2024). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*, *43*, 10075--10085. <https://doi.org/10.1007/s12144-023-05056-4>
+
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Moskowitz, J. T., Wethington, E., Addington, E. L., Sanni, M. M., Kim, P., & Reid, M. C. (2023). Feasibility, acceptability, and preliminary efficacy of a positive affect skills intervention for adults with fibromyalgia. *Innovation in Aging*, *7*(10), igad070. <https://doi.org/10.1093/geroni/igad070>
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K. L., Waite, E. E., McCloskey, M. S., & Ammerman, B. A. (2023). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*, Advance online publication. <https://doi.org/10.1007/s12144-023-05056-4>
-
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, &
-Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: A Bayesian structural and measurement model of text and covariates. *Psychological Methods*, *28*(5), 1178--1206. <https://doi.org/10.1037/met0000541>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Zhang, Z, & Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: A Bayesian structural and measurement model of text and covariates. *Psychological Methods*, *28*(5), 1178--1206. <https://doi.org/10.1037/met0000541>
 
 \hangindent = 2em \hangafter = 1 Schor, D., **Wilcox, K. T.**, & Gibson, B. S. (2023). Partial recall: Implications for the discrete slot limit of working memory capacity. *Attention, Perception, & Psychophysics*, *85*(5), 1746--1754. <https://doi.org/10.3758/s13414-023-02713-5>
 
@@ -97,29 +102,30 @@ Ammerman, B. A. (2023). Supervised latent Dirichlet allocation with covariates: 
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Cintron, D. W., Moskowitz, J. T., Wethington, E., & Reid, C. (2023). *Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia*. [Submitted]. Department of Psychology, Cornell University.
+\hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). *Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants*. [Submitted]. Cornell University.
 
-\hangindent = 2em \hangafter = 1 Ong, A. D., Fang, Y., Wang, L., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2023). *Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox.* [Submitted]. Department of Psychology, Cornell University.
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
 
-\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2023). *Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
+
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
 
 ## Preprints
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). _Leveraging integrative analyses to advance the science of happiness_ [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/kxb54>
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, & Ong, A. D. (2023). *Leveraging integrative analyses to advance the science of happiness* [Preprint]. PsyArXiv. <https://doi.org/10.31234/osf.io/kxb54>
+
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Manuscripts in Preparation
 
-\hangindent = 2em \hangafter = 1 Hong, M., & **Wilcox, K. T.** (2023). *A joint modeling framework for item response and topic models.* [Manuscript in preparation]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31219/osf.io/fzx7r>
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Short report: Preliminary evidence that youth with autism engage in more moderate-to-vigorous physical activity in outdoor environments compared to indoor environments*. [Manuscript in preparation]. Department of Human Centered Design, Cornell University.
 
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Gardner, K., & **Wilcox, K.T.** (2023). *Goldfish (*Carassius auratus*) exhibit visual object constancy in the picture plane and depth plane with 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
+<!--
 
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Morelli, J., & **Wilcox, K.T.** (2023). *Object recognition memory in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
 
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
-
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., & **Wilcox, K.T.** (2023). *Object discrimination in goldfish (*Carassius auratus*): The role of color cues in the perception of rotated 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
-
-\hangindent = 2em \hangafter = 1 DeLong, C.M., Wegman, J., Wright, C., & **Wilcox, K. T.** (2023). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Wegman, J., & **Wilcox, K.T.** (2023). *Object discrimination in goldfish (*Carassius auratus*): The role of color cues in the perception of rotated 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
+-->
 
 ## Software Development
 
