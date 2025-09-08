@@ -54,6 +54,8 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). [Accepted]. *Learning & Behavior*.
+
 \hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Reid, M. C., Wethington, E., Cintron, D. W., Addington, E. L., Goktas, S., & Moskowitz, J. T. (2024). Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia: Insights from the LARKSPUR randomized controlled trial. *Journal of Medical Internet Research*, *28*, e54678. <https://doi.org/10.2196/54678>
@@ -105,8 +107,6 @@ library(markdown)
 \hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). *Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants*. [Submitted]. Cornell University.
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
-
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2023). *Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
 
