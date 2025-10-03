@@ -54,6 +54,8 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*.
+
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). [Accepted]. *Learning & Behavior*.
 
 \hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
@@ -107,8 +109,6 @@ library(markdown)
 \hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). *Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants*. [Submitted]. Cornell University.
 
 \hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K. T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Short report: Preliminary evidence that autistic youth engage in more moderate-to-vigorous physical activity outdoors compared to indoors*. [Submitted]. Department of Human Centered Design, Cornell University.
-
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). *Categorization of 2D objects in North American river otters (*Lontra canadensis*)*. [Submitted]. Department of Psychology, Rochester Institute of Technology.
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
 
