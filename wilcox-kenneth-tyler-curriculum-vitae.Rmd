@@ -54,7 +54,7 @@ library(markdown)
 
 ## Refereed Journal Articles
 
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*.
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*. <https://doi.org/10.1037/com0000436>
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). [Accepted]. *Learning & Behavior*.
 
