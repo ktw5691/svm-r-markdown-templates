@@ -42,9 +42,9 @@ library(markdown)
 
 # EMPLOYMENT
 
-\hangindent = 3.185cm \hangafter = 1 2023--present \hspace{0.5cm} Statistical Consultant, Cornell Statistical Consulting Unit, Cornell University
+\hangindent = 3.385cm \hangafter = 1 2023--present \hspace{0.5cm} Statistical Consultant, Cornell Statistical Consulting Unit, Cornell \linebreak University
 
-\hangindent = 2.815cm \hangafter = 1 2022--2023 \hspace{0.5cm} Postdoctoral Associate, Center for Integrative Developmental Science, Department of Psychology, Cornell University
+\hangindent = 2.825cm \hangafter = 1 2022--2023 \hspace{0.5cm} Postdoctoral Associate, Center for Integrative Developmental Science, \linebreak Department of Psychology, Cornell University
 
 # GRANTS
 
