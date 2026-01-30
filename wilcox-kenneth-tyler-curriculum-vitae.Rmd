@@ -9,7 +9,7 @@ title: "Curriculum Vitae"
 author: "Kenneth Tyler Wilcox"
 
 jobtitle: "Statistical Consultant, Cornell University"
-address: "315 Savage Hall · Cornell Statistical Consulting Unit · Ithaca, NY 14853"
+address: "304 Savage Hall · Cornell Statistical Consulting Unit · Ithaca, NY 14853"
 fontawesome: yes
 email: ktwilcox@cornell.edu
 # phone: "315 209 7252"
@@ -108,7 +108,8 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm perception in African penguins (*Spheniscus demersus*). *Proceedings of Meetings on Acoustics*, *31*(1). <https://doi.org/10.1121/2.0000773>
 
-<!--
+<!---
+
 ## Manuscripts in Submission
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
@@ -120,14 +121,10 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
+<!---
 ## Manuscripts in Preparation
 
-\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Short report: Preliminary evidence that youth with autism engage in more moderate-to-vigorous physical activity in outdoor environments compared to indoor environments*. [Manuscript in preparation]. Department of Human Centered Design, Cornell University.
-
-<!--
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Morrison, E., **Wilcox, K.T.**, & Wegman, J. (2023). *Categorization of 3D objects in goldfish (*Carassius auratus*)*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
-
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Wegman, J., & **Wilcox, K.T.** (2023). *Object discrimination in goldfish (*Carassius auratus*): The role of color cues in the perception of rotated 3D objects*. [Manuscript in preparation]. Department of Psychology, Rochester Institute of Technology.
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Preliminary evidence that autistic youth engage in more moderate-to-vigorous physical activity outdoors compared to indoors*. [Submitted]. Department of Human Centered Design, Cornell University.
 -->
 
 ## Software Development
@@ -226,6 +223,18 @@ United States.
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Wright, C., & DeLong, C. M. (2012, August 10). *Training North American river otters (*Lontra canadensis*) to discriminate among objects* [Poster presentation]. 21st Annual Rochester Institute of Technology Undergraduate Research Symposium, Rochester, NY, United States.
 
 # TEACHING EXPERIENCE
+
+## Cornell University
+
+### Invited Lectures
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2025, November 20). *An Introduction to Regression in R for Developmental Psychologists*. Invited Lecture, Department of Psychology, Cornell University, Ithaca, NY.
+
+### Workshops
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, March 23). *Nonparametric Statistical Methods*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, February 10). *Equivalence Testing*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, February 10). *Working with Complex Survey Weights*. Workshop, Department of Government, Cornell University, Ithaca, NY.
 
 ## University of Notre Dame
 
