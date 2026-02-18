@@ -58,9 +58,9 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants. [Accepted]. *Heart*.
 
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*. <https://doi.org/10.1037/com0000436>
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*. <https://doi.org/10.3758/s13420-025-00687-y>
 
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). [Accepted]. *Learning & Behavior*.
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*. <https://doi.org/10.1037/com0000436>
 
 \hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
 
@@ -121,11 +121,11 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
-<!---
 ## Manuscripts in Preparation
 
-\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Preliminary evidence that autistic youth engage in more moderate-to-vigorous physical activity outdoors compared to indoors*. [Submitted]. Department of Human Centered Design, Cornell University.
--->
+\hangindent = 2em \hangafter = 1 Shao, S. J., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *The inertia-instability paradox across timescales: Decomposing within- and between-person pathways linking affect dynamics to depression trajectories*. [In preparation]. Department of Psychology, Florida International University.
+
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Preliminary evidence that autistic youth engage in more moderate-to-vigorous physical activity outdoors compared to indoors*. [In preparation]. Department of Human Centered Design, Cornell University.
 
 ## Software Development
 
