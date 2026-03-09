@@ -108,12 +108,9 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Fobe, I., DeLong, C. M., & **Wilcox, K. T.** (2017). An exploration of rhythm perception in African penguins (*Spheniscus demersus*). *Proceedings of Meetings on Acoustics*, *31*(1). <https://doi.org/10.1121/2.0000773>
 
-<!---
-
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2025). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Cornell University. <https://doi.org/10.31234/osf.io/qhbx8_v1>
--->
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2026). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Florida International University.
 
 ## Preprints
 
