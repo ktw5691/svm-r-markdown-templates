@@ -110,6 +110,8 @@ library(markdown)
 
 ## Manuscripts in Submission
 
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). *Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth*. [Submitted]. Department of Human Centered Design, Cornell University.
+
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2026). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Florida International University.
 
 ## Preprints
@@ -121,8 +123,6 @@ library(markdown)
 ## Manuscripts in Preparation
 
 \hangindent = 2em \hangafter = 1 Shao, S. J., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *The inertia-instability paradox across timescales: Decomposing within- and between-person pathways linking affect dynamics to depression trajectories*. [In preparation]. Department of Psychology, Florida International University.
-
-\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2025). *Preliminary evidence that autistic youth engage in more moderate-to-vigorous physical activity outdoors compared to indoors*. [In preparation]. Department of Human Centered Design, Cornell University.
 
 ## Software Development
 
