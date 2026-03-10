@@ -124,6 +124,8 @@ library(markdown)
 
 \hangindent = 2em \hangafter = 1 Shao, S. J., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *The inertia-instability paradox across timescales: Decomposing within- and between-person pathways linking affect dynamics to depression trajectories*. [In preparation]. Department of Psychology, Florida International University.
 
+\hangindent = 2em \hangafter = 1 St Clair, L. M., Hopf-Dennis, C., Buckles, E., **Wilcox, K.T.**, & Childs-Sanford, S. E. (2026). *Morbidity and mortality of bald eagles (*Haliaeetus Leucocephalus*) admitted to a wildlife hospital in New York state from 2013-2023*. [In preparation]. Janet L. Swanson Wildlife Hospital and Department of Clinical Sciences, Cornell University.
+
 ## Software Development
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2021). *psychtm: Text mining methods for psychological research* (Version 2021.1.0) [Computer software]. <https://cran.r-project.org/package=psychtm>
