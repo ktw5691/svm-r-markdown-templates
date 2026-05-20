@@ -56,7 +56,7 @@ library(markdown)
 
 ## Refereed Journal Articles
 
-\hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). Genotype-aortic phenotype correlations in Marfan Syndrome: A systematic review and meta-analysis of FBN1 variants. [Accepted]. *Heart*.
+\hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). Genotype-aortic phenotype correlations in Marfan syndrome: A systematic review and meta-analysis of Fibrillin-1 variants. *Heart*, heartjnl-2025-326810. <https://doi.org/10.1136/heartjnl-2025-326810>
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*. <https://doi.org/10.3758/s13420-025-00687-y>
 
@@ -164,7 +164,7 @@ library(markdown)
 
 # CONFERENCE ACTIVITY
 
-\hangindent = 2em \hangafter = 1 Korukonda, S., Longenecker, C., & **Wilcox, K. T.**. (2026, July 26--31). Sex-based differences in coronary plaque formation among PLWH – Systematic review and meta-analysis. 26th International AIDS Conference, Rio de Janeiro, Brazil.
+\hangindent = 2em \hangafter = 1 Korukonda, S., Kovuri, P., **Wilcox, K. T.**, Zanni, M., & Longenecker, C. (2026, July 26--31). Sex-based differences in coronary plaque formation among PLWH – Systematic review and meta-analysis. 26th International AIDS Conference, Rio de Janeiro, Brazil. <https://programme.aids2026.org/Abstract/Abstract/?abstractid=8874>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**. (2023, July 20--23). An integrative data analysis of positive psychology interventions. In J. Moskowitz (Chair), *IPPA past president's symposium: Emerging topics in positive psychological interventions* [Invited symposium]. 8th International Positive Psychology Association World Congress, Vancouver, Canada.
 
