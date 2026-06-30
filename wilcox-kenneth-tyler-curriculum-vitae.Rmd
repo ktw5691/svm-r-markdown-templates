@@ -56,17 +56,19 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth. [Accepted]. *Environmental Research Communications*. Advance online publication. <https://doi.org/10.1088/2515-7620/ae8225>
+
+\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2026). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*, *54*(1), 37--59. <https://doi.org/10.3758/s13420-025-00687-y>
+
 \hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). Genotype-aortic phenotype correlations in Marfan syndrome: A systematic review and meta-analysis of Fibrillin-1 variants. *Heart*, heartjnl-2025-326810. <https://doi.org/10.1136/heartjnl-2025-326810>
 
-\hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2025). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*. <https://doi.org/10.3758/s13420-025-00687-y>
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. *Journal of Comparative Psychology*. Advance online publication. <https://doi.org/10.1037/com0000436>
 
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. [Accepted]. *Journal of Comparative Psychology*. <https://doi.org/10.1037/com0000436>
+\hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Fang, Y., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2025). Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox. *Emotion*, *25*(4), 1060--1064. <https://doi.org/10.1037/emo0001465>
 
 \hangindent = 2em \hangafter = 1 Korukonda, S., Erukulla, N., Kovuri, P., Harris, J. R., Kovuri, P., & **Wilcox, K. T.**. (2025). Cardiovascular disease burden in the homeless population. *Open Heart*, *12*(1), e003190. <https://doi.org/10.1136/openhrt-2025-003190>
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., **Wilcox, K. T.**, Reid, M. C., Wethington, E., Cintron, D. W., Addington, E. L., Goktas, S., & Moskowitz, J. T. (2024). Targeting daily positive experiences to improve emotional and functional well-being in adults with fibromyalgia: Insights from the LARKSPUR randomized controlled trial. *Journal of Medical Internet Research*, *28*, e54678. <https://doi.org/10.2196/54678>
-
-\hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Fang, Y., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2024). Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox. *Emotion*, Advance online publication. <https://doi.org/10.1037/emo0001465>
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.**, Jacobucci, R., Dixon-Gordon, K. L., Waite, E. E., McCloskey, M. S., & Ammerman, B. A. (2024). A text mining approach to characterizing interpersonal stress among individuals with a nonsuicidal self-injury history. *Current Psychology*, *43*, 10075--10085. <https://doi.org/10.1007/s12144-023-05056-4>
 
@@ -110,9 +112,9 @@ library(markdown)
 
 ## Manuscripts in Submission
 
-\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). *Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth*. [Submitted]. Department of Human Centered Design, Cornell University.
+\hangindent = 2em \hangafter = 1 Shao, S., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *Blue again: Depression and affective persistence across multiple timescales*. [Submitted]. Department of Psychology, Florida International University.
 
-\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2026). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for behavioral processes*. [Submitted]. Department of Psychology, Florida International University.
+\hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2026). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for psychological processes*. [Submitted]. Department of Psychology, Florida International University.
 
 ## Preprints
 
@@ -121,8 +123,6 @@ library(markdown)
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, & Morgenstern, J. (2023). *Understanding the autoregressive process of drinking among individuals with alcohol use disorder.* [Submitted]. Department of Psychology, University of Notre Dame. <https://doi.org/10.31234/osf.io/236dk>
 
 ## Manuscripts in Preparation
-
-\hangindent = 2em \hangafter = 1 Shao, S. J., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *The inertia-instability paradox across timescales: Decomposing within- and between-person pathways linking affect dynamics to depression trajectories*. [In preparation]. Department of Psychology, Florida International University.
 
 \hangindent = 2em \hangafter = 1 St Clair, L. M., Hopf-Dennis, C., Buckles, E., **Wilcox, K.T.**, & Childs-Sanford, S. E. (2026). *Morbidity and mortality of bald eagles (*Haliaeetus Leucocephalus*) admitted to a wildlife hospital in New York state from 2013-2023*. [In preparation]. Janet L. Swanson Wildlife Hospital and Department of Clinical Sciences, Cornell University.
 
@@ -230,12 +230,30 @@ United States.
 ### Invited Lectures
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2025, November 20). *An Introduction to Regression in R for Developmental Psychologists*. Invited Lecture, Department of Psychology, Cornell University, Ithaca, NY.
 
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, June 20). *Working with Complex Survey Weights*. Invited Lecture, Department of Government, Cornell University, Ithaca, NY.
+
 ### Workshops
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, March 23). *Nonparametric Statistical Methods*. Workshop, Cornell University, Ithaca, NY.
 
 \hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, February 10). *Equivalence Testing*. Workshop, Cornell University, Ithaca, NY.
 
-\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2026, February 10). *Working with Complex Survey Weights*. Workshop, Department of Government, Cornell University, Ithaca, NY.
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2025, November 20). *An Introduction to Regression in R for Developmental Psychologists*. Workshop, Department of Psychology, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2025, October 23). *Introduction to Modeling Count Data*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2025, February 28). *Introduction to Meta-analysis*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, November 4). *Introduction to Network Analysis*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, September 11--25). *Introductory Statistics in R*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, June 14). *Working with Complex Survey Weights*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, March 15). *Introduction to Modeling Count Data*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, March 1). *Introduction to Meta-analysis*. Workshop, Cornell University, Ithaca, NY.
+
+\hangindent = 2em \hangafter = 1 **Wilcox, K. T.** (2024, January 29--February 12). *Introductory Statistics in R*. Workshop, Cornell University, Ithaca, NY.
 
 ## University of Notre Dame
 
