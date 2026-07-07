@@ -105,6 +105,8 @@ library(markdown)
 
 ## Manuscripts in Submission
 
+\hangindent = 2em \hangafter = 1 Tebbutt, C. A., Loaiza, C., Lucena Gavilán, D. A. L., Riaño, W. A. R., Cohen, D. V., Rocha, D. F., Mendiwelso, M. E., Simamora, T. I., **Wilcox, K. T.**, Morreale, S. J., Allred, S. B., Alvarez, S. J., & Symes, L. B. (2026). *Expert-validated forest-dependent bird species vocalisations and thresholds for BirdNET Analyzer 2.4 and a custom classifier in the Colombian Amazon*. [Submitted]. Department of Natural Resources and the Environment, Cornell University.
+
 \hangindent = 2em \hangafter = 1 Shao, S., Wang, L., Fang, Y., Zhang, G., Joiner, R., **Wilcox, K.T.**, Bergeman, C. S., & Ong, A. D. (2026). *Blue again: Depression and affective persistence across multiple timescales*. [Submitted]. Department of Psychology, Florida International University.
 
 \hangindent = 2em \hangafter = 1 Shao, S., Kuerbis, A., **Wilcox, K. T.**, Kelley, K., & Ong, A. (2026). *Modeling inertia in intensive longitudinal count data: A multilevel log-linear Poisson autoregressive approach for psychological processes*. [Submitted]. Department of Psychology, Florida International University.
