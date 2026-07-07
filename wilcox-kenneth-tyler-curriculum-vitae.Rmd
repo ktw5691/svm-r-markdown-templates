@@ -1,26 +1,19 @@
 ---
+title: "Curriculum Vitae"
+author: "Kenneth Tyler Wilcox"
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: svm-latex-cv.tex
+    template: "svm-latex-cv.tex"
 geometry: margin=1in
-
-title: "Curriculum Vitae"
-author: "Kenneth Tyler Wilcox"
-
-jobtitle: "Statistical Consultant, Cornell University"
-address: "304 Savage Hall · Cornell Statistical Consulting Unit · Ithaca, NY 14853"
-fontawesome: yes
+jobtitle: Statistical Consultant, Cornell University
+address: 304 Savage Hall · Cornell Statistical Consulting Unit · Ithaca, NY 14853
+fontawesome: true
 email: ktwilcox@cornell.edu
-# phone: "315 209 7252"
 github: ktw5691
-# osf: "5 digit string here"
 orcid: "0000-0003-3969-0427"
 web: ktylerwilcox.me
-updated: yes
-
-# keywords: Quantitative psychology, statistics, data mining # Does not seem to do anything
-
+updated: true
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 12 pt
@@ -56,7 +49,7 @@ library(markdown)
 
 ## Refereed Journal Articles
 
-\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth. [Accepted]. *Environmental Research Communications*. Advance online publication. <https://doi.org/10.1088/2515-7620/ae8225>
+\hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth. *Environmental Research Communications*, *8*(7), 071003. <https://doi.org/10.1088/2515-7620/ae8225>
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2026). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*, *54*(1), 37--59. <https://doi.org/10.3758/s13420-025-00687-y>
 
