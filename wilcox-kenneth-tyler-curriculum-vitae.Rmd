@@ -49,13 +49,13 @@ library(markdown)
 
 ## Refereed Journal Articles
 
+\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2026). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. *Journal of Comparative Psychology*, *140*(3), 208-222. <https://doi.org/10.1037/com0000436>
+
 \hangindent = 2em \hangafter = 1 Mateer, T. J., Xie, D., Cho, J. Y., Castellano, F., **Wilcox, K.T.**, le Roux Ohm, H., Lantz, J., & Wells, N. M. (2026). Natural landscapes support higher rates of moderate-to-vigorous physical activity compared to an indoor exercise environment for autistic youth. *Environmental Research Communications*, *8*(7), 071003. <https://doi.org/10.1088/2515-7620/ae8225>
 
 \hangindent = 2em \hangafter = 1 DeLong, C. M., Gardner, K., Wegman, J. J., & **Wilcox, K.T.** (2026). Visual perception of rotated chromatic and achromatic 3D stimuli in goldfish (*Carassius auratus*). *Learning & Behavior*, *54*(1), 37--59. <https://doi.org/10.3758/s13420-025-00687-y>
 
 \hangindent = 2em \hangafter = 1 Korukonda, S., Byers, P. H., Dabarra, H., Kovuri, P., Dhanekula, A., **Wilcox, K. T.**, & DeRoo, S. (2025). Genotype-aortic phenotype correlations in Marfan syndrome: A systematic review and meta-analysis of Fibrillin-1 variants. *Heart*, heartjnl-2025-326810. <https://doi.org/10.1136/heartjnl-2025-326810>
-
-\hangindent = 2em \hangafter = 1 Wegman, J. J., Wright, C., **Wilcox, K. T.**, & DeLong, C. M. (2025). Learning to discriminate between shapes generalizes to novel stimuli in North American river otters (*Lontra canadensis*): A preliminary study on perceptual categorization. *Journal of Comparative Psychology*. Advance online publication. <https://doi.org/10.1037/com0000436>
 
 \hangindent = 2em \hangafter = 1 Ong, A. D., Wang, L., Fang, Y., Zhang, G., Joiner, R. J., **Wilcox, K. T.**, & Bergeman, C. S. (2025). Affect dynamics and depressive symptomatology: Revisiting the inertia--instability paradox. *Emotion*, *25*(4), 1060--1064. <https://doi.org/10.1037/emo0001465>
 
